@@ -22693,13 +22693,13 @@ zoom,https://stream1.freetv.fun/zoom-2.m3u8
 🤫低调,https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4
 
 🕒更新时间,#genre#
-20251223 18:43:11,https://vdse.bdstatic.com/h265/bd3c7f7ecb332b346a5123b7706b23b7a7.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10822798544838175211&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.8&vid=8848322944041941217&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=1&h265_s=1&sl=157&sle=1&split=419421
-👨潇然,https://vdse.bdstatic.com//2679aa1b51cee839db4a161b3a3c9716.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-17T21%3A50%3A33Z%2F-1%2Fhost%2F98b210c16a6090809622a15e06635781fa717a05c4a3edd36d2baca03b1df517&vid=9239605111675077969
-💯推荐,http://em.21dtv.com/songs/60037364.mkv
-🤫低调,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240221687198.mp4
-🟢使用,http://em.21dtv.com/songs/60026690.mkv
-⚠️禁止,http://vd3.bdstatic.com/mda-jfdvpsg280t986rz/mda-jfdvpsg280t986rz.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-🚫贩卖,http://em.21dtv.com/songs/60009367.mkv
+20251223 18:33:35,https://vdse.bdstatic.com//3bc628ea0ad380d9ba398f4d24a10ce7.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-18T10%3A00%3A52Z%2F-1%2Fhost%2F13891e85d2a86447ef97f48ff6f640921635cf98033e574d884b1e83822e505a&vid=15337766710822094129
+👨潇然,https://vdse.bdstatic.com//78b7b6f9909e9012f7d3d27b39147160.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-18T14%3A24%3A12Z%2F-1%2Fhost%2F0b795c08d9a49f6228a821e9d1e536b442f8544a2d01c60d360d463d290eb6e6
+💯推荐,http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
+🤫低调,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070346911.mp4
+🟢使用,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240002044738.mp4
+⚠️禁止,https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4
+🚫贩卖,http://vd3.bdstatic.com/mda-jfrred8ck6pnh6bq/mda-jfrred8ck6pnh6bq.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 🌆CGTN频道#genre#
 CGTN News,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
