@@ -1,4 +1,4 @@
-name: '🔄 xiaoran67☞xiaoran37 xiaoran37'
+name: 🔄 Cross Repository synchroniza
 # Cross-repository synchronization（时间戳+大小双校验）
 # 跨仓库同步（高效增量+覆盖）🔄🔀♻️⚡🚀🌐🔧✅
 on:
@@ -8,7 +8,7 @@ on:
         description: '源仓库信息（用户/仓库名@分支）'
         type: string
         required: true
-        default: 'xiaoran67/xiaoran37@main'
+        default: 'xiaoran67/core@main'
       source_folder:
         description: '源仓库同步路径（留空=根目录）'
         type: string
@@ -24,7 +24,7 @@ on:
         description: '目标仓库信息（用户/仓库名@分支）'
         type: string
         required: true
-        default: 'xiaoran37/xiaoran37@main'
+        default: 'xiaoran37/core@main'
       target_folder:
         description: '目标仓库接收路径（留空=根目录）'
         type: string
