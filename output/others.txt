@@ -548,7 +548,6 @@ cctv5,https://stream1.freetv.fun/cctv5-35.m3u8
 cctv5 plus,https://stream1.freetv.fun/cctv5-plus-49.m3u8
 cctv5 plus,https://stream1.freetv.fun/cctv5-plus-29.ctv
 cctv5 plus,https://stream1.freetv.fun/cctv5-plus-48.ctv
-[]cctv6电影,https://stream1.freetv.fun/cctv6dian-ying-1.ctv
 cctv-6,https://stream1.freetv.fun/cctv-6gao-qing-2.m3u8
 cctv6,https://stream1.freetv.fun/cctv6-72.m3u8
 cctv6,https://stream1.freetv.fun/cctv6-56.ctv
@@ -1718,6 +1717,7 @@ Dunia Sinema *tt,https://stream1.freetv.fun/dunia-sinema--tt-1.m3u8
 []Dunia Sinema *a,https://stream1.freetv.fun/dunia-sinema--a-1.m3u8
 ช่อง dunia sinema,https://stream1.freetv.fun/ch-ng-dunia-sinema-1.m3u8
 []ช่อง disney xd,https://stream1.freetv.fun/ch-ng-disney-xd-1.m3u8
+[]disney xd,https://stream1.freetv.fun/disney-xd-8.m3u8
 []lemar tv,https://stream1.freetv.fun/lemar-tv-1.m3u8
 []arax tv,https://stream1.freetv.fun/arax-tv-1.m3u8
 []arvan tv,https://stream1.freetv.fun/arvan-tv-1.m3u8
@@ -1853,6 +1853,7 @@ eko tv,https://stream1.freetv.fun/eko-tv-3.ctv
 dltv 5 (p),https://stream1.freetv.fun/dltv-5-2.m3u8
 []4fun.tv,https://stream1.freetv.fun/4fun-tv-4.m3u8
 []seven channel,https://stream1.freetv.fun/seven-channel-1.m3u8
+[]tvp 1,https://stream1.freetv.fun/tvp-1-3.m3u8
 []tv land,https://stream1.freetv.fun/tv-land-2.m3u8
 []tv land,https://stream1.freetv.fun/tv-land-1.m3u8
 tv 1,https://stream1.freetv.fun/tv-1-1.m3u8
@@ -2079,12 +2080,12 @@ cna,https://stream1.freetv.fun/cna-4.m3u8
 channel 5,https://stream1.freetv.fun/channel-5-3.m3u8
 channel 8,https://stream1.freetv.fun/channel-8-3.m3u8
 channel 8,https://stream1.freetv.fun/channel-8-2.m3u8
-cinema world,https://stream1.freetv.fun/cinema-world-4.m3u8
 cinema world,https://stream1.freetv.fun/cinema-world-1.m3u8
 cinema world,https://stream1.freetv.fun/cinema-world-2.m3u8
 cinema world,https://stream1.freetv.fun/cinema-world-5.m3u8
 cinema world,https://stream1.freetv.fun/cinema-world-6.m3u8
 cinema world,https://stream1.freetv.fun/cinema-world-7.m3u8
+cinema world,https://stream1.freetv.fun/cinema-world-4.m3u8
 cinema world *4g,https://stream1.freetv.fun/cinema-world--4g-1.m3u8
 comedy central *vp,https://stream1.freetv.fun/comedy-central--vp-1.ctv
 hbo hits *vp,https://stream1.freetv.fun/hbo-hits--vp-1.ctv
@@ -2861,7 +2862,6 @@ roll,https://stream1.freetv.fun/roll-1.m3u8
 []经典港片电影,https://stream1.freetv.fun/jing-dian-gang-pian-dian-ying-1.ctv
 []经典港片电影,https://stream1.freetv.fun/jing-dian-gang-pian-dian-ying-2.ctv
 []经典电影重温,https://stream1.freetv.fun/jing-dian-dian-ying-zhong-wen-2.ctv
-[]经典香港电影,https://stream1.freetv.fun/jing-dian-xiang-gang-dian-ying-1.ctv
 []纬来日本,rtmp://f13h.mine.nu/sat/tv771
 []纬来精彩,https://stream1.freetv.fun/wei-lai-jing-cai-1.m3u8
 []纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -3620,7 +3620,7 @@ Fox News *a,https://stream1.freetv.fun/fox-news--a-1.m3u8
 []ช่อง fox news channel,https://stream1.freetv.fun/ch-ng-fox-news-channel-1.m3u8
 []ช่อง fox sports 1,https://stream1.freetv.fun/ch-ng-fox-sports-1-1.m3u8
 []fox weather,https://stream1.freetv.fun/fox-weather-3.m3u8
-futura,https://stream1.freetv.fun/futura-1.m3u8
+[]futura,https://stream1.freetv.fun/futura-1.m3u8
 []golf channel ==,https://stream1.freetv.fun/golf-channel-1.ctv
 golf channel *vp,https://stream1.freetv.fun/golf-channel--vp-1.ctv
 []astro golf *vv,https://stream1.freetv.fun/astro-golf--vv-1.ctv
@@ -10193,7 +10193,6 @@ oman tv,https://stream1.freetv.fun/oman-tv-3.m3u8
 ptc punjabi,https://stream1.freetv.fun/ptc-punjabi-1.m3u8
 spacetoon arabic,https://stream1.freetv.fun/spacetoon-arabic-1.m3u8
 sony sports ten 1,https://stream1.freetv.fun/sony-sports-ten-1-3.ctv
-star sports 1 tamil,https://stream1.freetv.fun/star-sports-1-tamil-2.ctv
 ton tv,https://stream1.freetv.fun/ton-tv-1.m3u8
 tokyo mx チャンネル,https://stream1.freetv.fun/tokyo-mx-chiyanneru-1.m3u8
 tvri world,https://stream1.freetv.fun/tvri-world-6.m3u8
@@ -10274,7 +10273,6 @@ logos tv,https://stream1.freetv.fun/logos-tv-3.m3u8
 华数经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-10.m3u8
 miracle tv,https://stream1.freetv.fun/miracle-tv-1.m3u8
 miracle tv,https://stream1.freetv.fun/miracle-tv-2.m3u8
-tvp 1,https://stream1.freetv.fun/tvp-1-3.m3u8
 gemini movies,https://stream1.freetv.fun/gemini-movies-2.ctv
 华数经典电影,https://cdn.iptv8k.top/dl/jrys.php?id=396&time=20240926215313&ip=111.229.253.40
 华数经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-9.ctv
@@ -11018,7 +11016,6 @@ Travel,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b67611
 []cnbc,https://stream1.freetv.fun/cnbc-6.ctv
 []datis tv,https://stream1.freetv.fun/datis-tv-1.m3u8
 []dharshan tv,https://stream1.freetv.fun/dharshan-tv-1.m3u8
-[]disney xd,https://stream1.freetv.fun/disney-xd-8.m3u8
 []disney channel,https://stream1.freetv.fun/disney-channel-14.m3u8
 []disney channel,https://stream1.freetv.fun/disney-channel-9.m3u8
 []dnj tv,https://stream1.freetv.fun/dnj-tv-1.m3u8
@@ -12397,7 +12394,6 @@ CCTV-,http://144.255.32.94:8288/rtp/239.21.2.152:5002
 天津卫视,http://121.235.95.126:8199/rtp/239.49.8.148:6000
 重庆卫视,http://121.235.95.126:8199/rtp/239.49.8.57:9830
 重庆卫视,http://113.15.109.216:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-79.ctv
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-10.m3u8
 重庆卫视,https://stream1.freetv.fun/zhong-qing-wei-shi-57.m3u8
 重庆卫视,http://121.29.141.118:4022/rtp/239.253.92.10:6053
@@ -13157,6 +13153,7 @@ star pravah,https://stream1.freetv.fun/star-pravah-2.ctv
 net tv,https://stream1.freetv.fun/net-tv-2.ctv
 sony pix,https://stream1.freetv.fun/sony-pix-1.ctv
 star vijay,https://stream1.freetv.fun/star-vijay-2.ctv
+star sports 1 tamil,https://stream1.freetv.fun/star-sports-1-tamil-2.ctv
 sun music,https://stream1.freetv.fun/sun-music-1.ctv
 prima,https://stream1.freetv.fun/prima-1.ctv
 suria,https://stream1.freetv.fun/suria-2.ctv
