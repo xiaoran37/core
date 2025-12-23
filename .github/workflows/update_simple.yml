@@ -1,4 +1,4 @@
-name: Update simple ☞ ✔️
+name: 🚀 Update simple ☞ ✔️
 on:
   push:
     paths:
@@ -48,3 +48,5 @@ jobs:
 
       - name: 调试输出
         run: echo "✅ 执行完成，触发源：${{ github.event_name }}"
+
+

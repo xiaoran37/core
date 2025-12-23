@@ -1,4 +1,4 @@
-name: 🔀 Cross Repository Multi-Platform Sync
+name: '🔀 xiaoran67☞xiaoran37 inbox'
 # Cross Repository Multi-Platform Sync
 # 跨仓库多平台同步（增量+覆盖）🔄🔀♻️⚡🚀🌐🔧✅
 on:
@@ -8,7 +8,7 @@ on:
       source_repo:
         description: '源仓库（格式：用户名/仓库名@分支）'
         required: true
-        default: 'xiaoran67/update@main'
+        default: 'xiaoran67/inbox@main'
         type: string
       
       source_folder:
@@ -27,7 +27,7 @@ on:
       target_repo:
         description: '目标仓库（格式：用户名/仓库名@分支）'
         required: true
-        default: 'xiaoran37/update@main'
+        default: 'xiaoran37/inbox@main'
         type: string
       
       target_folder:
@@ -352,3 +352,4 @@ jobs:
           echo "3. 检查文件夹路径是否正确"
           echo "4. 检查网络连接是否正常"
           exit 1
+
