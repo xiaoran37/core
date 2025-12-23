@@ -1,4 +1,4 @@
-name: 🚀 Update simple ☞ ✔️
+name: 🚀 Update simple
 on:
   push:
     paths:
