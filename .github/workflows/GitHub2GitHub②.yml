@@ -1,0 +1,350 @@
+name: '🔄 GitHub → GitHub Batch Sync Force'
+# name: '🔄 GitHub → GitHub 批量强制覆盖同步'
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_repo:
+        description: '源仓库信息（用户/仓库名@分支）'
+        type: string
+        required: true
+        default: 'xiaoran67/core@main'
+      source_folder:
+        description: '源仓库同步路径（留空=根目录）'
+        type: string
+        required: false
+        default: ''
+      source_token_name:
+        description: '源仓库Token的Secret名称'
+        type: string
+        required: true
+        default: 'XIAORAN67_GITHUB_TOKEN'
+
+jobs:
+  batch-sync:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        target_config:
+          - {user: 'xiaoran29', repo: 'update', branch: 'main', token_name: 'XIAORAN29_GITHUB_TOKEN'}
+          - {user: 'xiaoran29', repo: 'core', branch: 'main', token_name: 'XIAORAN29_GITHUB_TOKEN'}
+          - {user: 'xiaoran37', repo: 'update', branch: 'main', token_name: 'XIAORAN37_GITHUB_TOKEN'}
+          - {user: 'xiaoran37', repo: 'core', branch: 'main', token_name: 'XIAORAN37_GITHUB_TOKEN'}
+          - {user: 'xiaoran67', repo: 'update', branch: 'main', token_name: 'XIAORAN67_GITHUB_TOKEN'}
+          - {user: 'xiaoran85', repo: 'update', branch: 'main', token_name: 'XIAORAN85_GITHUB_TOKEN'}
+          - {user: 'xiaoran85', repo: 'core', branch: 'main', token_name: 'XIAORAN85_GITHUB_TOKEN'}
+          - {user: 'xiaoran012', repo: 'update', branch: 'main', token_name: 'XIAORAN012_GITHUB_TOKEN'}
+          - {user: 'xiaoran012', repo: 'core', branch: 'main', token_name: 'XIAORAN012_GITHUB_TOKEN'}
+          - {user: 'xiaoran077', repo: 'update', branch: 'main', token_name: 'XIAORAN077_GITHUB_TOKEN'}
+          - {user: 'xiaoran077', repo: 'core', branch: 'main', token_name: 'XIAORAN077_GITHUB_TOKEN'}
+          - {user: 'xiaoranmuze', repo: 'update', branch: 'main', token_name: 'XIAORANMUZE_GITHUB_TOKEN'}
+          - {user: 'xiaoranmuze', repo: 'core', branch: 'main', token_name: 'XIAORANMUZE_GITHUB_TOKEN'}
+    
+    steps:
+      # 1. 生成统一同步时间
+      - name: ⏰ 生成统一同步时间
+        id: sync_time
+        run: |
+          SYNC_TIMESTAMP=$(date +'%Y-%m-%d %H:%M:%S')
+          echo "🕐 本次同步基准时间: $SYNC_TIMESTAMP"
+          echo "SYNC_TIMESTAMP=$SYNC_TIMESTAMP" >> $GITHUB_ENV
+          echo "timestamp=$SYNC_TIMESTAMP" >> $GITHUB_OUTPUT
+
+      # 2. 解析源仓库
+      - name: 🧩 解析源仓库
+        id: parse_source
+        run: |
+          if ! echo "${INPUT_SOURCE_REPO}" | grep -qE '^[a-zA-Z0-9-]+/[a-zA-Z0-9-]+@[a-zA-Z0-9-]+$'; then
+            echo "❌ 错误：源仓库格式应为 用户名/仓库名@分支" && exit 1
+          fi
+          IFS='/@' read -r source_user source_repo source_branch <<< "${INPUT_SOURCE_REPO}"
+          echo "source_user=${source_user}" >> $GITHUB_ENV
+          echo "source_repo=${source_repo}" >> $GITHUB_ENV
+          echo "source_branch=${source_branch}" >> $GITHUB_ENV
+        env:
+          INPUT_SOURCE_REPO: ${{ inputs.source_repo }}
+
+      # 3. 设置目标仓库变量
+      - name: 🎯 设置目标仓库信息
+        run: |
+          echo "target_user=${{ matrix.target_config.user }}" >> $GITHUB_ENV
+          echo "target_repo=${{ matrix.target_config.repo }}" >> $GITHUB_ENV
+          echo "target_branch=${{ matrix.target_config.branch }}" >> $GITHUB_ENV
+          echo "target_token_name=${{ matrix.target_config.token_name }}" >> $GITHUB_ENV
+          echo "target_repo_token=${{ secrets[matrix.target_config.token_name] }}" >> $GITHUB_ENV
+
+      # 4. 校验Token存在性
+      - name: 🔑 校验Token
+        run: |
+          echo "检查源仓库Token: ${{ inputs.source_token_name }}"
+          if [ -z "${{ secrets[inputs.source_token_name] }}" ]; then
+            echo "❌ 错误：源仓库Token '${{ inputs.source_token_name }}' 不存在"
+            exit 1
+          fi
+          
+          echo "检查目标仓库Token: ${{ env.target_token_name }}"
+          if [ -z "${{ secrets[env.target_token_name] }}" ]; then
+            echo "❌ 错误：目标仓库Token '${{ env.target_token_name }}' 不存在"
+            exit 1
+          fi
+          
+          echo "✅ Token校验通过"
+
+      # 5. 检查并准备目标仓库（修复分支问题）
+      - name: 💣 检查并准备目标仓库
+        id: prepare_repo
+        run: |
+          TARGET_TOKEN="${{ env.target_repo_token }}"
+          
+          echo "=== 处理目标仓库: ${{ env.target_user }}/${{ env.target_repo }} ==="
+          
+          # 检查仓库是否存在
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -H "Authorization: token $TARGET_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ env.target_user }}/${{ env.target_repo }}")
+          
+          echo "仓库状态码: $HTTP_STATUS"
+          
+          if [ "$HTTP_STATUS" -eq 404 ]; then
+            echo "📦 仓库不存在，创建新仓库..."
+            
+            CREATE_BODY=$(jq -n \
+              --arg name "${{ env.target_repo }}" \
+              --argjson private false \
+              --arg default_branch "${{ env.target_branch }}" \
+              '{
+                "name": $name,
+                "private": $private,
+                "auto_init": true,
+                "default_branch": $default_branch
+              }')
+            
+            echo "创建请求体: $CREATE_BODY"
+            
+            CREATE_RESPONSE=$(curl -s -w "\n%{http_code}" \
+              -X POST \
+              -H "Authorization: token $TARGET_TOKEN" \
+              -H "Accept: application/vnd.github+json" \
+              -H "Content-Type: application/json" \
+              "https://api.github.com/user/repos" \
+              -d "$CREATE_BODY")
+            
+            HTTP_CODE=$(echo "$CREATE_RESPONSE" | tail -n1)
+            RESPONSE_BODY=$(echo "$CREATE_RESPONSE" | head -n -1)
+            
+            echo "创建响应码: $HTTP_CODE"
+            echo "创建响应体: $RESPONSE_BODY"
+            
+            if [ "$HTTP_CODE" -eq 201 ]; then
+              echo "✅ 仓库创建成功"
+              echo "REPO_CREATED=true" >> $GITHUB_OUTPUT
+              echo "NEEDS_EMPTY_COMMIT=false" >> $GITHUB_OUTPUT
+              sleep 3  # 等待GitHub处理
+            else
+              echo "❌ 仓库创建失败"
+              exit 1
+            fi
+            
+          elif [ "$HTTP_STATUS" -eq 200 ]; then
+            echo "📁 仓库已存在"
+            echo "REPO_CREATED=false" >> $GITHUB_OUTPUT
+            echo "NEEDS_EMPTY_COMMIT=false" >> $GITHUB_OUTPUT
+            
+            # 不需要清空，直接覆盖即可
+            echo "ℹ️ 仓库已存在，将直接覆盖内容"
+            
+          else
+            echo "❌ 无法访问仓库，HTTP状态码: $HTTP_STATUS"
+            exit 1
+          fi
+
+      # 6. 克隆源仓库
+      - name: 📥 克隆源仓库
+        run: |
+          echo "=== 克隆源仓库 ==="
+          rm -rf source_repo
+          
+          SOURCE_TOKEN="${{ secrets[inputs.source_token_name] }}"
+          echo "使用Token: ${{ inputs.source_token_name }}"
+          
+          git clone \
+            --branch "${{ env.source_branch }}" \
+            --depth 1 \
+            --quiet \
+            "https://$SOURCE_TOKEN@github.com/${{ env.source_user }}/${{ env.source_repo }}.git" \
+            source_repo
+          
+          echo "✅ 源仓库克隆完成"
+          echo "源仓库路径: $(pwd)/source_repo"
+          ls -la source_repo/
+
+      # 7. 准备目标文件
+      - name: 📁 准备目标文件
+        run: |
+          echo "=== 准备目标文件 ==="
+          
+          # 清理旧目录
+          rm -rf target_prepared
+          mkdir -p target_prepared
+          
+          # 确定源路径
+          if [ -z "${{ inputs.source_folder }}" ] || [ "${{ inputs.source_folder }}" = "/" ]; then
+            SOURCE_PATH="source_repo"
+          else
+            SOURCE_PATH="source_repo/${{ inputs.source_folder }}"
+          fi
+          
+          echo "源路径: $SOURCE_PATH"
+          
+          # 检查源路径是否存在
+          if [ ! -d "$SOURCE_PATH" ] && [ ! -f "$SOURCE_PATH" ]; then
+            echo "❌ 错误：源路径不存在: $SOURCE_PATH"
+            ls -la source_repo/
+            exit 1
+          fi
+          
+          # 复制文件
+          echo "📋 复制文件到目标目录..."
+          
+          if [ -d "$SOURCE_PATH" ]; then
+            # 如果是目录，复制整个目录
+            cp -r "$SOURCE_PATH/." target_prepared/
+          else
+            # 如果是单个文件，复制文件
+            cp "$SOURCE_PATH" target_prepared/
+          fi
+          
+          # 确保没有.git目录被复制
+          rm -rf target_prepared/.git 2>/dev/null || true
+          
+          echo "✅ 文件准备完成"
+          echo "目标目录内容:"
+          ls -la target_prepared/
+          echo "文件数量: $(find target_prepared -type f | wc -l)"
+
+      # 8. 创建新Git仓库并推送（核心修复步骤）
+      - name: 📤 创建并推送Git仓库
+        run: |
+          echo "=== 创建Git仓库并推送 ==="
+          
+          cd target_prepared
+          
+          # 初始化Git仓库，指定分支
+          echo "初始化Git仓库，分支: ${{ env.target_branch }}"
+          git init
+          git checkout -b "${{ env.target_branch }}" 2>/dev/null || git branch -M "${{ env.target_branch }}"
+          
+          # 配置Git用户
+          git config user.name "Sync Bot"
+          git config user.email "sync@noreply.github.com"
+          
+          # 设置统一的时间环境变量
+          export GIT_AUTHOR_DATE="${{ env.SYNC_TIMESTAMP }}"
+          export GIT_COMMITTER_DATE="${{ env.SYNC_TIMESTAMP }}"
+          
+          # 添加所有文件
+          echo "添加文件到Git..."
+          git add -A
+          
+          # 检查是否有文件可提交
+          if git status --porcelain | grep -q .; then
+            echo "有文件变更，执行提交"
+          else
+            echo "没有文件变更，创建空提交"
+            touch .sync_empty
+            git add .sync_empty
+          fi
+          
+          # 提交（强制使用统一时间）
+          COMMIT_MSG="☘️ ${{ env.SYNC_TIMESTAMP }}"
+          echo "提交信息: $COMMIT_MSG"
+          
+          git commit -m "$COMMIT_MSG" \
+            --date="${{ env.SYNC_TIMESTAMP }}"
+          
+          # 添加远程仓库
+          TARGET_TOKEN="${{ env.target_repo_token }}"
+          REPO_URL="https://$TARGET_TOKEN@github.com/${{ env.target_user }}/${{ env.target_repo }}.git"
+          
+          echo "添加远程仓库: ${{ env.target_user }}/${{ env.target_repo }}"
+          git remote add origin "$REPO_URL"
+          
+          # 强制推送
+          echo "🚀 强制推送中..."
+          git push --force --set-upstream origin "${{ env.target_branch }}"
+          
+          if [ $? -eq 0 ]; then
+            echo "✅ 推送成功"
+            echo "☘️ ${{ env.SYNC_TIMESTAMP }}"
+            
+            # 显示提交信息
+            echo "📋 提交详情:"
+            git log --oneline -1
+          else
+            echo "❌ 推送失败"
+            exit 1
+          fi
+
+      # 9. 验证推送结果
+      - name: ✅ 验证推送结果
+        run: |
+          echo "=== 验证推送结果 ==="
+          
+          TARGET_TOKEN="${{ env.target_repo_token }}"
+          
+          # 临时验证克隆
+          rm -rf verify_repo
+          
+          if git clone --quiet --depth 1 \
+            "https://$TARGET_TOKEN@github.com/${{ env.target_user }}/${{ env.target_repo }}.git" \
+            verify_repo 2>/dev/null; then
+            
+            cd verify_repo
+            echo "✅ 仓库可访问"
+            echo "🌿 当前分支: $(git branch --show-current)"
+            echo "📝 最新提交: $(git log --oneline -1)"
+            echo "📁 文件数: $(find . -type f ! -path './.git/*' | wc -l)"
+            
+            # 检查提交时间
+            COMMIT_DATE=$(git log -1 --format="%ad" --date=short)
+            COMMIT_TIME=$(git log -1 --format="%ad" --date=format:'%H:%M:%S')
+            echo "🕐 提交日期: $COMMIT_DATE $COMMIT_TIME"
+            
+            cd ..
+            rm -rf verify_repo
+          else
+            echo "⚠️  警告: 无法验证仓库访问"
+          fi
+          
+          echo ""
+          echo "=================== 同步摘要 ==================="
+          echo "✅ 同步完成: ${{ env.target_user }}/${{ env.target_repo }}"
+          echo "📅 统一时间: ${{ env.SYNC_TIMESTAMP }}"
+          echo "🔗 仓库地址: https://github.com/${{ env.target_user }}/${{ env.target_repo }}"
+          echo "================================================"
+
+      # 10. 清理工作区
+      - name: 🧹 清理工作区
+        if: always()
+        run: |
+          echo "=== 清理临时文件 ==="
+          rm -rf source_repo target_prepared verify_repo 2>/dev/null || true
+          echo "✅ 清理完成"
+
+      # 11. 最终状态报告
+      - name: 📊 最终状态报告
+        if: always()
+        run: |
+          echo ""
+          echo "🎯 本次同步详情"
+          echo "├─ 源仓库: ${{ env.source_user }}/${{ env.source_repo }}@${{ env.source_branch }}"
+          echo "├─ 源路径: ${{ inputs.source_folder || '根目录' }}"
+          echo "├─ 目标仓库: ${{ env.target_user }}/${{ env.target_repo }}@${{ env.target_branch }}"
+          echo "├─ 同步时间: ${{ env.SYNC_TIMESTAMP }}"
+          echo "└─ 同步方式: 强制完全覆盖"
+          echo ""
+          echo "📋 提交信息示例:"
+          echo "   ☘️ ${{ env.SYNC_TIMESTAMP }}"
+          echo ""
+          echo "✅ 该仓库同步流程结束"
