@@ -1,0 +1,268 @@
+{
+    "spider": "https://gitee.com/xiaoran67/update/raw/master/assets/subscribe/json/c/%E7%9F%AD%E5%89%A7.jar",
+    "warningText": "接口免费整理维护，请勿付费购买",
+    "lives": [
+        {
+            "name": "🐉 GH xiaoran67 full",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/output/full.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🐯 GH xiaoran67 custom",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/output/custom.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🦜 GH xiaoran67 lite",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/output/lite.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🐢 GH xiaoran67 result",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/output/result.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🎵 MTV.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/MTV.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🎶 music.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/music.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📡 中国综合.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/中国综合.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📺 全国高清.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/全国高清.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🌍 全球频道.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/全球频道.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "⭐ 卫视频道.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/卫视频道.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🏠 地方频道.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/地方频道.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🇨🇳 央视频道.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/央视频道.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🌈 彩虹直播.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/彩虹直播.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🐟 斗鱼直播.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/斗鱼直播.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🐯 虎牙直播.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/虎牙直播.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🎙️ 解说频道.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/解说频道.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📼 动·画·片.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/动·画·片.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🎭 历届春晚.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/历届春晚.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🍲 名菜食谱.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/名菜食谱.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🤣 小品点播.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/小品点播.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🎭 戏曲点播.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/戏曲点播.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📻 收·音·机.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/收·音·机.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🏞️ 景区直播.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/景区直播.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🎬 电影点播.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/电影点播.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🪷 菩提梵音.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/菩提梵音.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📹 记·录·片.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/记·录·片.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "♟️ 象棋入门.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/subscribe/source/b/favorite/象棋入门.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "🚫 blacklist_auto.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/livesource/blacklist/blacklist_auto.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "✅ whitelist_auto_tv.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/livesource/blacklist/whitelist_auto_tv.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "📝 whitelist_manual.txt",
+            "type": 0,
+            "url": "https://raw.githubusercontent.com/xiaoran67/core/refs/heads/main/assets/livesource/blacklist/whitelist_manual.txt",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+    "sites": [
+        {
+            "key": "cctv",
+            "name": "📺央视｜大全",
+            "type": 3,
+            "api": "csp_CCTV",
+            "searchable": 0,
+            "filterable": 0,
+            "ext": "https://gitee.com/lukei7/lib/raw/Luck/央视大全.json",
+            "jar": "https://gitee.com/lukei7/lib/raw/Luck/HeChengChaXiu.jar"
+        },
+        {
+            "key": "央视经典",
+            "name": "📺央视｜经典",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitee.com/lukei7/lib/raw/Luck/%E5%93%94%E5%93%A9%E7%BB%8F%E5%85%B8.json"
+        }
+    ]
+}
