@@ -1,4 +1,4 @@
-# 更新标记: 2026-02-22 21:58:54
+# 更新标记: 2026-02-23 22:27:03
 🌐央视频道,#genre#
 CCTV1,http://play.kankanlive.com/live/1698234869325962.m3u8
 CCTV2,http://60.4.29.141:8077/rtp/239.253.92.190:6065
@@ -15,7 +15,7 @@ CCTV12,http://60.4.29.141:8077/rtp/239.253.92.197:6062
 CCTV13,http://60.4.29.141:8077/rtp/239.253.92.13:8008
 CCTV14,http://60.4.29.141:8077/rtp/239.253.92.198:6063
 CCTV15,http://60.4.29.141:8077/rtp/239.253.93.154:6322
-CCTV16,http://221.220.129.159:8012/rtp/239.3.1.184:8001
+CCTV16,http://27.18.144.45:9100/rtp/239.69.1.247:11124
 CCTV17,http://60.4.29.141:8077/rtp/239.253.93.150:6318
 CCTV4K,http://60.4.29.141:8077/rtp/239.253.92.219:6228
 CCTV8K,http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub
@@ -39,9 +39,10 @@ CCTV女性时尚,http://60.4.29.141:8077/rtp/239.253.92.144:6114
 CCTV怀旧剧场,http://60.4.29.141:8077/rtp/239.253.93.252:6430
 CCTV电视指南,http://60.4.29.141:8077/rtp/239.253.93.249:6427
 CCTV游戏风云,http://183.220.107.138:4022/rtp/239.10.0.103:5140
-CCTV中国天气,http://61.240.39.165:8082/rtp/226.0.2.103:8736
+CCTV中国天气,http://223.198.241.194:4000/rtp/239.253.64.79:5140
 CCTV高尔夫网球,http://60.4.29.141:8077/rtp/239.253.93.122:6465
 CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV🎁 央视台球,https://iptv.catvod.com/live.php?id=CCTV%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&line=1
 
 📡卫视频道,#genre#
 北京卫视,http://60.4.29.141:8077/rtp/239.253.92.87:8014
@@ -50,13 +51,13 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 重庆卫视,https://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/chongqing/1000/01.m3u8?&HlsSubType=&encrypt=
 广东卫视,http://60.4.29.141:8077/rtp/239.253.92.206:8108
 深圳卫视,http://60.4.29.141:8077/rtp/239.253.92.86:8017
-三沙卫视,http://183.164.237.57:8888/rtp/238.1.78.27:6144
+三沙卫视,http://221.220.129.159:8012/rtp/239.3.1.155:4120
 江苏卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 山东卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/yg/shandongwshd/3000/01.m3u8?&HlsSubType=&encrypt=
 河南卫视,http://60.4.29.141:8077/rtp/239.253.92.137:6144
 四川卫视,http://60.4.29.141:8077/rtp/239.253.92.16:6043
-农林卫视,http://124.114.100.226:6789/rtp/239.112.205.26:5140
+农林卫视,http://120.76.248.139/live/bfgd/4200000122.m3u8
 康巴卫视,http://139.196.151.191:2051/rtp/239.45.1.251:5140
 安多卫视,https://t.freetv.fun/live/an-duo-wei-shi.m3u8
 河北卫视,http://60.4.29.141:8077/rtp/239.253.92.154:6011
@@ -66,24 +67,24 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 东南卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/dongnanws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 海峡卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/51/20230724/01.m3u8?&HlsSubType=&encrypt=
 厦门卫视,http://219.146.95.58:59902/tsfile/live/0129_1.m3u8?txiptv
-陕西卫视,http://183.164.237.57:8888/rtp/238.1.78.88:6576
+陕西卫视,http://171.8.85.62:8800/rtp/239.16.20.83:10830
 辽宁卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=
 江西卫视,http://60.4.29.141:8077/rtp/239.253.92.19:6145
 黑龙江卫视,http://60.4.29.141:8077/rtp/239.253.92.85:8016
 吉林卫视,https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=
-山西卫视,http://183.164.237.57:8888/rtp/238.1.78.95:6632
+山西卫视,http://221.220.129.159:8012/rtp/239.3.1.42:8172
 广西卫视,http://60.4.29.141:8077/rtp/239.253.92.76:8043
-云南卫视,http://183.164.237.57:8888/rtp/238.1.78.89:6584
+云南卫视,http://171.8.85.62:8800/rtp/239.16.20.85:10850
 贵州卫视,http://60.4.29.141:8077/rtp/239.253.92.105:6055
-甘肃卫视,http://183.164.237.57:8888/rtp/238.1.79.36:4400
-内蒙古卫视,http://183.164.237.57:8888/rtp/238.1.78.103:6696
+甘肃卫视,http://171.8.85.62:8800/rtp/239.16.20.102:11020
+内蒙古卫视,http://221.220.129.159:8012/rtp/239.3.1.43:8176
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
-新疆卫视,http://183.164.237.57:8888/rtp/238.1.78.110:6752
+新疆卫视,http://221.220.129.159:8012/rtp/239.3.1.48:8160
 海南卫视,http://60.4.29.141:8077/rtp/239.253.93.155:6323
-宁夏卫视,http://183.164.237.57:8888/rtp/238.1.78.109:6744
-青海卫视,http://183.164.237.57:8888/rtp/238.1.78.102:6688
-西藏卫视,http://183.164.237.57:8888/rtp/238.1.78.101:6680
-延边卫视,http://116.2.166.20:4010/rtp/232.0.0.161:1234
+宁夏卫视,http://221.220.129.159:8012/rtp/239.3.1.46:8124
+青海卫视,http://171.8.85.62:8800/rtp/239.16.20.101:11010
+西藏卫视,http://221.220.129.159:8012/rtp/239.3.1.47:8164
+延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8
 莲花卫视,http://8.138.7.223/tv/lotustv.m3u8
 人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-7.m3u8
 凤凰卫视,http://122.152.202.33/s/81a8a44f/index.m3u8?id=15
@@ -99,7 +100,7 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 北京科教,http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 北京财经,http://8.138.7.223/tv/bj.php?id=0005
 北京青年,http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8
-体育休闲,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=2026022222020574b5ff5608e04414aeef39c6dbf1d51a&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20260222220205&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=218.28.233.106&SecurityKey=20260222220205&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=195b391ddb5aa58f271e2299265271f2
+体育休闲,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jstiyu/600/index.m3u8?msisdn=202602230602053f65cb8daa4c4945b383ac7ac98e866b&mdspid=&spid=699067&netType=0&sid=5500260554&pid=2028597139&timestamp=20260223060205&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=626064707&ParentNodeID=-99&assertID=5500260554&client_ip=218.28.233.106&SecurityKey=20260223060205&promotionId=&mvid=5100186459&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=991a5f0d15ca7de3e1e02b8b7a550090
 北京文艺,http://8.138.7.223/tv/bj.php?id=0002
 北京影视,http://8.138.7.223/tv/bj.php?id=0004
 卡酷少儿,http://60.4.29.141:8077/rtp/239.253.92.162:8054
@@ -326,7 +327,7 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 淮滨综合,http://live.dxhmt.cn:9081/tv/11527-1.m3u8
 
 🌶️湖南频道,#genre#
-湖南都市,https://t.freetv.fun/live/hu-nan-du-shi.m3u8
+湖南都市,http://8.138.7.223/tv/mgtv.php?id=346
 湖南经视,http://8.138.7.223/tv/mgtv.php?id=280
 湖南电视剧,https://t.freetv.fun/live/hu-nan-dian-shi-ju-2.php
 湖南电影,http://8.138.7.223/tv/mgtv.php?id=221
@@ -752,22 +753,22 @@ ELTA娱乐,http://nmk.ioapk.com:5050/li-4gtv-4gtv070/index.m3u8?proxy=true
 
 📶数字频道,#genre#
 1905电影,https://tv.666150.xyz/1905.php
-CHC动作电影,http://123.4.213.4:8188/rtp/225.1.4.208:1261
-CHC家庭影院,http://123.4.213.4:8188/rtp/225.1.4.209:1262
-CHC影迷电影,http://123.4.213.4:8188/rtp/225.1.4.207:1260
+CHC动作电影,http://27.18.144.45:9100/rtp/239.69.1.242:11094
+CHC家庭影院,http://27.18.144.45:9100/rtp/239.69.1.243:11100
+CHC影迷电影,http://27.18.144.45:9100/rtp/239.69.1.241:11088
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-华数经典电影,http://125.80.153.86:7788/rtp/235.254.198.114:1732
-华数家庭影院,http://125.80.153.86:7788/rtp/235.254.198.100:1676
-华数武侠剧场,http://125.80.153.86:7788/rtp/235.254.198.97:1664
+华数经典电影,http://221.220.129.159:8012/rtp/239.3.1.195:9024
+华数家庭影院,http://221.220.129.159:8012/rtp/239.3.1.93:4120
+华数武侠剧场,http://221.220.129.159:8012/rtp/239.3.1.90:4120
 华数古装剧场,http://223.198.241.194:4000/rtp/239.253.64.221:5140
-华数魅力时尚,http://125.80.153.86:7788/rtp/235.254.198.115:1736
-华数喜剧电影,http://125.80.153.86:7788/rtp/235.254.198.98:1668
-华数军旅剧场,http://125.80.153.86:7788/rtp/235.254.198.75:1576
-华数城市剧场,http://125.80.153.86:7788/rtp/235.254.198.74:1572
+华数魅力时尚,http://221.220.129.159:8012/rtp/239.3.1.196:9012
+华数喜剧电影,http://221.220.129.159:8012/rtp/239.3.1.91:4120
+华数军旅剧场,http://221.220.129.159:8012/rtp/239.3.1.68:4120
+华数城市剧场,http://221.220.129.159:8012/rtp/239.3.1.67:4120
 华数热播剧场,http://221.220.129.159:8012/rtp/239.3.1.194:9020
-华数少儿动画,http://125.80.153.86:7788/rtp/235.254.198.116:1740
-华数卡通频道,http://125.80.153.86:7788/rtp/235.254.198.87:1624
-华数星影频道,http://125.80.153.86:7788/rtp/235.254.198.101:1680
+华数少儿动画,http://221.220.129.159:8012/rtp/239.3.1.199:9000
+华数卡通频道,http://221.220.129.159:8012/rtp/239.3.1.80:4120
+华数星影频道,http://221.220.129.159:8012/rtp/239.3.1.94:4120
 NewTV超级电影,http://111.43.126.240:9003/hls/85/index.m3u8
 NewTV家庭剧场,http://111.43.126.240:9003/hls/83/index.m3u8
 NewTV古装剧场,http://111.43.126.240:9003/hls/81/index.m3u8
@@ -779,18 +780,18 @@ NewTV超级综艺,http://111.43.126.240:9003/hls/87/index.m3u8
 NewTV黑莓动画,http://111.43.126.240:9003/hls/100/index.m3u8
 NewTV精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 求索纪录,http://183.220.107.138:4022/rtp/239.10.0.221:5140
-SiTV都市剧场,http://183.164.237.57:8888/rtp/238.1.78.74:6464
-SiTV动漫秀场,http://183.164.237.57:8888/rtp/238.1.78.154:7104
+SiTV都市剧场,http://171.8.85.62:8800/rtp/239.16.20.38:10380
+SiTV动漫秀场,http://171.8.85.62:8800/rtp/239.16.20.40:10400
 SiTV七彩戏剧,http://8.138.7.223/tv/migu3.php?id=qcxj
-SiTV生活时尚,http://183.164.237.57:8888/rtp/238.1.78.155:7112
-SiTV欢笑剧场,http://116.2.166.20:4010/rtp/232.0.0.98:1234
+SiTV生活时尚,http://171.8.85.62:8800/rtp/239.16.20.114:11140
+SiTV欢笑剧场,http://171.8.85.62:8800/rtp/239.16.20.39:10390
 SiTV法治天地,http://8.138.7.223/tv/migu3.php?id=fztd
 SiTV全纪实,http://183.220.107.138:4022/rtp/239.10.0.105:5140
-SiTV乐游频道,http://183.164.237.57:8888/rtp/238.1.78.151:7080
-SiTV劲爆体育,http://8.138.7.223/tv/migu3.php?id=jbty
+SiTV乐游频道,http://171.8.85.62:8800/rtp/239.16.20.111:11110
+SiTV劲爆体育,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG0TjnHint92FaGOdQKWbGgIqMxjYHJKfKmz5-sDiesmTbAxE-GePCEhWtmcc34I1qpRF-7LjmYkvzb6Z031xjMJ9oqMvNwqQk-mVldD0G6Jso-oleU3z0vdP5jZk5oHwysitVUXSTbua0xNvBg3gp7kGtcMQsyg_Kg-hfWgLQr5eOhIy4zHbYYag-td6NcatUaPE49DgqVaZv5CGKGGVfVg.m3u8?u=1757123819
 SiTV五星体育,https://other.ottiptv.cc/wxty.m3u8
-SiTV游戏风云,http://183.164.237.57:8888/rtp/238.1.78.81:6520
-SiTV金色学堂,http://183.164.237.57:8888/rtp/238.1.78.76:6480
+SiTV游戏风云,http://171.8.85.62:8800/rtp/239.16.20.112:11120
+SiTV金色学堂,http://171.8.85.62:8800/rtp/239.16.20.115:11150
 IPTV谍战剧场,http://183.220.107.138:4022/rtp/239.10.0.123:5140
 IPTV音乐现场,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
 IPTV淘剧场,http://221.220.129.159:8012/rtp/239.3.1.95:8001
@@ -875,18 +876,18 @@ CGTN纪录,https://t.freetv.fun/live/cgtn-documentary-1.m3u8
 CN卡通,https://stream1.freetv.fun/cnqia-tong-3.ctv
 中华小当家,https://live.iill.top/huya/11342413
 七龙珠,https://live.ottiptv.cc/huya/11601966
-经典动画大集合,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=2026022220021682a2a452e44c43d59175e50846e01811&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260222200216&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=218.28.233.106&SecurityKey=20260222200216&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=34a94e5ae8b4c38618e1460e82a2cf4f
+经典动画大集合,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/jingdiandonghua/600/index.m3u8?msisdn=2026022308021540b5c21432c14ca48be771c45cc54a9f&mdspid=&spid=699004&netType=0&sid=5500315652&pid=2028597139&timestamp=20260223080215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942219&ParentNodeID=-99&assertID=5500315652&client_ip=218.28.233.106&SecurityKey=20260223080215&promotionId=&mvid=5101034205&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1c2c9a4442ed52d25b7b51649914de15
 名侦探柯南,https://t.freetv.fun/live/ming-zhen-tan-ke-nan.m3u8
-哈哈炫动,http://116.2.166.20:4010/rtp/232.0.0.103:1234
+哈哈炫动,https://stream1.freetv.fun/ha-ha-xuan-dong-29.m3u8
 睛彩青少,http://221.220.129.159:8012/rtp/239.3.1.127:8001
-新动漫,http://123.4.213.4:8188/rtp/225.1.4.212:1265
+新动漫,http://106.59.2.113:55555/rtp/239.200.201.32:4120
 漫画解说,https://yylunbo.ottiptv.cc/yy/1382735568
 Nickelodeon,http://app.junnian.xyz/pitv.php?user=666123&pass=666123&type=mp4&id=Nickelodeon
 cartoon network,https://t.freetv.fun/live/cartoon-network.m3u8
 disney=,https://t.freetv.fun/live/disney.ts
 disney channel,https://t.freetv.fun/live/disney-channel-1.m3u8
 momo亲子,https://t.freetv.fun/live/momoqin-zi-8.m3u8
-nickelodeon,https://t.freetv.fun/live/nickelodeon-1.m3u8
+nickelodeon,https://t.freetv.fun/live/nickelodeon.m3u8
 动画片-101忠狗,https://hd.ijycnd.com/play/xe7L8nQa/index.m3u8
 动画片-101忠狗续集：伦敦大冒险,https://hd.ijycnd.com/play/Le31lBAb/index.m3u8
 动画片-1磅的福音,https://hd.ijycnd.com/play/negLJlDa/index.m3u8
@@ -2413,7 +2414,7 @@ nickelodeon,https://t.freetv.fun/live/nickelodeon-1.m3u8
 🎭综艺频道,#genre#
 广东综艺,https://t.freetv.fun/live/yan-dong-zong-yi.m3u8
 江苏综艺,http://8.138.7.223/tv/migu3.php?id=jszy
-最强综艺趴,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=20260222200215d8fd2da57544476494451efa495a5e6c&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20260222200215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=218.28.233.106&SecurityKey=20260222200215&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ceef7bdcb9ea5555cdad7b5d81075b18
+最强综艺趴,http://hlsztemgsplive.miguvideo.com:8080/wd_r3/cctv/zuiqiangzongyi/600/index.m3u8?msisdn=20260223080215d8ad44e06c0c47cabc2eb65f08ac6e70&mdspid=&spid=699004&netType=0&sid=5500315654&pid=2028597139&timestamp=20260223080215&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=629942228&ParentNodeID=-99&assertID=5500315654&client_ip=218.28.233.106&SecurityKey=20260223080215&promotionId=&mvid=5101034202&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38e50e8ee96fd2c057679420a8d41ca8
 纬来精彩,https://t.freetv.fun/live/wei-lai-jing-cai-2.ts
 纬来育乐,http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUHWMHCytb2VBItbRCwo0LytB8PAWI5qHeUwo-0QWCs1A9pvx7CTVkX2S2BjFC9v_4VTOc_w8J6K6W0LmW8qDcIRNVjqwzlr6XAQODOJcYhoYrqJN-1kg5KNwb5OGLSM-DXI5Ny2_gglov0OFanF_bcaiIaTxmEtBkPvG6W3OUaiSSijmdpKngqt4Isvd4GkxUXoK3KpjQy_lIMwFTzaWjtA.m3u8?u=1756878715
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
@@ -2456,7 +2457,7 @@ mn静静nm,https://live.ottiptv.cc/douyu/5668371
 
 🎵音乐频道,#genre#
 mtv live,https://t.freetv.fun/live/mtv-live.m3u8
-vevo pop,https://t.freetv.fun/live/vevo-pop.m3u8
+vevo pop,https://t.freetv.fun/live/vevo-pop-1.m3u8
 vevo pop fast,https://t.freetv.fun/live/vevo-pop-fast.m3u8
 vevo pop germany,https://t.freetv.fun/live/vevo-pop-germany.m3u8
 vevo pop italy,https://t.freetv.fun/live/vevo-pop-italy.m3u8
@@ -3342,7 +3343,6 @@ hbo hits,https://t.freetv.fun/live/hbo-hits.m3u8
 hbo signature,https://t.freetv.fun/live/hbo-signature.m3u8
 history tv18,https://t.freetv.fun/live/history-tv18.m3u8
 ion plus,https://t.freetv.fun/live/ion-plus-2.m3u8
-mtv classic,https://t.freetv.fun/live/mtv-classic.m3u8
 nfl redzone,https://t.freetv.fun/live/nfl-redzone.m3u8
 paramount network spain,https://t.freetv.fun/live/paramount-network-spain.m3u8
 paramount plus picks,https://t.freetv.fun/live/paramount-plus-picks-1-1.m3u8
@@ -3360,7 +3360,7 @@ sky sports main event,https://t.freetv.fun/live/sky-sports-main-event.m3u8
 sky sports premier league,https://t.freetv.fun/live/sky-sports-premier-league.m3u8
 utv,https://t.freetv.fun/live/utv-2.m3u8
 bfm business,https://t.freetv.fun/live/bfm-business-1.m3u8
-cnews,https://t.freetv.fun/live/cnews-1.m3u8
+cnews,https://t.freetv.fun/live/cnews.m3u8
 france inter direct,https://t.freetv.fun/live/france-inter-direct-1.m3u8
 la 1 uhd,https://t.freetv.fun/live/la-1-uhd.m3u8
 medi 1 tv maghreb,https://t.freetv.fun/live/medi-1-tv-maghreb.m3u8
@@ -4043,13 +4043,13 @@ b站王者荣耀,https://t.freetv.fun/live/bzhan-wang-zhe-rong-yao-2.m3u8
 记录片-英雄联盟：起源,https://hd.ijycnd.com/play/xe73y2Oe/index.m3u8
 
 🕒更新时间,#genre#
-20260222 23:31:17,https://vdse.bdstatic.com//d60ce7970ede245fa4a7d9d0c2b38928.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-18T11%3A58%3A25Z%2F-1%2Fhost%2Ffb29615fe0259affb55c21bcdedc37eeb5e7aaf31ac5e982a983170d537e4746&vid=17284537032943980786
-👨潇然,https://vd3.bdstatic.com/mda-jg4yii1b2y7k3hzb/sc/mda-jg4yii1b2y7k3hzb.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
-💯推荐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987569147.mp4
-🤫低调,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
-🟢使用,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
-⚠️禁止,http://em.21dtv.com/songs/60021927.mkv
-🚫贩卖,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+20260223 10:01:49,https://raw.githubusercontent.com/xiaoran37/core/refs/heads/main/assets/subscribe/resources/vid/about_video4.mp4
+👨潇然,https://raw.githubusercontent.com/xiaoran37/core/refs/heads/main/assets/subscribe/resources/vid/about_video1.mp4
+💯推荐,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240203243765.mp4
+🤫低调,http://vd3.bdstatic.com/mda-jf8fbjprnf1fvpxm/mda-jf8fbjprnf1fvpxm.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+🟢使用,http://em.21dtv.com/songs/60128193.mkv
+⚠️禁止,http://vd3.bdstatic.com/mda-jfghscj8datutink/mda-jfghscj8datutink.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
+🚫贩卖,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239999177791.mp4
 🌆CGTN频道#genre#
 CGTN News,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN Documentary,http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
