@@ -1,6 +1,6 @@
 # 完整检测统计日志
-# 生成时间: 20260330 05:55:52
-===== 检测开始: 20260330 04:44:28 =====
+# 生成时间: 20260330 05:59:36
+===== 检测开始: 20260330 04:47:46 =====
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
 远程订阅统计: 12206,https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/full.txt
 处理远程URL: https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/output/result.txt
@@ -12,8 +12,8 @@
 去$后行数: 48276
 去重后行数: 45777
 并发线程数: 30
-检测结果: 成功11332条, 失败34440条
+检测结果: 成功11335条, 失败34437条
 结果文件保存: /home/runner/work/core/core/assets/livesource/blacklist/whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/whitelist_auto_tv.txt, /home/runner/work/core/core/assets/livesource/blacklist/blacklist_auto.txt
-历史记录保存: /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260330_05_55_52_whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260330_05_55_52_blacklist_auto.txt
-执行时间: 71分23秒 (开始: 20260330_04_44_28, 结束: 20260330_05_55_52)
-故障主机统计保存: /home/runner/work/core/core/assets/livesource/blacklist/blackhost/20260330_05_55_52_blackhost_count.txt
+历史记录保存: /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260330_05_59_36_whitelist_auto.txt, /home/runner/work/core/core/assets/livesource/blacklist/history/blacklist/20260330_05_59_36_blacklist_auto.txt
+执行时间: 71分50秒 (开始: 20260330_04_47_46, 结束: 20260330_05_59_36)
+故障主机统计保存: /home/runner/work/core/core/assets/livesource/blacklist/blackhost/20260330_05_59_36_blackhost_count.txt
