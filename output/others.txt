@@ -1,5 +1,5 @@
 ◆◆◆　https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-更新日期: 2026-7-8 06:52:21,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=96dbae2c52afe732e3930ab81e7fdbcc&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260708064510&Channel_ID=0116_2600034600-99000-201600010019991&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=112.253.36.11&SecurityKey=20260708064510&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=550628ffe0d6e09e6379ac18a98d32a6&sv=10004&ct=android
+更新日期: 2026-7-8 22:38:00,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=72b71c721f54415799de999a6e34ab0f&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260708223543&Channel_ID=0116_2600034600-99000-201600010053232&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.49&SecurityKey=20260708223543&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=32677200b0d6c9a064461206848a1c65&sv=10004&ct=android
 广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
@@ -86,18 +86,19 @@
 
 
 ◆◆◆　https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
-2026-07-08 07:27:22,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
-淘,http://123.118.59.180:8686/rtp/239.3.1.249:8001
-淘,http://123.118.54.216:8686/rtp/239.3.1.249:8001
-睛彩广场舞,http://123.118.59.180:8686/rtp/239.3.1.128:8001
-睛彩广场舞,http://123.118.54.216:8686/rtp/239.3.1.128:8001
-先锋乒羽,http://106.59.3.231:55555/rtp/239.200.201.33:4120
+2026-07-09 03:59:49,http://kakaxi.indevs.in/LOGO/Disclaimer.mp4
+淘,http://115.171.216.46:4000/rtp/225.1.8.211:8002
+淘,http://221.220.131.71:8012/rtp/239.3.1.249:8001
+淘,http://115.171.216.32:4000/rtp/225.1.8.211:8002
+睛彩广场舞,http://221.220.131.71:8012/rtp/239.3.1.128:8001
 先锋乒羽,http://106.59.3.171:55555/rtp/239.200.201.33:4120
-华数,http://123.118.59.180:8686/rtp/239.3.1.236:2000
-华数,http://123.118.54.216:8686/rtp/239.3.1.236:2000
+华数,http://115.171.216.46:4000/rtp/225.1.8.80:2000
+华数,http://221.220.131.71:8012/rtp/239.3.1.236:2000
+华数,http://115.171.216.32:4000/rtp/225.1.8.80:2000
+华数动作影院,http://115.171.216.46:4000/rtp/225.1.8.252:4120
+华数动作影院,http://221.220.131.71:8012/rtp/239.3.1.92:4120
 华数动作影院,http://220.176.218.4:9000/rtp/239.252.220.85:5140
-华数动作影院,http://123.118.59.180:8686/rtp/239.3.1.92:4120
-华数动作影院,http://123.118.54.216:8686/rtp/239.3.1.92:4120
+华数动作影院,http://115.171.216.32:4000/rtp/225.1.8.252:4120
 华数碟战剧场,http://220.176.218.4:9000/rtp/239.252.220.145:5140
 
 
@@ -110,7 +111,7 @@ abn africa (p),https://t.freetv.fun/live/abn-africa-480p.m3u8
 sen tv,https://t.freetv.fun/live/sen-tv.m3u8
 sundance tv,https://t.freetv.fun/live/sundance-tv.m3u8
 []tfm,https://t.freetv.fun/live/tfm.m3u8
-walf tv,https://t.freetv.fun/live/walf-tv.m3u8
+[]walf tv,https://t.freetv.fun/live/walf-tv.m3u8
 rtv,https://t.freetv.fun/live/rtv.m3u8
 []top tv,https://t.freetv.fun/live/top-tv.m3u8
 []rtp tv,https://t.freetv.fun/live/rtp-tv.m3u8
@@ -120,9 +121,11 @@ vizion plus al,https://t.freetv.fun/live/vizion-plus-al.m3u8
 lider tv,https://t.freetv.fun/live/lider-tv.m3u8
 []lider tv,https://t.freetv.fun/live/lider-tv-1.m3u8
 []destination america,https://t.freetv.fun/live/destination-america.m3u8
+[]c5n,https://t.freetv.fun/live/c5n.m3u8
 canal 26,https://t.freetv.fun/live/canal-26.m3u8
 canal 26,https://t.freetv.fun/live/canal-26-1.m3u8
 []canal rural,https://t.freetv.fun/live/canal-rural.m3u8
+[]ciudad magazine,https://t.freetv.fun/live/ciudad-magazine.m3u8
 nw magazine,https://t.freetv.fun/live/nw-magazine-1.m3u8
 []tea tv,https://t.freetv.fun/live/tea-tv.m3u8
 ntn24,https://t.freetv.fun/live/ntn24.m3u8
@@ -148,8 +151,8 @@ gnn tv,https://t.freetv.fun/live/gnn-tv.m3u8
 беларусь 2,https://t.freetv.fun/live/belarus-2.m3u8
 []беларусь 24,https://t.freetv.fun/live/belarus-24-1.m3u8
 беларусь 24,https://t.freetv.fun/live/belarus-24-2.m3u8
+беларусь 2,https://t.freetv.fun/live/belarus-2-1-1.m3u8
 беларусь 5,https://t.freetv.fun/live/belarus-5.m3u8
-беларусь 5,https://t.freetv.fun/live/belarus-5-1.m3u8
 беларусь 3,https://t.freetv.fun/live/belarus-3-1-1.m3u8
 беларусь 5,https://t.freetv.fun/live/belarus-5-2.m3u8
 [].red,https://t.freetv.fun/live/red.m3u8
@@ -167,40 +170,54 @@ band mg,https://t.freetv.fun/live/band-mg.m3u8
 band sports,https://t.freetv.fun/live/band-sports.m3u8
 []cnn brasil,https://t.freetv.fun/live/cnn-brasil.m3u8
 music box brazil,https://t.freetv.fun/live/music-box-brazil.m3u8
+babytv brazil,https://t.freetv.fun/live/babytv-brazil.m3u8
 gloob,https://t.freetv.fun/live/gloob.m3u8
 []istv,https://t.freetv.fun/live/istv.m3u8
+istv,https://t.freetv.fun/live/istv-1.m3u8
+istv,https://t.freetv.fun/live/istv-2.m3u8
 pop,https://t.freetv.fun/live/pop.m3u8
 multishow,https://t.freetv.fun/live/multishow.m3u8
 []multishow,https://t.freetv.fun/live/multishow-1.m3u8
-[]globo rj 3,https://t.freetv.fun/live/globo-rj-3.m3u8
+[]rede tv!,https://t.freetv.fun/live/rede-tv.m3u8
+[]record,https://t.freetv.fun/live/record.m3u8
 []record news,https://t.freetv.fun/live/record-news.m3u8
+[]rede cnt rio de janeiro,https://t.freetv.fun/live/rede-cnt-rio-de-janeiro.m3u8
 rede brasil,https://t.freetv.fun/live/rede-brasil.m3u8
 []rede brasil,https://t.freetv.fun/live/rede-brasil-1.m3u8
 []rede minas,https://t.freetv.fun/live/rede-minas.m3u8
 []super!,https://t.freetv.fun/live/super.m3u8
 []super!,https://t.freetv.fun/live/super-1-1.m3u8
-[]red tv,https://t.freetv.fun/live/red-tv.m3u8
 []rede vida,https://t.freetv.fun/live/rede-vida.m3u8
+[]rede vida,https://t.freetv.fun/live/rede-vida-1.m3u8
 tv aparecida,https://t.freetv.fun/live/tv-aparecida.m3u8
 tv aparecida,https://t.freetv.fun/live/tv-aparecida-1.m3u8
 []tv brasil,https://t.freetv.fun/live/tv-brasil-1.m3u8
 trace brasil,https://t.freetv.fun/live/trace-brasil-1.m3u8
+itv brazil,https://t.freetv.fun/live/itv-brazil.m3u8
 []tv cultura,https://t.freetv.fun/live/tv-cultura-1.m3u8
+[]tve cultura,https://t.freetv.fun/live/tve-cultura.m3u8
 tv gazeta,https://t.freetv.fun/live/tv-gazeta.m3u8
+[]tv gazeta,https://t.freetv.fun/live/tv-gazeta-1.m3u8
 play tv,https://t.freetv.fun/live/play-tv.m3u8
 play tv,https://t.freetv.fun/live/play-tv-2.m3u8
-play tv,https://t.freetv.fun/live/play-tv-3.m3u8
+[]play tv,https://t.freetv.fun/live/play-tv-3.m3u8
 tve rs,https://t.freetv.fun/live/tve-rs.m3u8
 tve rs,https://t.freetv.fun/live/tve-rs-1.m3u8
 telecine action,https://t.freetv.fun/live/telecine-action.m3u8
+[]telecine action,https://t.freetv.fun/live/telecine-action-1.m3u8
 telecine cult,https://t.freetv.fun/live/telecine-cult.m3u8
+[]telecine cult,https://t.freetv.fun/live/telecine-cult-1.m3u8
+[]telecine fun,https://t.freetv.fun/live/telecine-fun.m3u8
 telecine fun 2,https://t.freetv.fun/live/telecine-fun-2.m3u8
 telecine pipoca,https://t.freetv.fun/live/telecine-pipoca.m3u8
+[]telecine pipoca,https://t.freetv.fun/live/telecine-pipoca-1.m3u8
 telecine premium,https://t.freetv.fun/live/telecine-premium.m3u8
+[]telecine premium,https://t.freetv.fun/live/telecine-premium-1.m3u8
 []terra,https://t.freetv.fun/live/terra.m3u8
 terra,https://t.freetv.fun/live/terra-1.m3u8
 []terra,https://t.freetv.fun/live/terra-2.m3u8
 []terra,https://t.freetv.fun/live/terra-3.m3u8
+[]terra viva,https://t.freetv.fun/live/terra-viva.m3u8
 bnt 1,https://t.freetv.fun/live/bnt-1.m3u8
 []bnt 2,https://t.freetv.fun/live/bnt-2.m3u8
 []euronews bulgaria,https://t.freetv.fun/live/euronews-bulgaria.m3u8
@@ -223,11 +240,12 @@ ctv drama channel ca,https://t.freetv.fun/live/ctv-drama-channel-ca.m3u8
 ctv news channel ca,https://t.freetv.fun/live/ctv-news-channel-ca.m3u8
 []city tv,https://t.freetv.fun/live/city-tv.m3u8
 []fx,https://t.freetv.fun/live/fx.m3u8
+fx,https://t.freetv.fun/live/fx-1.m3u8
 []fnx [geo-blocked],https://t.freetv.fun/live/fnx-geo-blocked.m3u8
 []global tv,https://t.freetv.fun/live/global-tv.m3u8
 []global tv,https://t.freetv.fun/live/global-tv-3.m3u8
 []global news,https://t.freetv.fun/live/global-news.m3u8
-globo news,https://t.freetv.fun/live/globo-news.m3u8
+[]globo news,https://t.freetv.fun/live/globo-news.m3u8
 []globo news,https://t.freetv.fun/live/globo-news-1.m3u8
 []globonews,https://t.freetv.fun/live/globonews.m3u8
 marquee sports network,https://t.freetv.fun/live/marquee-sports-network.m3u8
@@ -242,9 +260,7 @@ sportsnet east,https://t.freetv.fun/live/sportsnet-east.ts
 tsn1,https://t.freetv.fun/live/tsn1-1.ts
 tsn1 ca 02,https://t.freetv.fun/live/tsn1-ca-02.m3u8
 tsn1 ca 01,https://t.freetv.fun/live/tsn1-ca-01.m3u8
-[]tsn2,https://t.freetv.fun/live/tsn2.php
-tsn3,https://t.freetv.fun/live/tsn3.php
-[]tsn3 ca,https://t.freetv.fun/live/tsn3-ca.m3u8
+tsn3 ca,https://t.freetv.fun/live/tsn3-ca.m3u8
 tsn3 ca,https://t.freetv.fun/live/tsn3-ca-1.m3u8
 []tv5 kannada,https://t.freetv.fun/live/tv5-kannada.m3u8
 []tva,https://t.freetv.fun/live/tva.m3u8
@@ -307,7 +323,7 @@ cctv-10科教,https://t.freetv.fun/live/cctv-10ke-jiao-9.m3u8
 []cctv-10科教,https://t.freetv.fun/live/cctv-10ke-jiao-10.m3u8
 []cctv-10科教,https://t.freetv.fun/live/cctv-10ke-jiao-11.m3u8
 []cctv-10hd,https://t.freetv.fun/live/cctv-10hd-3.m3u8
-[]cctv-10hd,https://t.freetv.fun/live/cctv-10hd-4.m3u8
+cctv-10hd,https://t.freetv.fun/live/cctv-10hd-4.m3u8
 []cctv11,https://t.freetv.fun/live/cctv11-2.m3u8
 []cctv11,https://t.freetv.fun/live/cctv11-6.m3u8
 []cctv11,https://t.freetv.fun/live/cctv11-1.m3u8
@@ -326,17 +342,16 @@ cctv-11hd,https://t.freetv.fun/live/cctv-11hd-1.m3u8
 []cctv-12,https://t.freetv.fun/live/cctv-12-3.m3u8
 []cctv-12hd,https://t.freetv.fun/live/cctv-12hd-1.m3u8
 cctv-12hd,https://t.freetv.fun/live/cctv-12hd-2.m3u8
-cctv-12hd,https://t.freetv.fun/live/cctv-12hd-3.m3u8
+[]cctv-12hd,https://t.freetv.fun/live/cctv-12hd-3.m3u8
 []cctv13,https://t.freetv.fun/live/cctv13.m3u8
 []cctv13,https://t.freetv.fun/live/cctv13-1.m3u8
 []cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen.m3u8
-[]cctv-13,https://t.freetv.fun/live/cctv-13.m3u8
 []cctv-13hd,https://t.freetv.fun/live/cctv-13hd.m3u8
 []cctv13新闻,https://t.freetv.fun/live/cctv13xin-wen-1.m3u8
 []cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-1.m3u8
 []cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-2.m3u8
 []cctv-13hd,https://t.freetv.fun/live/cctv-13hd-1.m3u8
-[]cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
+cctv-13hd,https://t.freetv.fun/live/cctv-13hd-2.m3u8
 []cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-3.m3u8
 []cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-4.m3u8
 cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-5.m3u8
@@ -354,8 +369,8 @@ cctv-13新闻,https://t.freetv.fun/live/cctv-13xin-wen-11.m3u8
 []cctv-14,https://t.freetv.fun/live/cctv-14.m3u8
 cctv-14hd,https://t.freetv.fun/live/cctv-14hd.m3u8
 cctv14-少儿,https://t.freetv.fun/live/cctv14-shao-er-1.m3u8
-[]cctv-14,https://t.freetv.fun/live/cctv-14-1.m3u8
 []cctv14hd,https://t.freetv.fun/live/cctv14hd.m3u8
+[]cctv-14,https://t.freetv.fun/live/cctv-14-3.m3u8
 cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-1.m3u8
 []cctv-14hd,https://t.freetv.fun/live/cctv-14hd-1.m3u8
 cctv-14hd,https://t.freetv.fun/live/cctv-14hd-2.m3u8
@@ -369,7 +384,7 @@ cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-4.m3u8
 []cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-9.m3u8
 []cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-10.m3u8
 cctv-14少儿,https://t.freetv.fun/live/cctv-14shao-er-11.m3u8
-cctv-14hd,https://t.freetv.fun/live/cctv-14hd-4.m3u8
+[]cctv-14hd,https://t.freetv.fun/live/cctv-14hd-4.m3u8
 cctv14-少儿,https://t.freetv.fun/live/cctv14-shao-er-4.m3u8
 []cctv15,https://t.freetv.fun/live/cctv15-1.m3u8
 []cctv15,https://t.freetv.fun/live/cctv15-2.m3u8
@@ -386,6 +401,7 @@ cctv14-少儿,https://t.freetv.fun/live/cctv14-shao-er-4.m3u8
 cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-3.m3u8
 []cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-4.m3u8
 cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-5.m3u8
+[]cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-6.m3u8
 []cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-7.m3u8
 []cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-8.m3u8
 []cctv-15音乐,https://t.freetv.fun/live/cctv-15yin-le-10.m3u8
@@ -419,13 +435,14 @@ cctv2-财经,https://t.freetv.fun/live/cctv2-cai-jing-4.m3u8
 []cctv-3,https://t.freetv.fun/live/cctv-3-2.m3u8
 cctv-3hd,https://t.freetv.fun/live/cctv-3hd.m3u8
 []cctv-3hd,https://t.freetv.fun/live/cctv-3hd-2.m3u8
-cctv-3hd,https://t.freetv.fun/live/cctv-3hd-3.m3u8
+[]cctv-3hd,https://t.freetv.fun/live/cctv-3hd-3.m3u8
 []cctv4,https://t.freetv.fun/live/cctv4-1.m3u8
 []cctv4欧洲,https://t.freetv.fun/live/cctv4ou-zhou-1.m3u8
 cctv-4hd,https://t.freetv.fun/live/cctv-4hd.m3u8
 []cctv4美洲,https://t.freetv.fun/live/cctv4mei-zhou-2.m3u8
+cctv-04,https://t.freetv.fun/live/cctv-04.php
 []cctv4k,https://t.freetv.fun/live/cctv4k-3.m3u8
-cctv-4hd,https://t.freetv.fun/live/cctv-4hd-1.m3u8
+[]cctv-4hd,https://t.freetv.fun/live/cctv-4hd-1.m3u8
 cctv-4hd,https://t.freetv.fun/live/cctv-4hd-2.m3u8
 cctv 4e,https://t.freetv.fun/live/cctv-4e.m3u8
 []cctv-4中文国际,https://t.freetv.fun/live/cctv-4zhong-wen-guo-ji.m3u8
@@ -450,10 +467,11 @@ cctv52,https://t.freetv.fun/live/cctv52.m3u8
 []cctv-5hd,https://t.freetv.fun/live/cctv-5hd.m3u8
 []cctv5体育,https://t.freetv.fun/live/cctv5ti-yu-1.m3u8
 []cctv5hd,https://t.freetv.fun/live/cctv5hd.m3u8
-[]cctv-5hd,https://t.freetv.fun/live/cctv-5hd-2.m3u8
+cctv-5hd,https://t.freetv.fun/live/cctv-5hd-2.m3u8
 cctv-5hd,https://t.freetv.fun/live/cctv-5hd-3.m3u8
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus.m3u8
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus-2.m3u8
+cctv5 plus,https://t.freetv.fun/live/cctv5-plus-6.m3u8
 cctv-5 plus体育赛事,https://t.freetv.fun/live/cctv-5-plusti-yu-sai-shi.m3u8
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus-1.m3u8
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus-3.m3u8
@@ -462,6 +480,7 @@ cctv5 plus,https://t.freetv.fun/live/cctv5-plus-5.m3u8
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus-7.m3u8
 cctv5 plus,https://t.freetv.fun/live/cctv5-plus-10.m3u8
 []cctv5 plus体育赛事,https://t.freetv.fun/live/cctv5-plusti-yu-sai-shi.m3u8
+cctv-5 plus体育赛事,https://t.freetv.fun/live/cctv-5-plusti-yu-sai-shi-1.m3u8
 []cctv5 plus体育赛事,https://t.freetv.fun/live/cctv5-plusti-yu-sai-shi-1.m3u8
 cctv-5 plus体育赛事,https://t.freetv.fun/live/cctv-5-plusti-yu-sai-shi-2.m3u8
 cctv-5 plus体育赛事,https://t.freetv.fun/live/cctv-5-plusti-yu-sai-shi-3.m3u8
@@ -478,6 +497,7 @@ cctv-6hd,https://t.freetv.fun/live/cctv-6hd-3.m3u8
 []cctv6hd,https://t.freetv.fun/live/cctv6hd-1.m3u8
 []cctv-4k超,https://t.freetv.fun/live/cctv-4kchao-gao-qing.m3u8
 []cctv-7,https://t.freetv.fun/live/cctv-7-2.m3u8
+[]cctv-7,https://t.freetv.fun/live/cctv-7-3.m3u8
 []cctv-7hd,https://t.freetv.fun/live/cctv-7hd.m3u8
 []cctv7hd,https://t.freetv.fun/live/cctv7hd.m3u8
 cctv-7hd,https://t.freetv.fun/live/cctv-7hd-1.m3u8
@@ -550,11 +570,13 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-4.m3u8
 chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-5.m3u8
 chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-7.m3u8
 chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
+[]三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi.m3u8
 []三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-6.m3u8
+[]三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-8.m3u8
 []三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-10.m3u8
 []三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-2.m3u8
 []三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-5.m3u8
-[]上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he.m3u8
+[]三沙卫视,https://t.freetv.fun/live/san-sha-wei-shi-13.m3u8
 []上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-1.m3u8
 []上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-2.m3u8
 []上海新闻综合,https://t.freetv.fun/live/shang-hai-xin-wen-zong-he-3.m3u8
@@ -562,7 +584,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []上海都市,https://t.freetv.fun/live/shang-hai-du-shi-1.m3u8
 []上海都市,https://t.freetv.fun/live/shang-hai-du-shi-2.m3u8
 []上海都市,https://t.freetv.fun/live/shang-hai-du-shi-3.m3u8
-[]五星体育,https://t.freetv.fun/live/wu-xing-ti-yu.m3u8
 []五星体育,https://t.freetv.fun/live/wu-xing-ti-yu-3.m3u8
 []珲春新闻综合,https://t.freetv.fun/live/hun-chun-xin-wen-zong-he-4.m3u8
 伊春新闻综合,https://t.freetv.fun/live/yi-chun-xin-wen-zong-he.m3u8
@@ -588,13 +609,16 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-14.m3u8
 []兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-7.m3u8
 []兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-8.m3u8
+[]兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-17.m3u8
 []兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-4.m3u8
 []兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-10.m3u8
 []兵团卫视,https://t.freetv.fun/live/bing-tuan-wei-shi-18.m3u8
 []动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-3.m3u8
 []动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-1.m3u8
 []动漫秀场,https://t.freetv.fun/live/dong-man-xiu-chang-4.m3u8
+[]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-6.m3u8
 []北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-19.m3u8
+[]北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-14.m3u8
 []北京卫视,https://t.freetv.fun/live/bei-jing-wei-shi-18.m3u8
 []十堰经济,https://t.freetv.fun/live/shi-yan-jing-ji.m3u8
 []南京教科,https://t.freetv.fun/live/nan-jing-jiao-ke-2.m3u8
@@ -616,6 +640,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []吉林综艺文化,https://t.freetv.fun/live/ji-lin-zong-yi-wen-hua-2.m3u8
 []吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-4.m3u8
 []吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-12.m3u8
+[]吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-10.m3u8
 []吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-34.m3u8
 []吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-2.m3u8
 []吉林卫视,https://t.freetv.fun/live/ji-lin-wei-shi-7.m3u8
@@ -645,8 +670,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-9.m3u8
 []嘉佳卡通,https://t.freetv.fun/live/jia-jia-qia-tong-11.m3u8
 []四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-6.m3u8
-[]四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi.m3u8
-[]四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-23.m3u8
+[]四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-4.m3u8
 []四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-12.m3u8
 []四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-14.m3u8
 []四川卫视,https://t.freetv.fun/live/si-chuan-wei-shi-15.m3u8
@@ -659,7 +683,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8
 []大湾区卫视,https://t.freetv.fun/live/da-wan-qu-wei-shi-5.m3u8
 []天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-6.m3u8
-[]天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-2.m3u8
+[]天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-21.m3u8
 []太谷新闻综合,https://t.freetv.fun/live/tai-gu-xin-wen-zong-he.m3u8
 []太谷新闻综合,https://t.freetv.fun/live/tai-gu-xin-wen-zong-he-1.m3u8
 []东莞新闻综合,https://t.freetv.fun/live/dong-wan-xin-wen-zong-he.m3u8
@@ -672,12 +696,14 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 宿迁新闻综合,https://t.freetv.fun/live/su-qian-xin-wen-zong-he.m3u8
 宿迁新闻综合,https://t.freetv.fun/live/su-qian-xin-wen-zong-he-1.m3u8
 []宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-4.m3u8
+[]宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-8.m3u8
+[]宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-5.m3u8
 []宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-1.m3u8
-[]宁夏卫视,https://t.freetv.fun/live/zhu-xia-wei-shi-12.m3u8
-[]宁夏卫视-,https://t.freetv.fun/live/zhu-xia-wei-shi-8.m3u8
+[]宁夏卫视-,https://t.freetv.fun/live/zhu-xia-wei-shi-16.m3u8
 宁波新闻综合,https://t.freetv.fun/live/zhu-bo-xin-wen-zong-he.m3u8
 []山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-18.m3u8
 []山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-24.m3u8
+[]山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-1.m3u8
 []山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-11.m3u8
 []山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-9.m3u8
 []山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-13.m3u8
@@ -685,7 +711,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-2-1.m3u8
 []山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-3-2.m3u8
 []山西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-4-1.m3u8
-[]山西卫视-,https://t.freetv.fun/live/shan-xi-wei-shi-18.m3u8
+[]山西卫视-,https://t.freetv.fun/live/shan-xi-wei-shi-20.m3u8
 []岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu.m3u8
 []岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-2.m3u8
 []岭南戏曲,https://t.freetv.fun/live/ling-nan-xi-qu-3.m3u8
@@ -725,14 +751,16 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-3.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-4.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-5.m3u8
+广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-6.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-7.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-8.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-9.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-10.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-11.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-12.m3u8
+广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-13.m3u8
+广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-14.m3u8
 广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-15.m3u8
-广东影视,https://t.freetv.fun/live/yan-dong-ying-shi-gao-qing-16.m3u8
 []广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen.m3u8
 []广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-6.m3u8
 []广东新闻,https://t.freetv.fun/live/yan-dong-xin-wen-28.m3u8
@@ -751,13 +779,16 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-7.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-1.m3u8
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-2.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-3.m3u8
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-4.m3u8
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-5.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-6.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-7.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-8.m3u8
+广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-9.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-10.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-11.m3u8
-广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-13.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-14.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-15.m3u8
 广东民生,https://t.freetv.fun/live/yan-dong-min-sheng-gao-qing-16.m3u8
@@ -773,24 +804,18 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-14.m3u8
 []广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-16.m3u8
 []广东珠江,https://t.freetv.fun/live/yan-dong-zhu-jiang-18.m3u8
-[]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong.m3u8
-[]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong-1.m3u8
-[]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong-2.m3u8
-[]广东移动,https://t.freetv.fun/live/yan-dong-yi-dong-3.m3u8
+广东移动,https://t.freetv.fun/live/yan-dong-yi-dong.m3u8
 []广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-15.m3u8
-[]广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-3.m3u8
+[]广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-5.m3u8
 []广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-13.m3u8
 []广东卫视,https://t.freetv.fun/live/yan-dong-wei-shi-17.m3u8
-[]广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-2.m3u8
 []广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-6.m3u8
 []广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-16.m3u8
-[]广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-8.php
 []广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-9.m3u8
 []广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-13.m3u8
 []广东体育,https://t.freetv.fun/live/yan-dong-ti-yu-14.m3u8
 []广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-15.m3u8
 []广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-11.m3u8
-[]广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-16.m3u8
 []广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-24.m3u8
 []广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-20.m3u8
 []广西卫视,https://t.freetv.fun/live/yan-xi-wei-shi-6.m3u8
@@ -813,12 +838,14 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-2.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-3.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-4.m3u8
+揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-5.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-6.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-7.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-8.m3u8
+揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-9.m3u8
+揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-10.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-14.m3u8
 揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-15.m3u8
-揭阳综合,https://t.freetv.fun/live/jie-yang-zong-he-gao-qing-18.m3u8
 []新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-2.m3u8
 []新疆卫视,https://t.freetv.fun/live/xin-jiang-wei-shi-15.m3u8
 晋城新闻,https://t.freetv.fun/live/jin-cheng-xin-wen-1.m3u8
@@ -836,6 +863,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []东方影视,https://t.freetv.fun/live/dong-fang-ying-shi.m3u8
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-2.m3u8
 东方影视,https://t.freetv.fun/live/dong-fang-ying-shi-3.m3u8
+[]东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-11.m3u8
 []东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-12.m3u8
 []东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-14.m3u8
 []东方卫视,https://t.freetv.fun/live/dong-fang-wei-shi-18.m3u8
@@ -851,6 +879,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 -汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-1.m3u8
+汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-2.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-3.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-4.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-5.m3u8
@@ -858,6 +887,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-7.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-8.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-9.m3u8
+汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-10.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-11.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-13.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-14.m3u8
@@ -866,24 +896,32 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-19.m3u8
 汕尾综合,https://t.freetv.fun/live/shan-wei-zong-he-gao-qing-22.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing.m3u8
+汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-1.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-2.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-3.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-4.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-5.m3u8
+汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-6.m3u8
+汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-7.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-8.m3u8
+汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-9.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-12.m3u8
-汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-13.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-14.m3u8
 汕头生活,https://t.freetv.fun/live/shan-tou-sheng-huo-gao-qing-18.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-1.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-2.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-3.m3u8
+汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-4.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-5.m3u8
+汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-6.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-7.m3u8
+汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-8.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-9.m3u8
+汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-10.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-11.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-12.m3u8
+汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-13.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-16.m3u8
 汕头综合,https://t.freetv.fun/live/shan-tou-zong-he-gao-qing-19.m3u8
 公共新闻,https://t.freetv.fun/live/gong-gong-xin-wen.m3u8
@@ -899,7 +937,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []江西卫视,https://t.freetv.fun/live/jiang-xi-wei-shi-23.m3u8
 []河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-17.m3u8
 []河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-21.m3u8
-[]河北卫视,https://t.freetv.fun/live/he-bei-wei-shi.m3u8
 []河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-1.m3u8
 []河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-4.m3u8
 []河北卫视,https://t.freetv.fun/live/he-bei-wei-shi-6.m3u8
@@ -917,6 +954,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-18.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-19.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-21.m3u8
+[]河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-23.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-26.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-29.m3u8
 []河南卫视,https://t.freetv.fun/live/he-nan-wei-shi-30.m3u8
@@ -931,7 +969,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 []浙江民生休闲,https://t.freetv.fun/live/zhe-jiang-min-sheng-xiu-xian-1.m3u8
 []浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-16.m3u8
-[]浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi.m3u8
 []浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-19.m3u8
 []浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-20.m3u8
 []浙江卫视,https://t.freetv.fun/live/zhe-jiang-wei-shi-22.m3u8
@@ -940,6 +977,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []浙江钱江,https://t.freetv.fun/live/zhe-jiang-qian-jiang-3.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-1.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-8.m3u8
+[]海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-5.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-7.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-2.m3u8
 []海南卫视,https://t.freetv.fun/live/hai-nan-wei-shi-9.m3u8
@@ -951,19 +989,18 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []海绵宝宝,https://t.freetv.fun/live/hai-mian-bao-bao-1.flv
 []深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-12.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-18.m3u8
-[]湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-1.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-4.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-5.m3u8
 []湖北卫视,https://t.freetv.fun/live/hu-bei-wei-shi-21.m3u8
-[]湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le-2.m3u8
 []湖南娱乐,https://t.freetv.fun/live/hu-nan-yu-le-3.m3u8
 []湖南教育,https://t.freetv.fun/live/hu-nan-jiao-yu.m3u8
 []湖南教育,https://t.freetv.fun/live/hu-nan-jiao-yu-1.m3u8
 []湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-2.m3u8
 []湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi.m3u8
-[]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-9.m3u8
 []湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-15.m3u8
+[]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-26.m3u8
+[]湖南卫视,https://t.freetv.fun/live/hu-nan-wei-shi-32.m3u8
 []湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-6.m3u8
 []湖州文化娱乐,https://t.freetv.fun/live/hu-zhou-wen-hua-yu-le-1.m3u8
 []泸州新闻综合,https://t.freetv.fun/live/lu-zhou-xin-wen-zong-he.m3u8
@@ -975,30 +1012,36 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 江津新闻综合,https://t.freetv.fun/live/jiang-jin-xin-wen-zong-he.m3u8
 []江阴新闻综合,https://t.freetv.fun/live/jiang-yin-xin-wen-zong-he-1.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing.m3u8
+经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-1.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-2.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-3.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-4.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-5.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-6.m3u8
-经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-7.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-8.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-9.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-10.m3u8
 经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-14.m3u8
-经济科教,https://t.freetv.fun/live/jing-ji-ke-jiao-gao-qing-15.m3u8
+潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-1.m3u8
+潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-2.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-3.m3u8
+潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-4.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-5.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-6.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-7.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-8.m3u8
+潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-9.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-10.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-13.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-14.m3u8
 潮州综合,https://t.freetv.fun/live/chao-zhou-zong-he-gao-qing-16.m3u8
 []无锡娱乐,https://t.freetv.fun/live/wu-xi-yu-le.m3u8
+[]无锡娱乐,https://t.freetv.fun/live/wu-xi-yu-le-1.m3u8
 []无锡生活,https://t.freetv.fun/live/wu-xi-sheng-huo.m3u8
+[]无锡生活,https://t.freetv.fun/live/wu-xi-sheng-huo-1.m3u8
 []无锡经济,https://t.freetv.fun/live/wu-xi-jing-ji.m3u8
+[]无锡经济,https://t.freetv.fun/live/wu-xi-jing-ji-1.m3u8
 []无锡都市资讯,https://t.freetv.fun/live/wu-xi-du-shi-zi-xun.m3u8
 []无锡都市资讯,https://t.freetv.fun/live/wu-xi-du-shi-zi-xun-1.m3u8
 []无锡都市资讯,https://t.freetv.fun/live/wu-xi-du-shi-zi-xun-2.m3u8
@@ -1022,8 +1065,8 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []绍兴新闻,https://t.freetv.fun/live/shao-xing-xin-wen.m3u8
 []萧山新闻综合,https://t.freetv.fun/live/xiao-shan-xin-wen-zong-he-1.m3u8
 []西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-7.m3u8
-[]西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-12.m3u8
 []西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-1.m3u8
+[]西藏卫视,https://t.freetv.fun/live/xi-cang-wei-shi-9.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-8.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-10.m3u8
@@ -1035,10 +1078,12 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-21.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-24.m3u8
 []贵州卫视,https://t.freetv.fun/live/gui-zhou-wei-shi-25.m3u8
+[]农林卫视,https://t.freetv.fun/live/nong-lin-wei-shi.m3u8
 []中国农林卫视,https://t.freetv.fun/live/zhong-guo-nong-lin-wei-shi.m3u8
 []中国农林卫视,https://t.freetv.fun/live/zhong-guo-nong-lin-wei-shi-1.m3u8
 辽宁公共,https://t.freetv.fun/live/liao-zhu-gong-gong.m3u8
 辽宁经济,https://t.freetv.fun/live/liao-zhu-jing-ji.m3u8
+[]辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-2.m3u8
 []辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-7.m3u8
 []辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-12.m3u8
 []辽宁卫视,https://t.freetv.fun/live/liao-zhu-wei-shi-4.m3u8
@@ -1046,8 +1091,6 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []邢台生活,https://t.freetv.fun/live/xing-tai-sheng-huo.m3u8
 []邢台综合,https://t.freetv.fun/live/xing-tai-zong-he.m3u8
 徐州新闻综合,https://t.freetv.fun/live/xu-zhou-xin-wen-zong-he-1.m3u8
-[]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-17.m3u8
-[]重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-25.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-3.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-5.m3u8
@@ -1057,12 +1100,14 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-22.m3u8
 []重庆卫视,https://t.freetv.fun/live/zhong-qing-wei-shi-26.m3u8
 金川新闻综合,rtmp://139.203.180.9/live/zhxw
+[]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong.m3u8
 []金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-1.m3u8
 []金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-4.m3u8
 []金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-5.m3u8
 []金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-9.m3u8
 []金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-6.m3u8
 []金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-7.m3u8
+[]金鹰卡通,https://t.freetv.fun/live/jin-ying-qia-tong-8.m3u8
 镇江新闻,rtmp://zjtv-wshls.homecdn.com/live/2aa16
 []江夏新闻综合,https://t.freetv.fun/live/jiang-xia-xin-wen-zong-he-1.m3u8
 江津新闻综合,https://t.freetv.fun/live/jiang-jin-xin-wen-zong-he-1-1.m3u8
@@ -1072,7 +1117,7 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-8.m3u8
 []陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-9-1.m3u8
 []陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-5-1.m3u8
-[]陕西都市青春,https://t.freetv.fun/live/shan-xi-du-shi-qing-chun.m3u8
+[]陕西卫视,https://t.freetv.fun/live/shan-xi-wei-shi-10-1.m3u8
 []陕西都市青春,https://t.freetv.fun/live/shan-xi-du-shi-qing-chun-1.m3u8
 []陕西都市青春,https://t.freetv.fun/live/shan-xi-du-shi-qing-chun-2.m3u8
 []陕西体育休闲,https://t.freetv.fun/live/shan-xi-ti-yu-xiu-xian.m3u8
@@ -1086,13 +1131,14 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 []云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-18.m3u8
 []云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-20.m3u8
 []云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-22.m3u8
-[]云南卫视-,https://t.freetv.fun/live/yun-nan-wei-shi-23.m3u8
+[]云南卫视,https://t.freetv.fun/live/yun-nan-wei-shi-24.m3u8
+[]云南卫视-,https://t.freetv.fun/live/yun-nan-wei-shi-26.m3u8
 []云南都市,https://t.freetv.fun/live/yun-nan-du-shi.m3u8
 电影,https://t.freetv.fun/live/dian-ying.flv
 电影,https://t.freetv.fun/live/dian-ying-1.flv
 电影,https://t.freetv.fun/live/dian-ying-2.flv
 []电影,https://t.freetv.fun/live/dian-ying-3.flv
-[]电影,https://t.freetv.fun/live/dian-ying-4.flv
+电影,https://t.freetv.fun/live/dian-ying-4.flv
 []电影,https://t.freetv.fun/live/dian-ying-5.flv
 []电影,https://t.freetv.fun/live/dian-ying-6.flv
 电影,https://t.freetv.fun/live/dian-ying-7.flv
@@ -1104,20 +1150,23 @@ chc影迷电影,https://t.freetv.fun/live/chcying-mi-dian-ying-8.m3u8
 丽水新闻综合,https://t.freetv.fun/live/li-shui-xin-wen-zong-he.m3u8
 []溧水新闻综合,https://t.freetv.fun/live/li-shui-xin-wen-zong-he-3.m3u8
 []黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-3.m3u8
-[]黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-7.m3u8
 []黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-19.m3u8
 []bethel tv,https://t.freetv.fun/live/bethel-tv.m3u8
 []bethel tv,https://t.freetv.fun/live/bethel-tv-1.m3u8
+[]cablenoticias,https://t.freetv.fun/live/cablenoticias.m3u8
 canal rcn,https://t.freetv.fun/live/canal-rcn.m3u8
 []el canal feliz,https://t.freetv.fun/live/el-canal-feliz.m3u8
 []canal a1 ᴴᴰ,https://t.freetv.fun/live/canal-a1-hd.m3u8
 canal goat,https://t.freetv.fun/live/canal-goat.m3u8
 []am canal,https://t.freetv.fun/live/am-canal.m3u8
+[]canal do boi,https://t.freetv.fun/live/canal-do-boi.m3u8
+canal congreso,https://t.freetv.fun/live/canal-congreso.m3u8
 caracol tv,https://t.freetv.fun/live/caracol-tv.m3u8
 caracol 2,https://t.freetv.fun/live/caracol-2.m3u8
 megavision canal 43,https://t.freetv.fun/live/megavision-canal-43.m3u8
 megavisión,https://t.freetv.fun/live/megavision.m3u8
 []gigavision,https://t.freetv.fun/live/gigavision.m3u8
+gamavision,https://t.freetv.fun/live/gamavision-1.m3u8
 canal n,https://t.freetv.fun/live/canal-n.m3u8
 televida,https://t.freetv.fun/live/televida.m3u8
 win sports,https://t.freetv.fun/live/win-sports.m3u8
@@ -1139,7 +1188,7 @@ mega,https://t.freetv.fun/live/mega-2.m3u8
 []cetv2,https://t.freetv.fun/live/cetv2-1.m3u8
 []cetv2,https://t.freetv.fun/live/cetv2-2.m3u8
 doma,https://t.freetv.fun/live/doma.m3u8
-doma,https://t.freetv.fun/live/doma-1.php
+[]doma,https://t.freetv.fun/live/doma-1.php
 axn cee czech republic,https://t.freetv.fun/live/axn-cee-czech-republic.m3u8
 nove,https://t.freetv.fun/live/nove.m3u8
 nove,https://t.freetv.fun/live/nove-1.m3u8
@@ -1168,7 +1217,7 @@ ocn tv,https://t.freetv.fun/live/ocn-tv.m3u8
 []abai tv,https://t.freetv.fun/live/abai-tv.m3u8
 abai tv,https://t.freetv.fun/live/abai-tv-1.m3u8
 watan egypt,https://t.freetv.fun/live/watan-egypt.m3u8
-[]food food,https://t.freetv.fun/live/food-food.m3u8
+food food,https://t.freetv.fun/live/food-food.m3u8
 delfi tv,https://t.freetv.fun/live/delfi-tv.m3u8
 btv action,https://t.freetv.fun/live/btv-action.m3u8
 []automotion,https://t.freetv.fun/live/automotion.m3u8
@@ -1177,9 +1226,11 @@ btv action,https://t.freetv.fun/live/btv-action.m3u8
 []bfm tv,https://t.freetv.fun/live/bfm-tv.m3u8
 t sports 7,https://t.freetv.fun/live/t-sports-7.m3u8
 euro tv,https://t.freetv.fun/live/euro-tv.m3u8
+euro tv,https://t.freetv.fun/live/euro-tv-1.m3u8
 boing,https://t.freetv.fun/live/boing.m3u8
 boomerang,https://t.freetv.fun/live/boomerang.m3u8
 []canal 8,https://t.freetv.fun/live/canal-8.m3u8
+[]canal futura,https://t.freetv.fun/live/canal-futura.m3u8
 []canal motor,https://t.freetv.fun/live/canal-motor.m3u8
 canal san roque,https://t.freetv.fun/live/canal-san-roque.m3u8
 []canal 56,https://t.freetv.fun/live/canal-56-1.m3u8
@@ -1205,14 +1256,16 @@ cine plus frisson,https://t.freetv.fun/live/cine-plus-frisson.m3u8
 viju plus premiere,https://t.freetv.fun/live/viju-plus-premiere.m3u8
 []cine plus classic,https://t.freetv.fun/live/cine-plus-classic.m3u8
 ciné plus classic fr,https://t.freetv.fun/live/cine-plus-classic-fr.m3u8
-[]ciné plus emotion fr,https://t.freetv.fun/live/cine-plus-emotion-fr.m3u8
+ciné plus emotion fr,https://t.freetv.fun/live/cine-plus-emotion-fr.m3u8
 []dieu tv,https://t.freetv.fun/live/dieu-tv.m3u8
 discovery science,https://t.freetv.fun/live/discovery-science.m3u8
 doyel tv,https://t.freetv.fun/live/doyel-tv.m3u8
 dorcel tv,https://t.freetv.fun/live/dorcel-tv.m3u8
 []euronews,https://t.freetv.fun/live/euronews-5.m3u8
 []euronews es,https://t.freetv.fun/live/euronews-es.m3u8
+euronews georgia,https://t.freetv.fun/live/euronews-georgia.m3u8
 []fashiontv,https://t.freetv.fun/live/fashiontv.m3u8
+[]fashiontv,https://t.freetv.fun/live/fashiontv-1.m3u8
 []fashion tv,https://t.freetv.fun/live/fashion-tv-2.m3u8
 []pink fashion,https://t.freetv.fun/live/pink-fashion.m3u8
 []france 24,https://t.freetv.fun/live/france-24.m3u8
@@ -1232,7 +1285,7 @@ m6,https://t.freetv.fun/live/m6.m3u8
 []mcm top,https://t.freetv.fun/live/mcm-top.m3u8
 []mcm top,https://t.freetv.fun/live/mcm-top-1.m3u8
 []mcm top,https://t.freetv.fun/live/mcm-top-2.m3u8
-[]mcm top,https://t.freetv.fun/live/mcm-top-3.m3u8
+mcm top,https://t.freetv.fun/live/mcm-top-3.m3u8
 man-ga,https://t.freetv.fun/live/man-ga.m3u
 myzen,https://t.freetv.fun/live/myzen.m3u8
 big planet,https://t.freetv.fun/live/big-planet.m3u8
@@ -1240,7 +1293,7 @@ big planet,https://t.freetv.fun/live/big-planet-1.m3u8
 []big planet,https://t.freetv.fun/live/big-planet-2.m3u8
 planète plus fr,https://t.freetv.fun/live/planete-plus-fr.m3u8
 []agr fm tv,https://t.freetv.fun/live/agr-fm-tv.m3u8
-rmc decouverte,https://t.freetv.fun/live/rmc-decouverte.m3u8
+[]rmc decouverte,https://t.freetv.fun/live/rmc-decouverte.m3u8
 []rtl9,https://t.freetv.fun/live/rtl9.m3u8
 []tf1,https://t.freetv.fun/live/tf1.m3u8
 []tv 5 monde,https://t.freetv.fun/live/tv-5-monde.m3u8
@@ -1259,8 +1312,10 @@ trace sport stars,https://t.freetv.fun/live/trace-sport-stars-3.m3u8
 []trace urban africa franco,https://t.freetv.fun/live/trace-urban-africa-franco.m3u8
 []lale,https://t.freetv.fun/live/lale.m3u8
 super canal,https://t.freetv.fun/live/super-canal.m3u8
-[]fortuna tv,https://t.freetv.fun/live/fortuna-tv-2.m3u8
+fortuna tv,https://t.freetv.fun/live/fortuna-tv-2.m3u8
+tv pirveli,https://t.freetv.fun/live/tv-pirveli.m3u8
 []tv8,https://t.freetv.fun/live/tv8.m3u8
+[]tv8,https://t.freetv.fun/live/tv8-2.m3u8
 arte 1,https://t.freetv.fun/live/arte-1.m3u8
 []arte,https://t.freetv.fun/live/arte.m3u8
 arte,https://t.freetv.fun/live/arte-2.m3u8
@@ -1272,9 +1327,11 @@ deutsche welle,https://t.freetv.fun/live/deutsche-welle.m3u8
 []3abn english,https://t.freetv.fun/live/3abn-english.m3u8
 english class,https://t.freetv.fun/live/english-class.m3u8
 []西班牙dw español ⓢ,https://t.freetv.fun/live/xi-ban-ya-dw-espanol-s.m3u8
+amc latin america,https://t.freetv.fun/live/amc-latin-america.m3u8
 []mtv latin america,https://t.freetv.fun/live/mtv-latin-america.m3u8
 a e latin america,https://t.freetv.fun/live/a-e-latin-america.m3u8
 axn latin america,https://t.freetv.fun/live/axn-latin-america.m3u8
+axn latin america,https://t.freetv.fun/live/axn-latin-america-1.m3u8
 []bbc news europe,https://t.freetv.fun/live/bbc-news-europe.m3u8
 das erste,https://t.freetv.fun/live/das-erste.m3u8
 das erste,https://t.freetv.fun/live/das-erste-3.m3u8
@@ -1297,13 +1354,14 @@ qvc,https://t.freetv.fun/live/qvc-2.m3u8
 qvc,https://t.freetv.fun/live/qvc-3.m3u8
 rbw,https://t.freetv.fun/live/rbw.m3u8
 rfd-tv,https://t.freetv.fun/live/rfd-tv-1.m3u8
+[]rbi tv,https://t.freetv.fun/live/rbi-tv.m3u8
 sky sport bundesliga de,https://t.freetv.fun/live/sky-sport-bundesliga-de.m3u8
 sky cinema drama uk,https://t.freetv.fun/live/sky-cinema-drama-uk.m3u8
 []krimi,https://t.freetv.fun/live/krimi.php
 []ionian channel,https://t.freetv.fun/live/ionian-channel.m3u8
 mega,https://t.freetv.fun/live/mega-1-1.m3u8
 mega,https://t.freetv.fun/live/mega-2-2.m3u8
-skai tv,https://t.freetv.fun/live/skai-tv.m3u8
+[]skai tv,https://t.freetv.fun/live/skai-tv.m3u8
 []creta,https://t.freetv.fun/live/creta.m3u8
 []canal 10,https://t.freetv.fun/live/canal-10.m3u8
 telesur,https://t.freetv.fun/live/telesur.m3u8
@@ -1313,6 +1371,7 @@ telesur,https://t.freetv.fun/live/telesur-1.m3u8
 []cctv-5体育,https://t.freetv.fun/live/cctv-5ti-yu.m3u8
 []cctv-1综合,https://t.freetv.fun/live/cctv-1zong-he-1.m3u8
 cctv-9纪录,https://t.freetv.fun/live/cctv-9ji-lu.m3u8
+[]cctv-12社会与法,https://t.freetv.fun/live/cctv-12she-hui-yu-fa.m3u8
 Animax *tv,https://t.freetv.fun/live/animax-tv.ts
 香港c plus,https://t.freetv.fun/live/xiang-gang-c-plus.m3u8
 viju plus megahit,https://t.freetv.fun/live/viju-plus-megahit-1.m3u8
@@ -1320,14 +1379,16 @@ viju plus megahit,https://t.freetv.fun/live/viju-plus-megahit-1.m3u8
 []иллюзион plus,https://t.freetv.fun/live/illiuzion-plus-2.m3u8
 []иллюзион plus,https://t.freetv.fun/live/illiuzion-plus-4.m3u8
 []иллюзион plus,https://t.freetv.fun/live/illiuzion-plus-5.m3u8
+skytennis plus,https://t.freetv.fun/live/skytennis-plus.php
+la nacion plus,https://t.freetv.fun/live/la-nacion-plus.m3u8
 []cctv1综合,https://t.freetv.fun/live/cctv1zong-he.m3u8
 []cctv-1hd,https://t.freetv.fun/live/cctv-1hd.m3u8
-cctv-1hd,https://t.freetv.fun/live/cctv-1hd-2.m3u8
-[]cctv-1hd,https://t.freetv.fun/live/cctv-1hd-3.m3u8
+[]cctv-1hd,https://t.freetv.fun/live/cctv-1hd-2.m3u8
+cctv-1hd,https://t.freetv.fun/live/cctv-1hd-3.m3u8
 []cctv1综合,https://t.freetv.fun/live/cctv1zong-he-1.m3u8
-[]cctv-1,https://t.freetv.fun/live/cctv-1-3.m3u8
+[]cctv-1,https://t.freetv.fun/live/cctv-1-2.m3u8
 []cctv-4k超,https://t.freetv.fun/live/cctv-4kchao-gao-qing-1.m3u8
-[]cctv-1hd,https://t.freetv.fun/live/cctv-1hd-4.m3u8
+cctv-1hd,https://t.freetv.fun/live/cctv-1hd-4.m3u8
 cctv-4k超,https://t.freetv.fun/live/cctv-4kchao-gao-qing-2.m3u8
 cctv-4k超,https://t.freetv.fun/live/cctv-4kchao-gao-qing-3.m3u8
 cctv-4k超,https://t.freetv.fun/live/cctv-4kchao-gao-qing-4.m3u8
@@ -1336,66 +1397,48 @@ cctv-4k超,https://t.freetv.fun/live/cctv-4kchao-gao-qing-7.m3u8
 cctv-4k超,https://t.freetv.fun/live/cctv-4kchao-gao-qing-8.m3u8
 []cctv1-综合,https://t.freetv.fun/live/cctv1-zong-he-3.m3u8
 []cctv1hd,https://t.freetv.fun/live/cctv1hd-5.m3u8
-hoytv,https://t.freetv.fun/live/hoytv.php
-hoytv,https://t.freetv.fun/live/hoytv-1.php
+discovery kids,https://t.freetv.fun/live/discovery-kids-1.m3u8
 mytime movie network,https://t.freetv.fun/live/mytime-movie-network-2.m3u8
 []movies!,https://t.freetv.fun/live/movies.m3u8
 tvs drive in movie (360p),https://t.freetv.fun/live/tvs-drive-in-movie-360p.m3u8
 now新闻,https://t.freetv.fun/live/nowxin-wen.m3u8
 now新闻,https://t.freetv.fun/live/nowxin-wen-1.php
-now新闻,https://t.freetv.fun/live/nowxin-wen-2.php
 nw sport 2,https://t.freetv.fun/live/nw-sport-2.m3u8
-[]popc,https://t.freetv.fun/live/popc.php
-[]popc,https://t.freetv.fun/live/popc-1.php
 rthk31,https://t.freetv.fun/live/rthk31.php
 rthk31,https://t.freetv.fun/live/rthk31-1.m3u8
+rthk31,https://t.freetv.fun/live/rthk31-2.php
 rthk32,https://t.freetv.fun/live/rthk32.php
 rthk32,https://t.freetv.fun/live/rthk32-1.m3u8
 cowboy plus sports,https://t.freetv.fun/live/cowboy-plus-sports.m3u8
 []tvbj1,https://t.freetv.fun/live/tvbj1.php
 tvbj1,https://t.freetv.fun/live/tvbj1-1.php
 atv plus,https://t.freetv.fun/live/atv-plus.m3u8
-[]tvb plus,https://t.freetv.fun/live/tvb-plus-1.php
 []tvb plus,https://t.freetv.fun/live/tvb-plus-2.m3u8
 tvb plus,https://t.freetv.fun/live/tvb-plus-3.m3u8
-[]tvbplus,https://t.freetv.fun/live/tvbplus.php
-[]tvbplus,https://t.freetv.fun/live/tvbplus-1.php
 []metv plus,https://t.freetv.fun/live/metv-plus.m3u8
 []metv plus,https://t.freetv.fun/live/metv-plus-1.m3u8
 asian,https://t.freetv.fun/live/asian.m3u8
 []tvb亚洲武侠,https://t.freetv.fun/live/tvbya-zhou-wu-xia.php
 tvb1,https://t.freetv.fun/live/tvb1.php
 tvbs亚洲,https://t.freetv.fun/live/tvbsya-zhou.m3u8
-[]tvb星河,https://t.freetv.fun/live/tvbxing-he-1.php
-viutv,https://t.freetv.fun/live/viutv-1.php
-nbc sports now,https://t.freetv.fun/live/nbc-sports-now.m3u8
+tvb星河,https://t.freetv.fun/live/tvbxing-he.m3u8
+viutvsix,https://t.freetv.fun/live/viutvsix.m3u8
 now sports 616 hk,https://t.freetv.fun/live/now-sports-616-hk.m3u8
 []prime,https://t.freetv.fun/live/prime.m3u8
-[]now财经,https://t.freetv.fun/live/nowcai-jing.php
 明珠,https://t.freetv.fun/live/ming-zhu-4.m3u8
-[]明珠,https://t.freetv.fun/live/ming-zhu.m3u8
 明珠,https://t.freetv.fun/live/ming-zhu-1.php
-[]明珠,https://t.freetv.fun/live/ming-zhu-3.php
-[]无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen.php
-[]无线新闻,https://t.freetv.fun/live/wu-xian-xin-wen-1.php
 无线新闻b,https://t.freetv.fun/live/wu-xian-xin-wen-b.php
-[]翡翠,https://t.freetv.fun/live/fei-cui-6.m3u8
 翡翠台,https://t.freetv.fun/live/fei-cui-tai.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui.php
-翡翠,https://t.freetv.fun/live/fei-cui-1.php
 []翡翠,https://t.freetv.fun/live/fei-cui-2.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui-3.m3u8
 []翡翠,https://t.freetv.fun/live/fei-cui-4.m3u8
-翡翠,https://t.freetv.fun/live/fei-cui-5.php
 翡翠,https://t.freetv.fun/live/fei-cui-8.m3u8
 翡翠,https://t.freetv.fun/live/fei-cui-9.m3u8
-[]凤凰中文,https://t.freetv.fun/live/feng-huang-zhong-wen.php
 []凤凰卫视中文,https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen-1.m3u8
-[]凤凰资讯,https://t.freetv.fun/live/feng-huang-zi-xun.php
 凤凰卫视电影台,https://t.freetv.fun/live/feng-huang-dian-ying.m3u8
 黄金华剧,https://t.freetv.fun/live/huang-jin-hua-ju-1.m3u8
 shalom tv,https://t.freetv.fun/live/shalom-tv-1.m3u8
-[]sony sports ten 1,https://t.freetv.fun/live/sony-sports-ten-1-1.ts
 meltem tv,https://t.freetv.fun/live/meltem-tv-2-1.m3u8
 fifa plus,https://t.freetv.fun/live/fifa-plus.m3u8
 kung fu plus,https://t.freetv.fun/live/kung-fu-plus.m3u8
@@ -1412,7 +1455,6 @@ cindie tv,https://t.freetv.fun/live/cindie-tv.m3u8
 kvartal tv,https://t.freetv.fun/live/kvartal-tv-1.m3u8
 []mma-tv,https://t.freetv.fun/live/mma-tv.m3u8
 []mma-tv,https://t.freetv.fun/live/mma-tv-2.m3u8
-[]maxima tv,https://t.freetv.fun/live/maxima-tv.m3u8
 []tht music,https://t.freetv.fun/live/tht-music.m3u8
 retro music tv ⓢ,https://t.freetv.fun/live/retro-music-tv-s.m3u8
 []ndtv india,https://t.freetv.fun/live/ndtv-india.m3u8
@@ -1422,8 +1464,8 @@ retro music tv ⓢ,https://t.freetv.fun/live/retro-music-tv-s.m3u8
 polo tv,https://t.freetv.fun/live/polo-tv.m3u8
 []soltv,https://t.freetv.fun/live/soltv.m3u8
 sentv,https://t.freetv.fun/live/sentv.m3u8
+[]cine sony,https://t.freetv.fun/live/cine-sony.m3u8
 musawachannel,https://t.freetv.fun/live/musawachannel.m3u8
-[]liv,https://t.freetv.fun/live/liv.m3u8
 []india,https://t.freetv.fun/live/india.m3u8
 []sony sports ten 1,https://t.freetv.fun/live/sony-sports-ten-1.ts
 toonami,https://t.freetv.fun/live/toonami.m3u8
@@ -1437,6 +1479,7 @@ zee bangla sonar,https://t.freetv.fun/live/zee-bangla-sonar.m3u8
 []cnbc indonesia,https://t.freetv.fun/live/cnbc-indonesia-2.m3u8
 []cnbc indonesia,https://t.freetv.fun/live/cnbc-indonesia-3.m3u8
 []cnn indonesia,https://t.freetv.fun/live/cnn-indonesia-3.m3u8
+[]disney channel,https://t.freetv.fun/live/disney-channel-1.m3u8
 []disney channel,https://t.freetv.fun/live/disney-channel-2.m3u8
 disney channel latin america,https://t.freetv.fun/live/disney-channel-latin-america.m3u8
 []disney channel,https://t.freetv.fun/live/disney-channel-7.m3u8
@@ -1454,6 +1497,8 @@ imam hussein tv 3,https://t.freetv.fun/live/imam-hussein-tv-3-1.m3u8
 iran press,https://t.freetv.fun/live/iran-press.m3u8
 []velayat tv,https://t.freetv.fun/live/velayat-tv-1.m3u8
 伊拉克sharqiya news,https://t.freetv.fun/live/yi-la-ke-sharqiya-news.m3u8
+al iraqiya news,https://t.freetv.fun/live/al-iraqiya-news.m3u8
+al iraqiya al 3ama,https://t.freetv.fun/live/al-iraqiya-al-3ama.m3u8
 cine 1,https://t.freetv.fun/live/cine-1.m3u8
 alpha cinema,https://t.freetv.fun/live/alpha-cinema.m3u8
 classic cinema (240p) [not 24/7],https://t.freetv.fun/live/classic-cinema-240p-not-24-7.m3u8
@@ -1462,6 +1507,7 @@ classic cinema,https://t.freetv.fun/live/classic-cinema-1.m3u8
 silk way cinema kz,https://t.freetv.fun/live/silk-way-cinema-kz.m3u8
 joj cinema,https://t.freetv.fun/live/joj-cinema.php
 []daai tv,https://t.freetv.fun/live/daai-tv.m3u8
+karbala tv channel,https://t.freetv.fun/live/karbala-tv-channel.ts
 karbala documentary,https://t.freetv.fun/live/karbala-documentary.m3u8
 bnt 3,https://t.freetv.fun/live/bnt-3.m3u8
 hala tv,https://t.freetv.fun/live/hala-tv-1.m3u8
@@ -1531,7 +1577,6 @@ rai world premium,https://t.freetv.fun/live/rai-world-premium.m3u8
 rai premium,https://t.freetv.fun/live/rai-premium.m3u8
 rai yoyo,https://t.freetv.fun/live/rai-yoyo.m3u8
 rete 4,https://t.freetv.fun/live/rete-4.m3u8
-sky sport basket it,https://t.freetv.fun/live/sky-sport-basket-it-1.m3u8
 telemas,https://t.freetv.fun/live/telemas-1.m3u8
 []tele pavia,https://t.freetv.fun/live/tele-pavia.m3u8
 topcrime,https://t.freetv.fun/live/topcrime.m3u8
@@ -1549,6 +1594,7 @@ alawla tv,https://t.freetv.fun/live/alawla-tv.m3u8
 nhk bsp4k jp,https://t.freetv.fun/live/nhk-bsp4k-jp.m3u8
 nhk world,https://t.freetv.fun/live/nhk-world.m3u8
 star channel,https://t.freetv.fun/live/star-channel.m3u8
+star channel,https://t.freetv.fun/live/star-channel-1.m3u8
 []star channel,https://t.freetv.fun/live/star-channel-2.m3u8
 []dtv,https://t.freetv.fun/live/dtv.m3u8
 dtv,https://t.freetv.fun/live/dtv-1.m3u8
@@ -1563,6 +1609,7 @@ sivan tv,https://t.freetv.fun/live/sivan-tv.m3u8
 []balapan,https://t.freetv.fun/live/balapan.m3u8
 arirang radio,https://t.freetv.fun/live/arirang-radio.m3u8
 []arirang,https://t.freetv.fun/live/arirang.m3u8
+[]arirang tv,https://t.freetv.fun/live/arirang-tv.m3u8
 arirang,https://t.freetv.fun/live/arirang-1.m3u8
 arirang radio,https://t.freetv.fun/live/arirang-radio-1.m3u8
 arirang,https://t.freetv.fun/live/arirang-2.m3u8
@@ -1579,16 +1626,17 @@ ebse,https://t.freetv.fun/live/ebse.m3u8
 ebs1,https://t.freetv.fun/live/ebs1.m3u8
 ebs1,https://t.freetv.fun/live/ebs1-1.m3u8
 ebs2,https://t.freetv.fun/live/ebs2.m3u8
+[]fish tv,https://t.freetv.fun/live/fish-tv.m3u8
 []good idea tv,https://t.freetv.fun/live/good-idea-tv.m3u8
 goodtv,https://t.freetv.fun/live/goodtv.m3u8
 dog tv,https://t.freetv.fun/live/dog-tv.m3u8
 ciné plus festival fr,https://t.freetv.fun/live/cine-plus-festival-fr.m3u8
-planète plus aventure fr,https://t.freetv.fun/live/planete-plus-aventure-fr.m3u8
+[]planète plus aventure fr,https://t.freetv.fun/live/planete-plus-aventure-fr.m3u8
 planète plus crime fr,https://t.freetv.fun/live/planete-plus-crime-fr.m3u8
 laliga por m plus es,https://t.freetv.fun/live/laliga-por-m-plus-es.m3u8
-[]vamos por m plus es,https://t.freetv.fun/live/vamos-por-m-plus-es.m3u8
+vamos por m plus es,https://t.freetv.fun/live/vamos-por-m-plus-es.m3u8
 []tvrus plus,https://t.freetv.fun/live/tvrus-plus.m3u8
-[]indie por m plus es,https://t.freetv.fun/live/indie-por-m-plus-es-1.m3u8
+indie por m plus es,https://t.freetv.fun/live/indie-por-m-plus-es-1.m3u8
 []pink plus,https://t.freetv.fun/live/pink-plus.m3u8
 []dankos plus,https://t.freetv.fun/live/dankos-plus.m3u8
 []твц plus 2,https://t.freetv.fun/live/tvts-plus-2.m3u8
@@ -1602,6 +1650,7 @@ n sports,https://t.freetv.fun/live/n-sports.m3u8
 []kctv,https://t.freetv.fun/live/kctv-1.m3u8
 []kctv,https://t.freetv.fun/live/kctv-2.m3u
 []kids tv,https://t.freetv.fun/live/kids-tv.m3u8
+[]box kids tv,https://t.freetv.fun/live/box-kids-tv.m3u8
 []extrema kids tv,https://t.freetv.fun/live/extrema-kids-tv.m3u8
 []ru.tv kids,https://t.freetv.fun/live/ru-tv-kids.m3u8
 []2 plus 2 sd,https://t.freetv.fun/live/2-plus-2-sd.m3u8
@@ -1622,16 +1671,17 @@ kurdistan 24,https://t.freetv.fun/live/kurdistan-24.m3u8
 []mma-tv,https://t.freetv.fun/live/mma-tv-1.m3u8
 []lao net tv,https://t.freetv.fun/live/lao-net-tv.m3u8
 nova,https://t.freetv.fun/live/nova.m3u8
-[]nova,https://t.freetv.fun/live/nova-2.m3u8
+nova,https://t.freetv.fun/live/nova-2.m3u8
 []kino nova,https://t.freetv.fun/live/kino-nova.m3u8
 []nova gold,https://t.freetv.fun/live/nova-gold.php
 []nova lady,https://t.freetv.fun/live/nova-lady.php
-nova fun,https://t.freetv.fun/live/nova-fun.php
+[]nova fun,https://t.freetv.fun/live/nova-fun.php
 payam tv,https://t.freetv.fun/live/payam-tv.m3u8
 ronahi tv,https://t.freetv.fun/live/ronahi-tv.m3u8
 []kvn tv,https://t.freetv.fun/live/kvn-tv-2.m3u8
 []zee aflam,https://t.freetv.fun/live/zee-aflam.m3u8
-andina rtv,https://t.freetv.fun/live/andina-rtv.m3u8
+[]andina rtv,https://t.freetv.fun/live/andina-rtv.m3u8
+andina rtv,https://t.freetv.fun/live/andina-rtv-1.m3u8
 caras tv,https://t.freetv.fun/live/caras-tv.m3u8
 cira tv,https://t.freetv.fun/live/cira-tv.m3u8
 kurdsat news,https://t.freetv.fun/live/kurdsat-news.m3u8
@@ -1650,6 +1700,7 @@ oli tv,https://t.freetv.fun/live/oli-tv.m3u8
 oli tv,https://t.freetv.fun/live/oli-tv-1.m3u8
 future lbn,https://t.freetv.fun/live/future-lbn.m3u8
 future tv,https://t.freetv.fun/live/future-tv.m3u8
+usa,https://t.freetv.fun/live/usa.ts
 []1 plus 1 international,https://t.freetv.fun/live/1-plus-1-international-1.m3u8
 []lbc international,https://t.freetv.fun/live/lbc-international.m3u8
 otv lbn,https://t.freetv.fun/live/otv-lbn.m3u8
@@ -1678,19 +1729,18 @@ Astro Oasis *tv,https://t.freetv.fun/live/astro-oasis-tv.ts
 []Astro Boo *tv,https://t.freetv.fun/live/astro-boo-tv.ts
 []Astro Badminton *tv,https://t.freetv.fun/live/astro-badminton-tv.ts
 []Astro Badminton 2 *tv,https://t.freetv.fun/live/astro-badminton-2-tv.ts
-Astro Footbal *tv,https://t.freetv.fun/live/astro-footbal-tv.ts
+[]Astro Footbal *tv,https://t.freetv.fun/live/astro-footbal-tv.ts
 []Astro Grandstand *tv,https://t.freetv.fun/live/astro-grandstand-tv.ts
 Astro Premier League *tv,https://t.freetv.fun/live/astro-premier-league-tv.ts
 Astro Premier League 2 *tv,https://t.freetv.fun/live/astro-premier-league-2-tv.ts
 []Astro QJ *tv,https://t.freetv.fun/live/astro-qj-tv.ts
 astro showcase *tv,https://t.freetv.fun/live/astro-showcase-tv.ts
 Astro Sports Plus *tv,https://t.freetv.fun/live/astro-sports-plus-tv.ts
-[]tvs,https://t.freetv.fun/live/tvs.m3u8
 []tvs,https://t.freetv.fun/live/tvs-1.m3u8
+astro欢喜,https://t.freetv.fun/live/astrohuan-xi.m3u8
 bergamo tv,https://t.freetv.fun/live/bergamo-tv.m3u8
 bergamo tv,https://t.freetv.fun/live/bergamo-tv-1.m3u8
 []disney xd,https://t.freetv.fun/live/disney-xd-1.m3u8
-[]jim,https://t.freetv.fun/live/jim.m3u8
 []jim jam,https://t.freetv.fun/live/jim-jam.m3u8
 ahora tv,https://t.freetv.fun/live/ahora-tv.m3u8
 maray tv,https://t.freetv.fun/live/maray-tv.m3u8
@@ -1710,27 +1760,30 @@ tv2,https://t.freetv.fun/live/tv2.m3u8
 tvp2,https://t.freetv.fun/live/tvp2.m3u8
 []tv3,https://t.freetv.fun/live/tv3.m3u8
 []baby time,https://t.freetv.fun/live/baby-time.m3u8
-[]天映经典,https://t.freetv.fun/live/tian-ying-jing-dian.php
-天映经典,https://t.freetv.fun/live/tian-ying-jing-dian-1.php
 天映经典,https://t.freetv.fun/live/tian-ying-jing-dian-2.m3u8
 天映经典,https://t.freetv.fun/live/tian-ying-jing-dian-4.m3u8
-[]天映经典,https://t.freetv.fun/live/tian-ying-jing-dian-5.php
 天映,https://t.freetv.fun/live/tian-ying.m3u8
 tv5,https://t.freetv.fun/live/tv5.m3u8
-[]latina noticias 24/7,https://t.freetv.fun/live/latina-noticias-24-7.m3u8
+latina noticias 24/7,https://t.freetv.fun/live/latina-noticias-24-7.m3u8
 azteca 7,https://t.freetv.fun/live/azteca-7.m3u8
+bandamax usa,https://t.freetv.fun/live/bandamax-usa.m3u8
+cinecanal south,https://t.freetv.fun/live/cinecanal-south.m3u8
+cinecanal pacific,https://t.freetv.fun/live/cinecanal-pacific.m3u8
+golden,https://t.freetv.fun/live/golden.m3u8
+golden edge,https://t.freetv.fun/live/golden-edge.m3u8
+[]el gourmet,https://t.freetv.fun/live/el-gourmet.m3u8
+el gourmet south,https://t.freetv.fun/live/el-gourmet-south.m3u8
 7 info,https://t.freetv.fun/live/7-info.m3u8
 studio universal,https://t.freetv.fun/live/studio-universal.m3u8
 studio universal,https://t.freetv.fun/live/studio-universal-1.m3u8
 m-studio,https://t.freetv.fun/live/m-studio.m3u8
 telemundo internacional,https://t.freetv.fun/live/telemundo-internacional.m3u8
 radio moldova,https://t.freetv.fun/live/radio-moldova.m3u8
-eco tv,https://t.freetv.fun/live/eco-tv.m3u8
+[]eco tv,https://t.freetv.fun/live/eco-tv.m3u8
+eco tv,https://t.freetv.fun/live/eco-tv-1.m3u8
 etv,https://t.freetv.fun/live/etv.m3u8
 []etv,https://t.freetv.fun/live/etv-1.m3u8
 []etv ⓖ,https://t.freetv.fun/live/etv-g.m3u8
-[]metv,https://t.freetv.fun/live/metv.m3u8
-[]fetv,https://t.freetv.fun/live/fetv.m3u8
 []metv,https://t.freetv.fun/live/metv-1.m3u8
 []metv,https://t.freetv.fun/live/metv-2.m3u8
 []tolo tv,https://t.freetv.fun/live/tolo-tv.m3u8
@@ -1757,7 +1810,6 @@ stryk tv (p),https://t.freetv.fun/live/stryk-tv-1080p.m3u8
 []tvcg 1,https://t.freetv.fun/live/tvcg-1.m3u8
 []cctv-5 plus,https://t.freetv.fun/live/cctv-5-plus.m3u8
 cctv-5 plus,https://t.freetv.fun/live/cctv-5-plus-1.m3u8
-cctv-5 plus,https://t.freetv.fun/live/cctv-5-plus-2.php
 cctv-5 plus,https://t.freetv.fun/live/cctv-5-plus-3.m3u8
 cctv-5 plus,https://t.freetv.fun/live/cctv-5-plus-4.m3u8
 cctv-5 plus,https://t.freetv.fun/live/cctv-5-plus-5.m3u8
@@ -1778,7 +1830,6 @@ rtv rijnmond,https://t.freetv.fun/live/rtv-rijnmond.m3u8
 waterbear,https://t.freetv.fun/live/waterbear.m3u8
 waterbear,https://t.freetv.fun/live/waterbear-1.m3u8
 []xite,https://t.freetv.fun/live/xite.m3u8
-bh tv,https://t.freetv.fun/live/bh-tv.m3u8
 []az tv,https://t.freetv.fun/live/az-tv.m3u8
 di tv,https://t.freetv.fun/live/di-tv.m3u8
 fb tv,https://t.freetv.fun/live/fb-tv-1.m3u8
@@ -1798,13 +1849,13 @@ action hollywood movies,https://t.freetv.fun/live/action-hollywood-movies.m3u8
 babyfirst,https://t.freetv.fun/live/babyfirst.m3u8
 babyfirst tv,https://t.freetv.fun/live/babyfirst-tv.m3u8
 []bolajon,https://t.freetv.fun/live/bolajon.m3u8
-[]bolajon,https://t.freetv.fun/live/bolajon-1.m3u8
+bolajon,https://t.freetv.fun/live/bolajon-1.m3u8
 []jitv,https://t.freetv.fun/live/jitv.m3u8
-jim,https://t.freetv.fun/live/jim-1.m3u8
 news 24 albania,https://t.freetv.fun/live/news-24-albania.m3u8
 []24 news,https://t.freetv.fun/live/24-news.m3u8
 []dunya news,https://t.freetv.fun/live/dunya-news.m3u8
 great entertainment television,https://t.freetv.fun/live/great-entertainment-television.m3u8
+[]umm tv,https://t.freetv.fun/live/umm-tv.m3u8
 iipc tv,https://t.freetv.fun/live/iipc-tv-1.m3u8
 []iipc tv (p) [geo-blocked],https://t.freetv.fun/live/iipc-tv-480p-geo-blocked.m3u8
 []maidan,https://t.freetv.fun/live/maidan.m3u8
@@ -1820,6 +1871,7 @@ telecentro,https://t.freetv.fun/live/telecentro.m3u8
 []telecentro,https://t.freetv.fun/live/telecentro-1.m3u8
 telemetro,https://t.freetv.fun/live/telemetro.m3u8
 canal e,https://t.freetv.fun/live/canal-e.m3u8
+[]canal ipe,https://t.freetv.fun/live/canal-ipe.m3u8
 canal e,https://t.freetv.fun/live/canal-e-1.m3u8
 movistar deportes,https://t.freetv.fun/live/movistar-deportes.m3u8
 []karibeña tv,https://t.freetv.fun/live/karibena-tv.m3u8
@@ -1838,7 +1890,6 @@ filmbox,https://t.freetv.fun/live/filmbox.m3u8
 []filmbox extra,https://t.freetv.fun/live/filmbox-extra.m3u8
 []filmbox family,https://t.freetv.fun/live/filmbox-family.m3u8
 []filmbox premium,https://t.freetv.fun/live/filmbox-premium.m3u8
-polsat sport premium 2,https://t.freetv.fun/live/polsat-sport-premium-2.m3u8
 polsat sport 3,https://t.freetv.fun/live/polsat-sport-3.m3u8
 polsat sport 2,https://t.freetv.fun/live/polsat-sport-2.m3u8
 polsat,https://t.freetv.fun/live/polsat.m3u8
@@ -1867,13 +1918,13 @@ kuriakos kids,https://t.freetv.fun/live/kuriakos-kids.m3u8
 azteca internacional,https://t.freetv.fun/live/azteca-internacional.m3u8
 azteca internacional,https://t.freetv.fun/live/azteca-internacional-1.m3u8
 nuestra tele internacional,https://t.freetv.fun/live/nuestra-tele-internacional.m3u8
+[]waldivision internacional,https://t.freetv.fun/live/waldivision-internacional.m3u8
 []rtp madeira,https://t.freetv.fun/live/rtp-madeira.m3u8
 []rtp madeira,https://t.freetv.fun/live/rtp-madeira-1.m3u8
 tvcine emotion pt,https://t.freetv.fun/live/tvcine-emotion-pt.m3u8
 tvcine edition pt,https://t.freetv.fun/live/tvcine-edition-pt.m3u8
 []rtp,https://t.freetv.fun/live/rtp.m3u8
 []rtp,https://t.freetv.fun/live/rtp-1.m3u8
-al jazeera english,https://t.freetv.fun/live/al-jazeera-english.m3u8
 al jazeera english,https://t.freetv.fun/live/al-jazeera-english-1.m3u8
 al jazeera english,https://t.freetv.fun/live/al-jazeera-english-2.m3u8
 al jazeera qa,https://t.freetv.fun/live/al-jazeera-qa.m3u8
@@ -1888,7 +1939,7 @@ axn cee romania,https://t.freetv.fun/live/axn-cee-romania.m3u8
 []agro tv,https://t.freetv.fun/live/agro-tv.m3u8
 agro tv,https://t.freetv.fun/live/agro-tv-2.m3u8
 agro tv,https://t.freetv.fun/live/agro-tv-3.m3u8
-guaro tv,https://t.freetv.fun/live/guaro-tv.m3u8
+[]guaro tv,https://t.freetv.fun/live/guaro-tv.m3u8
 agro tv moldova,https://t.freetv.fun/live/agro-tv-moldova.m3u8
 antena sur,https://t.freetv.fun/live/antena-sur.m3u8
 antena sur,https://t.freetv.fun/live/antena-sur-1.m3u8
@@ -1936,17 +1987,21 @@ minimax,https://t.freetv.fun/live/minimax-2.m3u8
 []national geographic,https://t.freetv.fun/live/national-geographic.m3u8
 []national geographic wild,https://t.freetv.fun/live/national-geographic-wild.m3u8
 national geographic,https://t.freetv.fun/live/national-geographic-1.m3u8
+national geographic,https://t.freetv.fun/live/national-geographic-2.m3u8
 []national geographic wild,https://t.freetv.fun/live/national-geographic-wild-2.m3u8
 []national geographic,https://t.freetv.fun/live/national-geographic-3.m3u8
 national geographic,https://t.freetv.fun/live/national-geographic-4.m3u8
 []national geographic,https://t.freetv.fun/live/national-geographic-5.m3u8
 []national geographic,https://t.freetv.fun/live/national-geographic-6.m3u8
+national geographic,https://t.freetv.fun/live/national-geographic-7.m3u8
 national geographic wild,https://t.freetv.fun/live/national-geographic-wild-4.m3u8
 []national geographic west,https://t.freetv.fun/live/national-geographic-west.m3u8
 []national geographic wild,https://t.freetv.fun/live/national-geographic-wild-5.m3u8
 105 national geographic,https://t.freetv.fun/live/105-national-geographic.m3u8
+national geographic,https://t.freetv.fun/live/national-geographic-8.m3u8
+national geographic latin america,https://t.freetv.fun/live/national-geographic-latin-america.m3u8
 []latina tv,https://t.freetv.fun/live/latina-tv-1.m3u8
-rika tv,https://t.freetv.fun/live/rika-tv.m3u8
+[]prima,https://t.freetv.fun/live/prima-1.php
 rock tv,https://t.freetv.fun/live/rock-tv.m3u8
 []rock tv,https://t.freetv.fun/live/rock-tv-1.m3u8
 tvri sport,https://t.freetv.fun/live/tvri-sport.m3u8
@@ -1964,6 +2019,7 @@ tvr sport,https://t.freetv.fun/live/tvr-sport.m3u8
 []viasat explore,https://t.freetv.fun/live/viasat-explore-3.m3u8
 []viasat history,https://t.freetv.fun/live/viasat-history.m3u8
 []viasat history,https://t.freetv.fun/live/viasat-history-1.m3u8
+[]viasat history,https://t.freetv.fun/live/viasat-history-2.m3u8
 []viasat history,https://t.freetv.fun/live/viasat-history-3.m3u8
 []viasat nature,https://t.freetv.fun/live/viasat-nature.m3u8
 []viasat nature,https://t.freetv.fun/live/viasat-nature-1.m3u8
@@ -2020,9 +2076,12 @@ khl,https://t.freetv.fun/live/khl-3.m3u8
 []khl,https://t.freetv.fun/live/khl-4.m3u8
 mir 24,https://t.freetv.fun/live/mir-24-1.m3u8
 []044 mir,https://t.freetv.fun/live/044-mir.m3u8
+[]moy mir,https://t.freetv.fun/live/moy-mir.m3u8
 []moskva. doveriye,https://t.freetv.fun/live/moskva-doveriye.m3u8
 []ntv mir,https://t.freetv.fun/live/ntv-mir.m3u8
 []nicktoons,https://t.freetv.fun/live/nicktoons.m3u8
+[]nicktoons,https://t.freetv.fun/live/nicktoons-2.m3u8
+[]nicktoons,https://t.freetv.fun/live/nicktoons-3.m3u8
 nicktoons cis,https://t.freetv.fun/live/nicktoons-cis.m3u8
 []nicktoons,https://t.freetv.fun/live/nicktoons-4.m3u8
 rtv noord,https://t.freetv.fun/live/rtv-noord.m3u8
@@ -2030,6 +2089,7 @@ rtv noord,https://t.freetv.fun/live/rtv-noord-1.m3u8
 ren tv,https://t.freetv.fun/live/ren-tv-1.m3u8
 rewind tv,https://t.freetv.fun/live/rewind-tv.m3u8
 []ren tv,https://t.freetv.fun/live/ren-tv-1-2.m3u8
+rtu,https://t.freetv.fun/live/rtu.m3u8
 rt,https://t.freetv.fun/live/rt.m3u8
 []rt,https://t.freetv.fun/live/rt-1.m3u8
 rtg,https://t.freetv.fun/live/rtg.m3u8
@@ -2343,14 +2403,15 @@ al sharqiya,https://t.freetv.fun/live/al-sharqiya.m3u8
 al sharqiya tv,https://t.freetv.fun/live/al-sharqiya-tv.m3u8
 al sharqiya,https://t.freetv.fun/live/al-sharqiya-2.m3u8
 arena sport 1,https://t.freetv.fun/live/arena-sport-1-3.m3u8
-bein sports 1 fr,https://t.freetv.fun/live/bein-sports-1-fr-1.m3u8
-[]bein sports 2 fr,https://t.freetv.fun/live/bein-sports-2-fr.m3u8
+bein sports 2 fr,https://t.freetv.fun/live/bein-sports-2-fr.m3u8
 []bein sports 3 fr,https://t.freetv.fun/live/bein-sports-3-fr.m3u8
 []cay tv,https://t.freetv.fun/live/cay-tv.m3u8
 doble c tv,https://t.freetv.fun/live/doble-c-tv-1.m3u8
 oromar tv,https://t.freetv.fun/live/oromar-tv.m3u8
+[]premiere clubes,https://t.freetv.fun/live/premiere-clubes.m3u8
 []uranio tv,https://t.freetv.fun/live/uranio-tv.m3u8
 apa tv,https://t.freetv.fun/live/apa-tv.m3u8
+space,https://t.freetv.fun/live/space.m3u8
 []spacetoon arabic,https://t.freetv.fun/live/spacetoon-arabic.m3u8
 []star cinema,https://t.freetv.fun/live/star-cinema.m3u8
 star cinema,https://t.freetv.fun/live/star-cinema-1.m3u8
@@ -2372,13 +2433,15 @@ cinema,https://t.freetv.fun/live/cinema.m3u8
 prva plus,https://t.freetv.fun/live/prva-plus.m3u8
 []rtl kockica,https://t.freetv.fun/live/rtl-kockica.m3u8
 []rts 2,https://t.freetv.fun/live/rts-2.m3u8
+rts,https://t.freetv.fun/live/rts.m3u8
 []rts 1,https://t.freetv.fun/live/rts-1.m3u8
 axn,https://t.freetv.fun/live/axn.m3u8
 axn,https://t.freetv.fun/live/axn-1.m3u8
+[]axn,https://t.freetv.fun/live/axn-2.m3u8
+axn,https://t.freetv.fun/live/axn-3.m3u8
 AXN  *tv,https://t.freetv.fun/live/axn-hd-tv.ts
 []mgm plus,https://t.freetv.fun/live/mgm-plus.m3u8
 cna,https://t.freetv.fun/live/cna.m3u8
-cna sg,https://t.freetv.fun/live/cna-sg.m3u8
 channel 5,https://t.freetv.fun/live/channel-5.m3u8
 channel 5,https://t.freetv.fun/live/channel-5-1.m3u8
 channel 8,https://t.freetv.fun/live/channel-8.m3u8
@@ -2387,11 +2450,14 @@ channel 8,https://t.freetv.fun/live/channel-8-3.m3u8
 []channel one plus 8,https://t.freetv.fun/live/channel-one-plus-8.m3u8
 []pink world cinema,https://t.freetv.fun/live/pink-world-cinema.m3u8
 []diva,https://t.freetv.fun/live/diva.m3u8
+xite hits,https://t.freetv.fun/live/xite-hits.m3u8
 xite hits,https://t.freetv.fun/live/xite-hits-1.m3u8
 asia,https://t.freetv.fun/live/asia.m3u8
 rock action,https://t.freetv.fun/live/rock-action-1.m3u8
 []sony channel,https://t.freetv.fun/live/sony-channel.m3u8
+sony channel,https://t.freetv.fun/live/sony-channel-1.m3u8
 sony movie channel,https://t.freetv.fun/live/sony-movie-channel.m3u8
+[]sony channel andes,https://t.freetv.fun/live/sony-channel-andes.m3u8
 ta3,https://t.freetv.fun/live/ta3.php
 joj,https://t.freetv.fun/live/joj.php
 jojko,https://t.freetv.fun/live/jojko.php
@@ -2404,6 +2470,7 @@ buzzr,https://t.freetv.fun/live/buzzr.m3u8
 []cgtn,https://t.freetv.fun/live/cgtn-3.m3u8
 []cgtn,https://t.freetv.fun/live/cgtn-4.m3u8
 []cgtn,https://t.freetv.fun/live/cgtn-7.m3u8
+[]cgtn法语,https://t.freetv.fun/live/cgtnfa-yu-5.m3u8
 []cgtn新闻,https://t.freetv.fun/live/cgtnxin-wen.m3u8
 []cgtn新闻,https://t.freetv.fun/live/cgtnxin-wen-1.m3u8
 []cgtn新闻,https://t.freetv.fun/live/cgtnxin-wen-2.m3u8
@@ -2418,7 +2485,7 @@ eitb 2,https://t.freetv.fun/live/eitb-2.m3u8
 energy,https://t.freetv.fun/live/energy.m3u8
 gol,https://t.freetv.fun/live/gol.m3u8
 []soltv,https://t.freetv.fun/live/soltv-1.m3u8
-cajamarca tv,https://t.freetv.fun/live/cajamarca-tv.m3u8
+[]cajamarca tv,https://t.freetv.fun/live/cajamarca-tv.m3u8
 []itv deportes,https://t.freetv.fun/live/itv-deportes.m3u8
 []itv deportes,https://t.freetv.fun/live/itv-deportes-1.m3u8
 real madrid tv,https://t.freetv.fun/live/real-madrid-tv.m3u8
@@ -2430,12 +2497,12 @@ real madrid tv,https://t.freetv.fun/live/real-madrid-tv.m3u8
 tv4,https://t.freetv.fun/live/tv4.m3u8
 tv4,https://t.freetv.fun/live/tv4-1.m3u8
 tv4,https://t.freetv.fun/live/tv4-2.m3u8
-viasat kino comedy,https://t.freetv.fun/live/viasat-kino-comedy.m3u8
+[]viasat kino comedy,https://t.freetv.fun/live/viasat-kino-comedy.m3u8
 viasat kino comedy,https://t.freetv.fun/live/viasat-kino-comedy-1.m3u8
 []viasat sport,https://t.freetv.fun/live/viasat-sport.m3u8
 himlen tv7,https://t.freetv.fun/live/himlen-tv7.m3u8
 himlen tv7,https://t.freetv.fun/live/himlen-tv7-1.m3u8
-[]canal plus family,https://t.freetv.fun/live/canal-plus-family.m3u8
+canal plus family,https://t.freetv.fun/live/canal-plus-family.m3u8
 []rsi la 2,https://t.freetv.fun/live/rsi-la-2.m3u8
 []rsi la 1,https://t.freetv.fun/live/rsi-la-1.m3u8
 []srf 1,https://t.freetv.fun/live/srf-1.m3u8
@@ -2467,16 +2534,18 @@ china channel,https://t.freetv.fun/live/china-channel.m3u8
 cn卡通,https://t.freetv.fun/live/cnqia-tong.m3u8
 dazn ringside,https://t.freetv.fun/live/dazn-ringside.m3u8
 []dazn1,rtmp://f13h.mine.nu/sat/tv731
+discovery world,https://t.freetv.fun/live/discovery-world.m3u8
 discovery,https://t.freetv.fun/live/discovery.m3u8
-dreamworks梦工厂动画,https://t.freetv.fun/live/dreamworksmeng-gong-chang-dong-hua.m3u8
+discovery id,https://t.freetv.fun/live/discovery-id.m3u8
+[]dreamworks梦工厂动画,https://t.freetv.fun/live/dreamworksmeng-gong-chang-dong-hua.m3u8
 []cctv4美洲,https://t.freetv.fun/live/cctv4mei-zhou.m3u8
-[]elta体育2,https://t.freetv.fun/live/eltati-yu-2.php
 delta tv,https://t.freetv.fun/live/delta-tv.m3u8
 []delta tv,https://t.freetv.fun/live/delta-tv-1.m3u8
 delta tv,https://t.freetv.fun/live/delta-tv-2.m3u8
 eleven sports 4,https://t.freetv.fun/live/eleven-sports-4.m3u8
 eleven sports 2,https://t.freetv.fun/live/eleven-sports-2.m3u8
 eleven sports 1,https://t.freetv.fun/live/eleven-sports-1.m3u8
+eleven sports 1,https://t.freetv.fun/live/eleven-sports-1-1.m3u8
 hbo movies,https://t.freetv.fun/live/hbo-movies.m3u8
 []hbo movies,https://t.freetv.fun/live/hbo-movies-1.m3u8
 []food network,https://t.freetv.fun/live/food-network-1.m3u8
@@ -2488,9 +2557,8 @@ hollywood,https://t.freetv.fun/live/hollywood.m3u8
 []hollywood,https://t.freetv.fun/live/hollywood-1.m3u8
 hollywood,https://t.freetv.fun/live/hollywood-2.m3u8
 []hollywood,https://t.freetv.fun/live/hollywood-3.m3u8
-[]hollywood,https://t.freetv.fun/live/hollywood-4.m3u8
+hollywood,https://t.freetv.fun/live/hollywood-4.m3u8
 []hollywood,https://t.freetv.fun/live/hollywood-5.m3u8
-love nature,https://t.freetv.fun/live/love-nature.m3u8
 love nature,https://t.freetv.fun/live/love-nature-3.m3u8
 love nature,https://t.freetv.fun/live/love-nature-5.m3u8
 love nature,https://t.freetv.fun/live/love-nature-6.m3u8
@@ -2500,58 +2568,38 @@ mezzo,https://t.freetv.fun/live/mezzo.m3u8
 靖洋卡通nice bingo,https://t.freetv.fun/live/jing-yang-qia-tong-nice-bingo.m3u8
 pet club tv,https://t.freetv.fun/live/pet-club-tv.m3u8
 pet club tv,https://t.freetv.fun/live/pet-club-tv-1.m3u8
-folklore tv,https://t.freetv.fun/live/folklore-tv.m3u8
+[]folklore tv,https://t.freetv.fun/live/folklore-tv.m3u8
 []smithsonian channel,https://t.freetv.fun/live/smithsonian-channel.m3u8
 smithsonian channel,https://t.freetv.fun/live/smithsonian-channel-1.m3u8
 []gold star,https://t.freetv.fun/live/gold-star.m3u8
 ttv,https://t.freetv.fun/live/ttv.m3u8
 []tvbs,https://t.freetv.fun/live/tvbs.m3u8
 tvbs,https://t.freetv.fun/live/tvbs-1.m3u8
-[]tvbs,https://t.freetv.fun/live/tvbs-2.php
 tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen.m3u8
 tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
+tvbs新闻,https://t.freetv.fun/live/tvbsxin-wen-1-1.m3u8
 tvbs欢乐,https://t.freetv.fun/live/tvbshuan-le.m3u8
 tudn,https://t.freetv.fun/live/tudn.m3u8
 三立新闻inews,https://t.freetv.fun/live/san-li-xin-wen-inews.m3u8
-[]中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
 []中视,rtmp://f13h.mine.nu/sat/tv091
 []中视,rtmp://f13h.mine.nu:1935/sat/tv091
-[]中视新闻,https://t.freetv.fun/live/zhong-shi-xin-wen-1.php
 []人间卫视,https://t.freetv.fun/live/ren-jian-wei-shi-1.m3u8
 []台视,rtmp://f13h.mine.nu/sat/tv071
 []台视,rtmp://f13h.mine.nu:1935/sat/tv071
 唯心电视,https://t.freetv.fun/live/wei-xin-dian-shi.m3u8
 唯心电视,https://t.freetv.fun/live/wei-xin-dian-shi-1.m3u8
-[]好莱坞电影,https://t.freetv.fun/live/hao-lai-wu-dian-ying.php
-[]年代新闻,https://t.freetv.fun/live/nian-dai-xin-wen.php
-[]东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen.php
 []东森洋片,https://t.freetv.fun/live/dong-sen-yang-pian.m3u8
-[]东森洋片,https://t.freetv.fun/live/dong-sen-yang-pian-2.m3u8
+[]东森洋片,https://t.freetv.fun/live/dong-sen-yang-pian-1.php
 []东森超视,rtmp://f13h.mine.nu/sat/tv331
-[]民视,https://t.freetv.fun/live/min-shi-2.php
 []民视,rtmp://f13h.mine.nu/sat/tv051
-[]民视,https://t.freetv.fun/live/min-shi-1.php
 民视 *28,https://t.freetv.fun/live/min-shi-28.m3u8
-[]民视第一,https://t.freetv.fun/live/min-shi-di-yi.php
-[]民视第一,https://t.freetv.fun/live/min-shi-di-yi-1.php
 []经典电影,https://t.freetv.fun/live/jing-dian-dian-ying.m3u8
 []经典香港电影,https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying.m3u8
 []纬来育乐,rtmp://f13h.mine.nu/sat/tv701
-[]纬来电影,https://t.freetv.fun/live/wei-lai-dian-ying.php
 []纬来体育,rtmp://f13h.mine.nu/sat/tv721
 []美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying.m3u8
-[]美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-1.php
-[]美亚电影,https://t.freetv.fun/live/mei-ya-dian-ying-2.php
 []台视,https://t.freetv.fun/live/tai-shi.ts
 []华视,rtmp://f13h.mine.nu/sat/tv111
-[]镜新闻,https://t.freetv.fun/live/jing-xin-wen.php
-镜新闻,https://t.freetv.fun/live/jing-xin-wen-1.php
-[]非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen.php
-[]非凡新闻,https://t.freetv.fun/live/fei-fan-xin-wen-2.php
-[]龙华经典,https://t.freetv.fun/live/long-hua-jing-dian.php
-[]龙华经典,https://t.freetv.fun/live/long-hua-jing-dian-1.php
-[]龙华电影,https://t.freetv.fun/live/long-hua-dian-ying.php
-[]龙华电影,https://t.freetv.fun/live/long-hua-dian-ying-1.php
 pop tv,https://t.freetv.fun/live/pop-tv.m3u8
 []cctv-2,https://t.freetv.fun/live/cctv-2.m3u8
 []cctv-2财经,https://t.freetv.fun/live/cctv-2cai-jing.m3u8
@@ -2568,7 +2616,7 @@ cctv-2财经,https://t.freetv.fun/live/cctv-2cai-jing-5.m3u8
 cctv-2财经,https://t.freetv.fun/live/cctv-2cai-jing-9.m3u8
 cctv-2财经,https://t.freetv.fun/live/cctv-2cai-jing-10.m3u8
 []cctv-2财经,https://t.freetv.fun/live/cctv-2cai-jing-11.m3u8
-cctv-2hd,https://t.freetv.fun/live/cctv-2hd-4.m3u8
+[]cctv-2hd,https://t.freetv.fun/live/cctv-2hd-4.m3u8
 tv-3,https://t.freetv.fun/live/tv-3.m3u8
 []3tv,https://t.freetv.fun/live/3tv.m3u8
 tvr 3,https://t.freetv.fun/live/tvr-3.m3u8
@@ -2594,6 +2642,7 @@ stvr,https://t.freetv.fun/live/stvr-1.php
 []trt haber,https://t.freetv.fun/live/trt-haber.m3u8
 []tgrt haber,https://t.freetv.fun/live/tgrt-haber.m3u8
 []trt,https://t.freetv.fun/live/trt.m3u8
+trt,https://t.freetv.fun/live/trt-1.m3u8
 trt avaz,https://t.freetv.fun/live/trt-avaz.m3u8
 trt avaz,https://t.freetv.fun/live/trt-avaz-1.m3u8
 trt müzik,https://t.freetv.fun/live/trt-muzik.m3u8
@@ -2609,6 +2658,7 @@ atv,https://t.freetv.fun/live/atv.m3u8
 atv,https://t.freetv.fun/live/atv-1.m3u8
 []atv,https://t.freetv.fun/live/atv-3.m3u8
 atv,https://t.freetv.fun/live/atv-4.m3u8
+[]atv,https://t.freetv.fun/live/atv-5.m3u8
 []10 tv,https://t.freetv.fun/live/10-tv.m3u8
 tvr 1,https://t.freetv.fun/live/tvr-1.m3u8
 []rtv 101,https://t.freetv.fun/live/rtv-101.m3u8
@@ -2656,19 +2706,19 @@ bein sport extra ñ,https://t.freetv.fun/live/bein-sport-extra-n.m3u8
 cnbc arabia,https://t.freetv.fun/live/cnbc-arabia.m3u8
 drama por m plus es,https://t.freetv.fun/live/drama-por-m-plus-es.m3u8
 []azan tv,https://t.freetv.fun/live/azan-tv.m3u8
+aza tv,https://t.freetv.fun/live/aza-tv.m3u8
 []noursat,https://t.freetv.fun/live/noursat.m3u8
-tn live,https://t.freetv.fun/live/tn-live.php
+[]tn live,https://t.freetv.fun/live/tn-live.php
 viju plus comedy,https://t.freetv.fun/live/viju-plus-comedy.m3u8
 max sport 2,https://t.freetv.fun/live/max-sport-2.m3u8
 max sport 3,https://t.freetv.fun/live/max-sport-3.m3u8
-max sport 3,https://t.freetv.fun/live/max-sport-3-1.m3u8
 max sport 4,https://t.freetv.fun/live/max-sport-4.m3u8
 alb uktv,https://t.freetv.fun/live/alb-uktv.m3u8
 bbc alba uk,https://t.freetv.fun/live/bbc-alba-uk.m3u8
 bbc america,https://t.freetv.fun/live/bbc-america-1.m3u8
-bbc four uk,https://t.freetv.fun/live/bbc-four-uk.m3u8
+[]bbc four uk,https://t.freetv.fun/live/bbc-four-uk.m3u8
 []bbc news,https://t.freetv.fun/live/bbc-news.m3u8
-[]bbc one uk,https://t.freetv.fun/live/bbc-one-uk.m3u8
+bbc one uk,https://t.freetv.fun/live/bbc-one-uk.m3u8
 bbc news uk,https://t.freetv.fun/live/bbc-news-uk.m3u8
 []bbc world,https://t.freetv.fun/live/bbc-world.m3u8
 []bridge classic,https://t.freetv.fun/live/bridge-classic.m3u8
@@ -2692,15 +2742,15 @@ turbo,https://t.freetv.fun/live/turbo.m3u8
 []english club,https://t.freetv.fun/live/english-club.m3u8
 euronews english,https://t.freetv.fun/live/euronews-english.m3u8
 euronews english,https://t.freetv.fun/live/euronews-english-1.m3u8
-[]film4 uk,https://t.freetv.fun/live/film4-uk.m3u8
+film4 uk,https://t.freetv.fun/live/film4-uk.m3u8
 cctv-storm football,https://t.freetv.fun/live/cctv-storm-football.m3u8
 sky sports football uk,https://t.freetv.fun/live/sky-sports-football-uk.m3u8
 []092 match football 3,https://t.freetv.fun/live/092-match-football-3.m3u8
 []082 match football 2,https://t.freetv.fun/live/082-match-football-2.m3u8
 []081 match football 1,https://t.freetv.fun/live/081-match-football-1.m3u8
 great,https://t.freetv.fun/live/great.m3u8
-rajeen tv,https://t.freetv.fun/live/rajeen-tv.m3u8
 []green tv,https://t.freetv.fun/live/green-tv.m3u8
+[]green tv,https://t.freetv.fun/live/green-tv-1.m3u8
 []storychannel tv (p),https://t.freetv.fun/live/storychannel-tv-720p.m3u8
 []horse and country,https://t.freetv.fun/live/horse-and-country-1.m3u8
 []horse and country tv,https://t.freetv.fun/live/horse-and-country-tv.m3u8
@@ -2715,10 +2765,12 @@ kiss tv,https://t.freetv.fun/live/kiss-tv-1.m3u8
 []rtv kiss,https://t.freetv.fun/live/rtv-kiss.m3u8
 itv1 london,https://t.freetv.fun/live/itv1-london.m3u8
 []NIcktoons *tv,https://t.freetv.fun/live/nicktoons-tv.ts
+[]nickelodeon,https://t.freetv.fun/live/nickelodeon.m3u8
 []nickelodeon,https://t.freetv.fun/live/nickelodeon-3.m3u8
 []nickelodeon,https://t.freetv.fun/live/nickelodeon-4.m3u8
 []nickelodeon,https://t.freetv.fun/live/nickelodeon-5.m3u8
 []nickelodeon,https://t.freetv.fun/live/nickelodeon-7.m3u8
+[]nickelodeon,https://t.freetv.fun/live/nickelodeon-9.m3u8
 099 nickelodeon,https://t.freetv.fun/live/099-nickelodeon.m3u8
 nickelodeon cis,https://t.freetv.fun/live/nickelodeon-cis.m3u8
 viju plus planet,https://t.freetv.fun/live/viju-plus-planet.m3u8
@@ -2739,15 +2791,15 @@ sky sports uhd 2 uk,https://t.freetv.fun/live/sky-sports-uhd-2-uk.m3u8
 sky sports action uk,https://t.freetv.fun/live/sky-sports-action-uk.m3u8
 sky cinema thriller uk,https://t.freetv.fun/live/sky-cinema-thriller-uk.m3u8
 sky cinema premiere uk,https://t.freetv.fun/live/sky-cinema-premiere-uk.m3u8
-sky cinema greats uk,https://t.freetv.fun/live/sky-cinema-greats-uk.m3u8
+[]sky cinema greats uk,https://t.freetv.fun/live/sky-cinema-greats-uk.m3u8
 sky cinema hits uk,https://t.freetv.fun/live/sky-cinema-hits-uk.m3u8
 []music classics,https://t.freetv.fun/live/music-classics.m3u8
 cartoon classics,https://t.freetv.fun/live/cartoon-classics.m3u8
 []cartoon classics,https://t.freetv.fun/live/cartoon-classics-1.m3u8
-sky cinema comedy uk,https://t.freetv.fun/live/sky-cinema-comedy-uk.m3u8
+[]sky cinema comedy uk,https://t.freetv.fun/live/sky-cinema-comedy-uk.m3u8
 sky cinema family uk,https://t.freetv.fun/live/sky-cinema-family-uk.m3u8
 []romance,https://t.freetv.fun/live/romance.m3u8
-sky cinema sci-fi horror uk,https://t.freetv.fun/live/sky-cinema-sci-fi-horror-uk.m3u8
+[]sky cinema sci-fi horror uk,https://t.freetv.fun/live/sky-cinema-sci-fi-horror-uk.m3u8
 []live,https://t.freetv.fun/live/live.ts
 sky sports plus uk,https://t.freetv.fun/live/sky-sports-plus-uk.m3u8
 sky sports cricket uk,https://t.freetv.fun/live/sky-sports-cricket-uk.m3u8
@@ -2764,19 +2816,19 @@ sky sports news,https://t.freetv.fun/live/sky-sports-news.ts
 sky sports news uk,https://t.freetv.fun/live/sky-sports-news-uk.m3u8
 sky sports premier league 50fps,https://t.freetv.fun/live/sky-sports-premier-league-50fps.m3u8
 sky sports premier league uk,https://t.freetv.fun/live/sky-sports-premier-league-uk.m3u8
-sky sport racing,https://t.freetv.fun/live/sky-sport-racing.m3u8
 []sky sports tennis uk,https://t.freetv.fun/live/sky-sports-tennis-uk.m3u8
 tntsports1,https://t.freetv.fun/live/tntsports1.php
-[]tnt sports 1,https://t.freetv.fun/live/tnt-sports-1-1.m3u8
+tnt sports 1,https://t.freetv.fun/live/tnt-sports-1-1.m3u8
 tnt sports 1 50fps,https://t.freetv.fun/live/tnt-sports-1-50fps.m3u8
 tnt sports 1 bola rusia,https://t.freetv.fun/live/tnt-sports-1-bola-rusia.m3u8
-[]tnt sports 2,https://t.freetv.fun/live/tnt-sports-2.m3u8
+tnt sports 2,https://t.freetv.fun/live/tnt-sports-2.m3u8
 tnt sports,https://t.freetv.fun/live/tnt-sports.m3u8
 tnt sports 3,https://t.freetv.fun/live/tnt-sports-3.m3u8
-tnt sports 4,https://t.freetv.fun/live/tnt-sports-4-2.m3u8
+[]tnt sports 4,https://t.freetv.fun/live/tnt-sports-4-2.m3u8
 virgin radio,https://t.freetv.fun/live/virgin-radio.m3u8
 wild earth,https://t.freetv.fun/live/wild-earth.m3u8
 []5 Star Max *tv,https://t.freetv.fun/live/5-star-max-tv.ts
+[]a e,https://t.freetv.fun/live/a-e.m3u8
 []abc news live 5,https://t.freetv.fun/live/abc-news-live-5.m3u8
 []abc news live 6,https://t.freetv.fun/live/abc-news-live-6.m3u8
 []abc news live 2,https://t.freetv.fun/live/abc-news-live-2.m3u8
@@ -2792,7 +2844,6 @@ amc,https://t.freetv.fun/live/amc-2.m3u8
 AMC *tv,https://t.freetv.fun/live/amc-tv.ts
 []axn movies,https://t.freetv.fun/live/axn-movies.m3u8
 accuweather,https://t.freetv.fun/live/accuweather.m3u8
-[]Action Max *tv,https://t.freetv.fun/live/action-max-tv.ts
 american crimes,https://t.freetv.fun/live/american-crimes.m3u8
 []great american faith living,https://t.freetv.fun/live/great-american-faith-living.m3u8
 []great american living,https://t.freetv.fun/live/great-american-living.m3u8
@@ -2802,9 +2853,9 @@ animal planet,https://t.freetv.fun/live/animal-planet-2.m3u8
 []animal planet,https://t.freetv.fun/live/animal-planet-3.m3u8
 Animal Planet,https://t.freetv.fun/live/animal-planet-1-1.m3u8
 []113 animal planet,https://t.freetv.fun/live/113-animal-planet.m3u8
-[]bet,https://t.freetv.fun/live/bet.m3u8
 bein sports xtra,https://t.freetv.fun/live/bein-sports-xtra.m3u8
 bein sports xtra,https://t.freetv.fun/live/bein-sports-xtra-1.m3u8
+[]bein sports haber,https://t.freetv.fun/live/bein-sports-haber.m3u8
 []bein sports usa,https://t.freetv.fun/live/bein-sports-usa.m3u8
 [].black,https://t.freetv.fun/live/black-1.m3u8
 [].black,https://t.freetv.fun/live/black-2.m3u8
@@ -2817,13 +2868,10 @@ bnn bloomberg ca,https://t.freetv.fun/live/bnn-bloomberg-ca.m3u8
 []bloomberg tv bulgaria,https://t.freetv.fun/live/bloomberg-tv-bulgaria.m3u8
 []bloomberg european tv,https://t.freetv.fun/live/bloomberg-european-tv.m3u8
 []bloomberg european tv,https://t.freetv.fun/live/bloomberg-european-tv-1.m3u8
-bravo vault,https://t.freetv.fun/live/bravo-vault.m3u8
 bravo,https://t.freetv.fun/live/bravo-1.m3u8
-[]bravo,https://t.freetv.fun/live/bravo-2.m3u8
 []bravo,https://t.freetv.fun/live/bravo-3.m3u8
 bravo west,https://t.freetv.fun/live/bravo-west.m3u8
 bravo,https://t.freetv.fun/live/bravo-4.m3u8
-c-span,https://t.freetv.fun/live/c-span.m3u8
 ucayalina de television,https://t.freetv.fun/live/ucayalina-de-television.m3u8
 []beverly hills television 10,https://t.freetv.fun/live/beverly-hills-television-10.m3u8
 qatar television 2,https://t.freetv.fun/live/qatar-television-2.m3u8
@@ -2841,6 +2889,7 @@ interactivo television,https://t.freetv.fun/live/interactivo-television.m3u8
 qatar television the holy quran,https://t.freetv.fun/live/qatar-television-the-holy-quran.m3u8
 ucayalina de television,https://t.freetv.fun/live/ucayalina-de-television-1.m3u8
 retromusica television,https://t.freetv.fun/live/retromusica-television.m3u8
+tc television,https://t.freetv.fun/live/tc-television.m3u8
 cbs,https://t.freetv.fun/live/cbs.m3u8
 []mlb network,https://t.freetv.fun/live/mlb-network.m3u8
 []sec network,https://t.freetv.fun/live/sec-network.m3u8
@@ -2874,6 +2923,7 @@ cinemax精选,https://t.freetv.fun/live/cinemaxjing-xuan.m3u8
 []cinemax 2,https://t.freetv.fun/live/cinemax-2-1.m3u8
 []tvs classic movies (288p),https://t.freetv.fun/live/tvs-classic-movies-288p.m3u8
 []ortb tv,https://t.freetv.fun/live/ortb-tv.m3u8
+ortb tv,https://t.freetv.fun/live/ortb-tv-1.m3u8
 []crime plus investigation,https://t.freetv.fun/live/crime-plus-investigation.m3u8
 []crime plus investigation cee,https://t.freetv.fun/live/crime-plus-investigation-cee.m3u8
 []cozi tv,https://t.freetv.fun/live/cozi-tv.m3u8
@@ -2883,7 +2933,6 @@ cinemax精选,https://t.freetv.fun/live/cinemaxjing-xuan.m3u8
 []davinci learning,https://t.freetv.fun/live/davinci-learning.m3u8
 []discovery life,https://t.freetv.fun/live/discovery-life-1.m3u8
 []disney,https://t.freetv.fun/live/disney.m3u8
-[]Disney Channel *tv,https://t.freetv.fun/live/disney-channel-tv.ts
 disney jr.,https://t.freetv.fun/live/disney-jr.m3u8
 []disney jr.,https://t.freetv.fun/live/disney-jr-1.m3u8
 []Disney Junior *tv,https://t.freetv.fun/live/disney-junior-tv.ts
@@ -2896,7 +2945,6 @@ disney jr.,https://t.freetv.fun/live/disney-jr.m3u8
 dove channel,https://t.freetv.fun/live/dove-channel.m3u8
 e!,https://t.freetv.fun/live/e.m3u8
 []e!,https://t.freetv.fun/live/e-1.m3u8
-[]Epix Hits *tv,https://t.freetv.fun/live/epix-hits-tv.ts
 []espn brasil 2,https://t.freetv.fun/live/espn-brasil-2.m3u8
 []espn 2,https://t.freetv.fun/live/espn-2-1.m3u8
 []espn 2,https://t.freetv.fun/live/espn-2-1-1.m3u8
@@ -2920,6 +2968,7 @@ ewtn,https://t.freetv.fun/live/ewtn.m3u8
 []kabc abc los angeles,https://t.freetv.fun/live/kabc-abc-los-angeles-1.m3u8
 []fox 11 los angeles,https://t.freetv.fun/live/fox-11-los-angeles.m3u8
 fox sports,https://t.freetv.fun/live/fox-sports-2-1.m3u8
+fox sports,https://t.freetv.fun/live/fox-sports-3.m3u8
 []fox soccer plus,https://t.freetv.fun/live/fox-soccer-plus.m3u8
 []fox sports 2,https://t.freetv.fun/live/fox-sports-2.ts
 dsports 2 co,https://t.freetv.fun/live/dsports-2-co.m3u8
@@ -2928,7 +2977,6 @@ fs1,https://t.freetv.fun/live/fs1.m3u8
 fs1,https://t.freetv.fun/live/fs1-1.m3u8
 fs2,https://t.freetv.fun/live/fs2.m3u8
 []fubo sports network,https://t.freetv.fun/live/fubo-sports-network.m3u8
-[]FXX *tv,https://t.freetv.fun/live/fxx-tv.ts
 []fxx,https://t.freetv.fun/live/fxx-1.m3u8
 []ftf sports,https://t.freetv.fun/live/ftf-sports.m3u8
 fightbox,https://t.freetv.fun/live/fightbox.m3u8
@@ -2943,15 +2991,20 @@ fox business network,https://t.freetv.fun/live/fox-business-network.m3u8
 []freeform,https://t.freetv.fun/live/freeform.m3u8
 []freeform,https://t.freetv.fun/live/freeform-1.m3u8
 []freeform west,https://t.freetv.fun/live/freeform-west.m3u8
+[]futura,https://t.freetv.fun/live/futura.m3u8
 []fyi,https://t.freetv.fun/live/fyi.m3u8
+fyi,https://t.freetv.fun/live/fyi-2.m3u8
 []golf channel,https://t.freetv.fun/live/golf-channel-1.m3u8
+golf channel latin america,https://t.freetv.fun/live/golf-channel-latin-america-1.m3u8
 golf zone,https://t.freetv.fun/live/golf-zone.m3u8
 hbo 2,https://t.freetv.fun/live/hbo-2-1.m3u8
 hbo 2,https://t.freetv.fun/live/hbo-2-2.m3u8
 hbo 3,https://t.freetv.fun/live/hbo-3-1.m3u8
 btv comedy,https://t.freetv.fun/live/btv-comedy.m3u8
-[]HBO Signature *tv,https://t.freetv.fun/live/hbo-signature-tv.ts
+[]hbo hits,https://t.freetv.fun/live/hbo-hits-1.m3u8
+HBO Signature *tv,https://t.freetv.fun/live/hbo-signature-tv.ts
 HBO Zone *tv,https://t.freetv.fun/live/hbo-zone-tv.ts
+[]hbo,https://t.freetv.fun/live/hbo-2.m3u8
 hbo2,https://t.freetv.fun/live/hbo2.m3u8
 hbo3,https://t.freetv.fun/live/hbo3.m3u8
 hsn,https://t.freetv.fun/live/hsn.m3u8
@@ -2970,9 +3023,11 @@ history,https://t.freetv.fun/live/history-3.m3u8
 history,https://t.freetv.fun/live/history-4.m3u8
 []viju history,https://t.freetv.fun/live/viju-history-2.m3u8
 viju history,https://t.freetv.fun/live/viju-history-3.m3u8
+[]history,https://t.freetv.fun/live/history-5.m3u8
 []history,https://t.freetv.fun/live/history-6.m3u8
 history,https://t.freetv.fun/live/history-7.m3u8
 cs history,https://t.freetv.fun/live/cs-history.php
+history,https://t.freetv.fun/live/history-8.m3u8
 []hollywire,https://t.freetv.fun/live/hollywire-1.m3u8
 []hollywire (p),https://t.freetv.fun/live/hollywire-720p.m3u8
 ifc,https://t.freetv.fun/live/ifc.m3u8
@@ -2988,15 +3043,12 @@ msg,https://t.freetv.fun/live/msg.m3u8
 mtv2,https://t.freetv.fun/live/mtv2-1.m3u8
 []mtv2,https://t.freetv.fun/live/mtv2-2.m3u8
 []MTV  *tv,https://t.freetv.fun/live/mtv-hd-tv.ts
-[]mtv ava,https://t.freetv.fun/live/mtv-ava.m3u8
-[]mtv sub,https://t.freetv.fun/live/mtv-sub.m3u8
 mtv,https://t.freetv.fun/live/mtv-1.m3u8
 mtv,https://t.freetv.fun/live/mtv-1-1.m3u8
-mtv sub,https://t.freetv.fun/live/mtv-sub-1.m3u8
-mtv ava,https://t.freetv.fun/live/mtv-ava-1.m3u8
-[]mtv,https://t.freetv.fun/live/mtv-2.m3u8
+[]mtv,https://t.freetv.fun/live/mtv-3.m3u8
 []mtv,https://t.freetv.fun/live/mtv-4.m3u8
 mtv,https://t.freetv.fun/live/mtv-5.m3u8
+[]mtv,https://t.freetv.fun/live/mtv-6.m3u8
 stvr live,https://t.freetv.fun/live/stvr-live.php
 motortrend,https://t.freetv.fun/live/motortrend.m3u8
 cs mystery,https://t.freetv.fun/live/cs-mystery.php
@@ -3007,7 +3059,6 @@ nat geo wild,https://t.freetv.fun/live/nat-geo-wild-1.m3u8
 []nat geo wild,https://t.freetv.fun/live/nat-geo-wild-3.m3u8
 wild nature,https://t.freetv.fun/live/wild-nature.m3u8
 []nba tv,https://t.freetv.fun/live/nba-tv.m3u8
-[]nbatv,https://t.freetv.fun/live/nbatv.php
 nbc,https://t.freetv.fun/live/nbc.m3u8
 []wabc abc new york,https://t.freetv.fun/live/wabc-abc-new-york.m3u8
 wnbc nbc new york,https://t.freetv.fun/live/wnbc-nbc-new-york.m3u8
@@ -3026,19 +3077,20 @@ newsnation,https://t.freetv.fun/live/newsnation-2.m3u8
 []nick jr,https://t.freetv.fun/live/nick-jr-2-1.m3u8
 []nick jr,https://t.freetv.fun/live/nick-jr-3-1.m3u8
 []nick jr.,https://t.freetv.fun/live/nick-jr-2.m3u8
-[]nick jr.,https://t.freetv.fun/live/nick-jr-1-1.m3u8
+nick jr.,https://t.freetv.fun/live/nick-jr-1-1.m3u8
 []nick jr.,https://t.freetv.fun/live/nick-jr-2-2.m3u8
 nick jr.,https://t.freetv.fun/live/nick-jr-3.m3u8
 nick jr.,https://t.freetv.fun/live/nick-jr-4.m3u8
 nick jr.,https://t.freetv.fun/live/nick-jr-6.m3u8
-Nick Jr. *tv,https://t.freetv.fun/live/nick-jr-tv.ts
+[]Nick Jr. *tv,https://t.freetv.fun/live/nick-jr-tv.ts
 own,https://t.freetv.fun/live/own.m3u8
-[]one america news network,https://t.freetv.fun/live/one-america-news-network.m3u8
+one america news network,https://t.freetv.fun/live/one-america-news-network.m3u8
 outdoor channel,https://t.freetv.fun/live/outdoor-channel-1.m3u8
 []pbs kids,https://t.freetv.fun/live/pbs-kids.m3u8
 pbs kids,https://t.freetv.fun/live/pbs-kids-1.m3u8
 paramount network,https://t.freetv.fun/live/paramount-network.m3u8
 paramount network,https://t.freetv.fun/live/paramount-network-1.m3u8
+paramount network latin america,https://t.freetv.fun/live/paramount-network-latin-america.m3u8
 popcorn central,https://t.freetv.fun/live/popcorn-central.m3u8
 []retro tv,https://t.freetv.fun/live/retro-tv-1.m3u8
 retro tv,https://t.freetv.fun/live/retro-tv-2.m3u8
@@ -3049,7 +3101,7 @@ star movies,https://t.freetv.fun/live/star-movies.m3u8
 []showtime women,https://t.freetv.fun/live/showtime-women.m3u8
 []showtime 2,https://t.freetv.fun/live/showtime-2.m3u8
 []showtime extreme,https://t.freetv.fun/live/showtime-extreme.m3u8
-showtime next,https://t.freetv.fun/live/showtime-next.m3u8
+[]showtime next,https://t.freetv.fun/live/showtime-next.m3u8
 []Showtime Next *tv,https://t.freetv.fun/live/showtime-next-tv.ts
 []star crime,https://t.freetv.fun/live/star-crime.m3u8
 star crime,https://t.freetv.fun/live/star-crime-1.m3u8
@@ -3060,11 +3112,8 @@ star crime,https://t.freetv.fun/live/star-crime-1.m3u8
 starz cinema,https://t.freetv.fun/live/starz-cinema.m3u8
 starz cinema,https://t.freetv.fun/live/starz-cinema-1.m3u8
 starz edge,https://t.freetv.fun/live/starz-edge.m3u8
-Starz Edge *tv,https://t.freetv.fun/live/starz-edge-tv.ts
 []starz encore action,https://t.freetv.fun/live/starz-encore-action.m3u8
 []starz encore westerns,https://t.freetv.fun/live/starz-encore-westerns.m3u8
-Starz Encore *tv,https://t.freetv.fun/live/starz-encore-tv.ts
-[]Starz West *tv,https://t.freetv.fun/live/starz-west-tv.ts
 syfy,https://t.freetv.fun/live/syfy-2.m3u8
 []syfy,https://t.freetv.fun/live/syfy-3.m3u8
 []tbn,https://t.freetv.fun/live/tbn.m3u8
@@ -3094,12 +3143,10 @@ universal crime,https://t.freetv.fun/live/universal-crime-1.m3u8
 universo,https://t.freetv.fun/live/universo.m3u8
 universal action,https://t.freetv.fun/live/universal-action-1.m3u8
 universal action,https://t.freetv.fun/live/universal-action-2.m3u8
-[]universal premier,https://t.freetv.fun/live/universal-premier-1.m3u8
-[]universal comedy,https://t.freetv.fun/live/universal-comedy-1.m3u8
 []radio universal,https://t.freetv.fun/live/radio-universal.m3u8
 universal tv,https://t.freetv.fun/live/universal-tv.m3u8
 univision,https://t.freetv.fun/live/univision.m3u8
-[]univision west,https://t.freetv.fun/live/univision-west.m3u8
+univision tlnovelas,https://t.freetv.fun/live/univision-tlnovelas.m3u8
 usa network,https://t.freetv.fun/live/usa-network.m3u8
 usa network,https://t.freetv.fun/live/usa-network-1.m3u8
 usa network latin america,https://t.freetv.fun/live/usa-network-latin-america.m3u8
@@ -3117,8 +3164,10 @@ hype visual radio (p),https://t.freetv.fun/live/hype-visual-radio-1080p.m3u8
 []we tv,https://t.freetv.fun/live/we-tv.m3u8
 we tv,https://t.freetv.fun/live/we-tv-1.m3u8
 we tv,https://t.freetv.fun/live/we-tv-2.m3u8
+world fishing network,https://t.freetv.fun/live/world-fishing-network.m3u8
 []动物星球,https://t.freetv.fun/live/dong-wu-xing-qiu-1.m3u8
 venevision,https://t.freetv.fun/live/venevision.m3u8
+[]venevision,https://t.freetv.fun/live/venevision-1.m3u8
 antv,https://t.freetv.fun/live/antv-1.m3u8
 1 plus 1 марафон,https://t.freetv.fun/live/1-plus-1-marafon-2.m3u8
 1 plus 1 марафон,https://t.freetv.fun/live/1-plus-1-marafon-3.m3u8
@@ -3284,16 +3333,12 @@ offer1,http://live.nctv.top/huya.php?id=30080237
 山东教育,https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 苏州,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 华语影视,http://www.goodiptv.club/douyu/3928
-电影八点档,http://live.metshop.top/huya/880261?cdn=alicdn
+电影丧尸片,http://live.metshop.top/huya/21059578?cdn=alicdn
 电影刘德华,http://live.metshop.top/huya/11342424?cdn=alicdn
 电影功夫片,http://live.metshop.top/huya/11352941?cdn=alicdn
 电影动作电影,http://live.metshop.top/huya/11602077?cdn=alicdn
-电影周星星,http://live.metshop.top/huya/11336587?cdn=alicdn
-电影嫣然影厅,http://live.metshop.top/huya/11601977?cdn=alicdn
-电影搞笑喜剧,http://live.metshop.top/huya/11342423?cdn=alicdn
+电影战争片,http://live.metshop.top/huya/21059574?cdn=alicdn
 电影梁家辉,http://live.metshop.top/huya/11342429?cdn=alicdn
-电影犯罪片,http://live.metshop.top/huya/11352974?cdn=alicdn
-电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
 电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
 电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
@@ -3334,15 +3379,14 @@ offer1,http://live.nctv.top/huya.php?id=30080237
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0
 太谷新闻综合,https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0
 奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
-安徽导视,http://dspdhls.appcoo.com:8888/live/dspd/index.m3u8
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
 平泉综合,https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8
 广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广安公共,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-广州综合,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488
 广德生活,https://live.gdtv.ah.cn/live/newsTV.m3u8
 延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
@@ -3357,9 +3401,9 @@ offer1,http://live.nctv.top/huya.php?id=30080237
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
-河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 河北农民,https://ls.qingting.fm/live/1650/64k.m3u8
 河北农民,http://ls.qingting.fm/live/1650.m3u8
+河北农民,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 泸县新闻综合,https://m3u8channel.ganzitv.com/nmip-media/channellive/channel1/playlist.m3u8
 洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv
 洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv
@@ -3372,12 +3416,11 @@ offer1,http://live.nctv.top/huya.php?id=30080237
 祁门综合,http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 福建新闻,http://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
-福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=221239fcf3c7edb274f2f0760fe47f96&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建经济,http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 荥经综合,https://file.ysxtv.cn/nmip-media/channellive/channel101492/playlist.m3u8
-荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 荥经综合,https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8
+荥经综合,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 衡水公共,http://ls.qingting.fm/live/2810.m3u8
 西安新闻,http://112.46.105.20:8009/hls/28/index.m3u8
 西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
@@ -4153,65 +4196,56 @@ BOO,p3p://focus169.org:26571/64137e860008ec16a58031233a436c8e
 
 
 ◆◆◆　https://raw.githubusercontent.com/n3rddd/CTVLive/refs/heads/main/live.txt
-更新日期,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-2026-07-08,https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
-翡翠台,https://mgev.188766.xyz/?migutoken=e027bbfbfe02bc36b72bd848539f8922&id=hk_fct&type=dy
-明珠台,https://mgev.188766.xyz/?migutoken=26c12108aa24cb805ba07dd2114be961&id=hk_mzt&type=dy
-
-
 ◆◆◆　https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=261d3569398a7f2a624886563cfe4dae&wsTime=1783490458
-都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=e22b68f1fbd00764cff08ce31b7e1726&wsTime=1783490458
-民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=822a9ff51c224d9312be66bec04408b0&wsTime=1783490458
-法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=b3a7acc5f5ccbde237b89f112dd411d8&wsTime=1783490458
-公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=c7dc13e40c7bc4a7d4870e4bc10c7355&wsTime=1783490458
-河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=22334d079e2dd5f682803abef62332cc&wsTime=1783490458
-电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=d28aac3b0196a3653c0617359e8c21c9&wsTime=1783490458
-武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=bf5684986c32fc017482b143a08b6d15&wsTime=1783490458
-睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=cb77e6791409fdb03d3e9ea5068830c7&wsTime=1783490458
-象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=a1be62cc3a5691abf854946f9cce2094&wsTime=1783490458
-国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=66f8eaf36f7968138a8e6fad6755d165&wsTime=1783490458
-欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=455ada2d9be7fd52af1bc51c50fa7bfa&wsTime=1783490458
+新闻,http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=9cd4397b5b151cbac4754c77b5571c30&wsTime=1783562366
+都市,http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=f08e85580b348791c802b4582bc11579&wsTime=1783562366
+民生,http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=5efc67d0361eace3ce8d5be9cd676a5c&wsTime=1783562366
+法治,http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=cadc8008739e25dc91f7634209fd409e&wsTime=1783562366
+公共,http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=9b81983cd0f94efcc9b11b2a5c8f30c0&wsTime=1783562366
+河南乡村,http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=48bc70c8adcc4a0f6a29316c41245978&wsTime=1783562366
+电视剧,http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=1246847fd34024f820c9e37241885a71&wsTime=1783562366
+武术,https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=7715569654a8e62996777b67f415fbc4&wsTime=1783562366
+睛彩中原,https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=162f4cac8919c78a4ad073b4be9a8635&wsTime=1783562366
+象视界,http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=801708a1a91e41c6163bd51476fb3a45&wsTime=1783562366
+国学,rtmp://rtmp.tv.stream3.hndt.com/tv/647f9277018410008cf925e200000000?wsSecret=9a23316ee66e918684e097f&wsSecret=2e16a311eb0514f6b08663a70b07f58a&wsTime=1783562366
+欢腾购物,http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=2534ddaa8cc79840b21e975447afef0c&wsTime=1783562366
 宁夏卫视-,http://60.10.139.113:8801/hls/57/index.m3u8
 青海卫视-,http://60.10.139.113:8801/hls/56/index.m3u8
 山西卫视-,http://60.10.139.113:8801/hls/54/index.m3u8
 云南卫视-,http://60.10.139.113:8801/hls/51/index.m3u8
-中国农林卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260708080234&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20260708080234&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6732870761f28422bd4b7dbc238504ba&sv=10004&ct=android
-上视东方影视,http://mgsp-ali2.live.miguvideo.com:8088/wd_r4/dfl/dianshijuhd/1200/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20260708080235&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260708080235&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=fc6bbc6fa8c367cbdf201e77fc165769&sv=10004&ct=android
-江苏国际,http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20260708080236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=171.8.79.254&SecurityKey=20260708080236&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=77098ffbbc68ddcc162e34abb9991c72&sv=10004&ct=android
-公共新闻,http://mgsp-hs2.live.miguvideo.com:8088/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20260708080236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20260708080236&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0c4f767caa4c1cfd314e8c31b67a7065&sv=10004&ct=android
-盐城新闻综合,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20260708080236&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=171.8.79.254&SecurityKey=20260708080236&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=577990264da796fc0ecbf05b268c4742&sv=10004&ct=android
-泰州新闻综合,http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20260708080237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=171.8.79.254&SecurityKey=20260708080237&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=47d2d881b465e08dcee928f41f9dc6c2&sv=10004&ct=android
-宿迁新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20260708080237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=171.8.79.254&SecurityKey=20260708080237&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4afd6c695469dcdc11f419cab3143b17&sv=10004&ct=android
-徐州新闻综合,http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/xzxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469368&pid=2028597139&timestamp=20260708080237&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731747&ParentNodeID=-99&assertID=5500469368&client_ip=171.8.79.254&SecurityKey=20260708080237&promotionId=&mvid=5102012620&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=14c12d793daea3a134038dfc8f3a51ea&sv=10004&ct=android
-江阴新闻综合,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/jyxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022177&pid=2028597139&timestamp=20260708080238&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227979&ParentNodeID=-99&assertID=5910022177&client_ip=171.8.79.254&SecurityKey=20260708080238&promotionId=&mvid=5900006705&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a46e8435aee8fea32934195ab17615f3&sv=10004&ct=android
-宜兴新闻综合,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260708080238&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260708080238&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2ad58a2803c3a2d75d72389f1c1037cf&sv=10004&ct=android
-海南广播电视总台新闻,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnysj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20260708080239&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20260708080239&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2b83140e0aca4d0d3a179672f06fc9f5&sv=10004&ct=android
-海南广播电视总台自贸,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lnsh/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20260708080239&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20260708080239&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=50864223f3416e98d05992fe03a6c826&sv=10004&ct=android
-海南广播电视总台社会与法,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/lngg/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20260708080239&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20260708080239&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6efdd5803fb11ca66a97def949fca2e3&sv=10004&ct=android
-海南广播电视总台文旅,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/lntyxx/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20260708080240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20260708080240&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=067bc9e5c310b4e2727e69ea9d79da74&sv=10004&ct=android
-海南广播电视总台少儿,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/nxwl/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20260708080240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20260708080240&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=48dcf57e16c89578a9daa6e4ee629b78&sv=10004&ct=android
-建党105周年巡礼,http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002413/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019527&pid=2028597139&timestamp=20260708080240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713600957&ParentNodeID=-99&assertID=5910019527&client_ip=171.8.79.254&SecurityKey=20260708080240&promotionId=&mvid=5900002443&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=be91abc7698130c6652f10e7a73f2de7&sv=10004&ct=android
-经典香港电影,http://mgsp-zy2.live.miguvideo.com:8088/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260708080240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20260708080240&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0aab2fac76d401c3f32ae689c2aff5ab&sv=10004&ct=android
-新片放映厅,http://hlsztemgsplive.miguvideo.com:8080/wd-virtuallive5100030975-150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20260708080240&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=171.8.79.254&SecurityKey=20260708080240&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1602eac0f6fcd1018c2adf59a8290632&sv=10004&ct=android
-和美乡途轮播,http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002411/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260708080241&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=171.8.79.254&SecurityKey=20260708080241&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=05d080d2ecf86eda6938dd799843ca1d&sv=10004&ct=android
-南方影视,http://hlsztemgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20260708080241&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20260708080241&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5df98381c85c6845ee0ef54bea149bfe&sv=10004&ct=android
-山东教育,http://mgsp-ali2.live.miguvideo.com:8088/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260708080242&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=171.8.79.254&SecurityKey=20260708080242&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c847be112504dcd48adee39ab275dce4&sv=10004&ct=android
-熊猫01,http://hlszymgsplive.miguvideo.com:8080/ws_x/2018/xiongmao/HD/2000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2202634723&pid=2028597139&timestamp=20260708080242&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609158151&ParentNodeID=-99&assertID=2202634723&client_ip=171.8.79.254&SecurityKey=20260708080242&promotionId=&mvid=2202634723&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6753a583d112c54eb1476697b6a6c1b8&sv=10004&ct=android
-熊猫1,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20260708080242&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=171.8.79.254&SecurityKey=20260708080242&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b20a0dca7e92bc4230cff0a4fbdef83d&sv=10004&ct=android
-熊猫2,http://mgsp-hs2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao02/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200717&pid=2028597139&timestamp=20260708080242&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608933640&ParentNodeID=-99&assertID=2200200717&client_ip=171.8.79.254&SecurityKey=20260708080242&promotionId=&mvid=2200200717&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9d345f9596b89d6e465713faee0a6494&sv=10004&ct=android
-熊猫3,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20260708100232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=171.8.79.254&SecurityKey=20260708100232&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=620ecc953b8ee1f86bf91bbf7061fb77&sv=10004&ct=android
-熊猫4,http://mgsp-ali2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20260708100232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=171.8.79.254&SecurityKey=20260708100232&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=014534085a1168ce4585e937e61a2ae9&sv=10004&ct=android
-熊猫5,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao05/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200791&pid=2028597139&timestamp=20260708100232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608935104&ParentNodeID=-99&assertID=2200200791&client_ip=171.8.79.254&SecurityKey=20260708100232&promotionId=&mvid=2200200791&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4067d6b924725fbcb52ff1c73ffc555e&sv=10004&ct=android
-熊猫6,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao06/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200817&pid=2028597139&timestamp=20260708100232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608935797&ParentNodeID=-99&assertID=2200200817&client_ip=171.8.79.254&SecurityKey=20260708100232&promotionId=&mvid=2200200817&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a74caad64d7c83552cee06bfbf5cddf5&sv=10004&ct=android
-熊猫7,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20260708100232&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=171.8.79.254&SecurityKey=20260708100232&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=6f35231db9b9af06010fa681e508d842&sv=10004&ct=android
-熊猫8,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20260708100233&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=171.8.79.254&SecurityKey=20260708100233&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=366187a00f5b7331be322fa3b7575461&sv=10004&ct=android
-熊猫9,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20260708080243&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=171.8.79.254&SecurityKey=20260708080243&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=c7e8a70f54ec78656c46731ba541fe78&sv=10004&ct=android
-熊猫10,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao10/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192937&pid=2028597139&timestamp=20260708080243&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169285&ParentNodeID=-99&assertID=2200192937&client_ip=171.8.79.254&SecurityKey=20260708080243&promotionId=&mvid=2200192937&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a53faa95d24f021d1f4f0d8adfed9d3a&sv=10004&ct=android
-新动力量创一流,http://hlsztemgsplive.miguvideo.com:8080/migu/virtuallive2/5900002409/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260708080244&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=171.8.79.254&SecurityKey=20260708080244&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f5e151383930c49666057e9a3a02539d&sv=10004&ct=android
-中乙 山西崇德荣海VS大连可为 解说 15:50,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss172_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510507003&pid=2028597139&timestamp=20260708100243&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966050488&ParentNodeID=-99&assertID=7510507003&client_ip=171.8.79.254&SecurityKey=20260708100243&promotionId=&mvid=7510253167&mcid=500020&mpid=120000572004&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ed05f25e7954a49b8ac16e1c06f58a66&sv=10004&ct=android
-中乙 杭州临平吴越VS江西庐山 解说 19:20,http://flvhspull2mgsplive.miguvideo.com:80/mglive/mgss173_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510507005&pid=2028597139&timestamp=20260708100244&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966050498&ParentNodeID=-99&assertID=7510507005&client_ip=171.8.79.254&SecurityKey=20260708100244&promotionId=&mvid=7510253168&mcid=500020&mpid=120000571995&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1ff9e859a34f69173187100e1173323f&sv=10004&ct=android
-浙BA 衢江VS龙游 2026赛季浙江省城市篮球联赛衢州赛区: 衢江VS龙游 19:30,http://flvctypull2mgsplive.miguvideo.com:80/mglive/mgss178_54.flv?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=7510506657&pid=2028597139&timestamp=20260708080254&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=966011074&ParentNodeID=-99&assertID=7510506657&client_ip=171.8.79.254&SecurityKey=20260708080254&promotionId=&mvid=7510252994&mcid=500020&mpid=120000582332&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e7426be61c44ab3db43a9d4d774aec82&sv=10004&ct=android
+中国农林卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/zgnlws/51/20250804/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600572&netType=0&sid=5910022186&pid=2028597139&timestamp=20260709040210&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=956904896&ParentNodeID=-99&assertID=5910022186&client_ip=171.8.79.254&SecurityKey=20260709040210&promotionId=&mvid=5900006709&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2b267f35e0689feceaa01cf50b671277&sv=10004&ct=android
+上视东方影视,http://hlszymgsplive.miguvideo.com:8080/wd_r4/dfl/dianshijuhd/1200/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699212&netType=0&sid=5500002274&pid=2028597139&timestamp=20260709040211&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=617290047&ParentNodeID=-99&assertID=5500002274&client_ip=171.8.79.254&SecurityKey=20260709040211&promotionId=&mvid=5100001715&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=66a63bd4593f8cb98b65054c2a2f8d96&sv=10004&ct=android
+江苏国际,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsguoji/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260577&pid=2028597139&timestamp=20260709040212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064674&ParentNodeID=-99&assertID=5500260577&client_ip=171.8.79.254&SecurityKey=20260709040212&promotionId=&mvid=5100186482&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f4bfedb9f8e9a060ffb3bcb0785973ea&sv=10004&ct=android
+公共新闻,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/jsgonggong/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260520&pid=2028597139&timestamp=20260709040212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064693&ParentNodeID=-99&assertID=5500260520&client_ip=171.8.79.254&SecurityKey=20260709040212&promotionId=&mvid=5100186429&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=2e35bacc1157036d35ea6e3c59375b6a&sv=10004&ct=android
+盐城新闻综合,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/ycxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469360&pid=2028597139&timestamp=20260709040212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731825&ParentNodeID=-99&assertID=5500469360&client_ip=171.8.79.254&SecurityKey=20260709040212&promotionId=&mvid=5102012617&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5e3be58a63875add1e91c6761272d563&sv=10004&ct=android
+泰州新闻综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469354&pid=2028597139&timestamp=20260709040213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731818&ParentNodeID=-99&assertID=5500469354&client_ip=171.8.79.254&SecurityKey=20260709040213&promotionId=&mvid=5102012615&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9eb066ec127b4cbc9d770fba666aaf99&sv=10004&ct=android
+宿迁新闻综合,http://mgsp-hs2.live.miguvideo.com:8088/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469357&pid=2028597139&timestamp=20260709040213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731832&ParentNodeID=-99&assertID=5500469357&client_ip=171.8.79.254&SecurityKey=20260709040213&promotionId=&mvid=5102012616&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=869c96bf4e854afbd8631cf04aafb797&sv=10004&ct=android
+徐州新闻综合,http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/xzxinwenzonghe/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500469368&pid=2028597139&timestamp=20260709040213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=639731747&ParentNodeID=-99&assertID=5500469368&client_ip=171.8.79.254&SecurityKey=20260709040213&promotionId=&mvid=5102012620&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=704ae9dbc0152e98200d08722b637ab7&sv=10004&ct=android
+江阴新闻综合,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jyxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022177&pid=2028597139&timestamp=20260709040213&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227979&ParentNodeID=-99&assertID=5910022177&client_ip=171.8.79.254&SecurityKey=20260709040213&promotionId=&mvid=5900006705&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=12723e9d28b202ac6e5fc65818548b89&sv=10004&ct=android
+宜兴新闻综合,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/yxxwzh/51/20250604/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5910022179&pid=2028597139&timestamp=20260709040214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=955227996&ParentNodeID=-99&assertID=5910022179&client_ip=171.8.79.254&SecurityKey=20260709040214&promotionId=&mvid=5900006707&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d9d30211d6b39b23d50b05ad15b9f392&sv=10004&ct=android
+海南广播电视总台新闻,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/lnysj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022326&pid=2028597139&timestamp=20260709040215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067517&ParentNodeID=-99&assertID=5910022326&client_ip=171.8.79.254&SecurityKey=20260709040215&promotionId=&mvid=5900006789&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=7f1bc797484720327959d0163f78b284&sv=10004&ct=android
+海南广播电视总台自贸,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/lnsh/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022324&pid=2028597139&timestamp=20260709040215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962045226&ParentNodeID=-99&assertID=5910022324&client_ip=171.8.79.254&SecurityKey=20260709040215&promotionId=&mvid=5900006792&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=af5632c3466cc3f67de59db534ee7c5c&sv=10004&ct=android
+海南广播电视总台社会与法,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/lngg/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022323&pid=2028597139&timestamp=20260709040215&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962045223&ParentNodeID=-99&assertID=5910022323&client_ip=171.8.79.254&SecurityKey=20260709040215&promotionId=&mvid=5900006791&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ff6faf530c923bce1387346893292dc5&sv=10004&ct=android
+海南广播电视总台文旅,http://mgsp-cty2.live.miguvideo.com:8088/migu/kailu/lntyxx/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022329&pid=2028597139&timestamp=20260709040216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067526&ParentNodeID=-99&assertID=5910022329&client_ip=171.8.79.254&SecurityKey=20260709040216&promotionId=&mvid=5900006790&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0fcdd86ac51b6a880b9933d6aed7156e&sv=10004&ct=android
+海南广播电视总台少儿,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/nxwl/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022328&pid=2028597139&timestamp=20260709040216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=962067523&ParentNodeID=-99&assertID=5910022328&client_ip=171.8.79.254&SecurityKey=20260709040216&promotionId=&mvid=5900006788&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=ecce1216db62f97f5618407e72dcec0b&sv=10004&ct=android
+建党105周年巡礼,http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002413/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019527&pid=2028597139&timestamp=20260709040216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713600957&ParentNodeID=-99&assertID=5910019527&client_ip=171.8.79.254&SecurityKey=20260709040216&promotionId=&mvid=5900002443&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=3e5c0220f3c5e014d071290bd3cc88c4&sv=10004&ct=android
+经典香港电影,http://mgsp-ali2.live.miguvideo.com:8088/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260709040216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20260709040216&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=62bf65407957d05da0c8673b7bab6358&sv=10004&ct=android
+新片放映厅,http://hlszymgsplive.miguvideo.com:8080/wd-virtuallive5100030975-150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500035175&pid=2028597139&timestamp=20260709040216&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=619495952&ParentNodeID=-99&assertID=5500035175&client_ip=171.8.79.254&SecurityKey=20260709040216&promotionId=&mvid=5100030975&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=25d44fade66c723962e1368b79bb9206&sv=10004&ct=android
+和美乡途轮播,http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002411/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019525&pid=2028597139&timestamp=20260709040217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713591450&ParentNodeID=-99&assertID=5910019525&client_ip=171.8.79.254&SecurityKey=20260709040217&promotionId=&mvid=5900002421&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5898ddf2d3f2d43a115e4126c0a66227&sv=10004&ct=android
+南方影视,http://hlszymgsplive.miguvideo.com:8080/wd_r1/2018/nfmedia/nfys/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699054&netType=0&sid=2206173738&pid=2028597139&timestamp=20260709040217&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=614961829&ParentNodeID=-99&assertID=2206173738&client_ip=171.8.79.254&SecurityKey=20260709040217&promotionId=&mvid=2206173738&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=0febdffb6d9ce8127a2e2db52426ef67&sv=10004&ct=android
+山东教育,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20260709040218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=171.8.79.254&SecurityKey=20260709040218&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d5026836cb7eebd1129eeeadd6ae4c5b&sv=10004&ct=android
+熊猫01,http://mgsp-hs2.live.miguvideo.com:8088/ws_x/2018/xiongmao/HD/2000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2202634723&pid=2028597139&timestamp=20260709040218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609158151&ParentNodeID=-99&assertID=2202634723&client_ip=171.8.79.254&SecurityKey=20260709040218&promotionId=&mvid=2202634723&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=837a2c38ecd5dea667f25b738325f2d2&sv=10004&ct=android
+熊猫1,http://mgsp-cty2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao01/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200699&pid=2028597139&timestamp=20260709040218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608933610&ParentNodeID=-99&assertID=2200200699&client_ip=171.8.79.254&SecurityKey=20260709040218&promotionId=&mvid=2200200699&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eceb7cf4a2af0472942daa63c7db6549&sv=10004&ct=android
+熊猫2,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao02/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200717&pid=2028597139&timestamp=20260709040218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608933640&ParentNodeID=-99&assertID=2200200717&client_ip=171.8.79.254&SecurityKey=20260709040218&promotionId=&mvid=2200200717&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=5d2c89bffc928019fac3e336212a0c3c&sv=10004&ct=android
+熊猫3,http://mgsp-yx2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao03/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200738&pid=2028597139&timestamp=20260709060207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934619&ParentNodeID=-99&assertID=2200200738&client_ip=171.8.79.254&SecurityKey=20260709060207&promotionId=&mvid=2200200738&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=153adb361969924a8a26e6cb938e73a4&sv=10004&ct=android
+熊猫4,http://mgsp-ws2.live.miguvideo.com:8088/envivo_x/2018/SD/xiongmao04/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200771&pid=2028597139&timestamp=20260709060207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608934721&ParentNodeID=-99&assertID=2200200771&client_ip=171.8.79.254&SecurityKey=20260709060207&promotionId=&mvid=2200200771&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9deb5356121a0f25ad693c36e8c54601&sv=10004&ct=android
+熊猫5,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao05/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200791&pid=2028597139&timestamp=20260709060207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608935104&ParentNodeID=-99&assertID=2200200791&client_ip=171.8.79.254&SecurityKey=20260709060207&promotionId=&mvid=2200200791&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=4d1b67e6230d04a673f3fc77609b4eca&sv=10004&ct=android
+熊猫6,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao06/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200200817&pid=2028597139&timestamp=20260709060207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608935797&ParentNodeID=-99&assertID=2200200817&client_ip=171.8.79.254&SecurityKey=20260709060207&promotionId=&mvid=2200200817&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2dbdea23dc06d2c120350d9eb122f0c&sv=10004&ct=android
+熊猫7,http://hlsztemgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao07/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192831&pid=2028597139&timestamp=20260709060207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169286&ParentNodeID=-99&assertID=2200192831&client_ip=171.8.79.254&SecurityKey=20260709060207&promotionId=&mvid=2200192831&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8acaa7db64c1c134ded2b336a38868e3&sv=10004&ct=android
+熊猫8,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao08/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192881&pid=2028597139&timestamp=20260709060207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169287&ParentNodeID=-99&assertID=2200192881&client_ip=171.8.79.254&SecurityKey=20260709060207&promotionId=&mvid=2200192881&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d92e6ed63bf1898c4bf0597e2d9c1823&sv=10004&ct=android
+熊猫9,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao09/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192899&pid=2028597139&timestamp=20260709040218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169226&ParentNodeID=-99&assertID=2200192899&client_ip=171.8.79.254&SecurityKey=20260709040218&promotionId=&mvid=2200192899&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=839e9e1d4473f2264cf5a381ec2f0a8b&sv=10004&ct=android
+熊猫10,http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/xiongmao10/1000/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699004&netType=0&sid=2200192937&pid=2028597139&timestamp=20260709040219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=609169285&ParentNodeID=-99&assertID=2200192937&client_ip=171.8.79.254&SecurityKey=20260709040219&promotionId=&mvid=2200192937&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=eff6ba1627f3db09be29130f47f1d136&sv=10004&ct=android
+新动力量创一流,http://hlszymgsplive.miguvideo.com:8080/migu/virtuallive2/5900002409/51/20210706/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5910019523&pid=2028597139&timestamp=20260709040219&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=713589837&ParentNodeID=-99&assertID=5910019523&client_ip=171.8.79.254&SecurityKey=20260709040219&promotionId=&mvid=5900002419&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a038b642347abd8d5cd24e948b105bc1&sv=10004&ct=android
 宋小宝经典小品,https://goodiptv.club/douyu/9817729
 经典小品,https://goodiptv.club/douyu/9067836
 开心锤锤,https://goodiptv.club/douyu/9018297
@@ -4226,6 +4260,7 @@ BOO,p3p://focus169.org:26571/64137e860008ec16a58031233a436c8e
 华语影视✔原,https://goodiptv.club/douyu/3928
 精彩短剧看不停,https://goodiptv.club/douyu/11824307
 经典,https://goodiptv.club/douyu/6091425
+可乐影院,https://goodiptv.club/douyu/20415
 女神金,https://goodiptv.club/douyu/747764
 热门港剧✔原,https://goodiptv.club/douyu/5522351
 特辑电影,https://goodiptv.club/douyu/3637778
@@ -4331,6 +4366,7 @@ TVB黄金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
 福建公共,https://stream1.freetv.fun/fu-jian-gong-gong-4.ctv
 福建公共,https://t.freetv.fun/live/fu-jian-gong-gong-1.m3u8
 福建公共,https://t.freetv.fun/live/fu-jian-gong-gong.m3u8
+福建旅游,https://live.264788.xyz/channel/fujianlvyou?streamid=8f26765ebf367079cef58c6b7752da1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 福建旅游,https://stream1.freetv.fun/fu-jian-lu-you-6.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you-1.m3u8
 福建旅游,https://t.freetv.fun/live/fu-jian-lu-you.m3u8
@@ -4559,13 +4595,17 @@ BBC新闻,http://api.mytv666.top/api/hk.php?id=643933626530363238356634346132623
 ◆◆◆　https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/assets/subscribe/source/b/favorite/%E8%AE%B0%C2%B7%E5%BD%95%C2%B7%E7%89%87.txt
 ◆◆◆　https://raw.githubusercontent.com/xiaoran67/update/refs/heads/main/assets/subscribe/source/b/favorite/%E8%B1%A1%E6%A3%8B%E5%85%A5%E9%97%A8.txt
 东森美洲,https://t.freetv.fun/live/dong-sen-xin-wen-1-1.m3u8
+东森美洲,https://t.freetv.fun/live/dong-sen-xin-wen-1.ts
 东森美洲,https://t.freetv.fun/live/dong-sen-zong-he-1.php
+东森美洲,https://t.freetv.fun/live/dong-sen-zong-he.php
+华数卡通,http://123.118.54.216:8686/rtp/239.3.1.80:4120
 华数卡通,http://111.196.129.242:20000/rtp/239.3.1.80:4120
 SiTV乐游,http://1.192.245.143:8188/rtp/239.16.20.111:11110
 SiTV乐游,https://live.264788.xyz/channel/leyou?streamid=c42280fbd7acfcf92be4a818db2c4677&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 SiTV乐游,https://live.264788.xyz/channel/leyou?streamid=f76a46c986423a63fe578de127ff4e1e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 SiTV乐游,https://live.264788.xyz/channel/leyou?streamid=a78c3be5e442f08c68188705bea4f11f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 SiTV乐游,https://live.264788.xyz/channel/leyou?streamid=ae6266003901f07c1ab6d3a717078d4e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+SiTV乐游,http://183.164.236.216:8888/rtp/238.1.78.151:7080
 SiTV乐游,http://171.8.168.253:8800/rtp/239.16.20.111:11110
 👨潇然,https://vdse.bdstatic.com/h265/bdb8afb3ee359f593831b68157066efb26.mp4?cd=1&hit_bd265_src=1&mpd=1&pd=19&logid=10774307531080172085&vt=-1&svt=-1&cr_max=1&s_score=-1.000000&pt=0&av=17.8&vid=16140911267690384401&mvt=-1&did=b9e4f3d31e216db4f308eb63eb2e3475&cr=1&h265_s=1&sl=233&sle=1&split=544520
 20260706 06:54:29,https://vdse.bdstatic.com//3bc628ea0ad380d9ba398f4d24a10ce7.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2024-10-18T10%3A00%3A52Z%2F-1%2Fhost%2F13891e85d2a86447ef97f48ff6f640921635cf98033e574d884b1e83822e505a&vid=15337766710822094129
@@ -4634,6 +4674,7 @@ SiTV乐游,http://171.8.168.253:8800/rtp/239.16.20.111:11110
 明珠台,https://t.freetv.fun/live/ming-zhu-1.m3u8
 明珠台,https://live.catvod.com/iptv.php?id=mztsub
 明珠台,https://t.freetv.fun/live/ming-zhu-2.m3u8
+明珠台,https://t.freetv.fun/live/ming-zhu-3.php
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 睛彩广场舞,https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
