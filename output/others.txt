@@ -1177,12 +1177,14 @@ IPTV经典电影,http://43.138.0.72:35455/yy/1382754187
 我们一家,https://wj.lmlcyp.ccwu.cc/raw/mp4/3.mp4
 25年前,https://wj.lmlcyp.ccwu.cc/raw/mp4/VDO_0012.mp4
 CHC-动作电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chcdz
+CHC-动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC-影迷电影,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=chchd
 CHC-影迷电影,http://45.78.61.93:1234/952383261
 CHC-影迷电影,http://mg.cttv.vip/952383261
 CHC-影迷电影,https://live.chinacert.cftest5.cn/cnmg/live/952383261
-翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 中国农林卫视,http://113.98.11.46:3000/956904896
+经典香港电影,https://live.chinacert.cftest5.cn/cnmg/live/625703337
+翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 
 
 ◆◆◆　https://c.cxics.com/ds/%E7%A7%92%E6%92%AD.txt
